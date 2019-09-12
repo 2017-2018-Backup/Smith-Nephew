@@ -1,0 +1,4993 @@
+<Palette FileRevision="20.1.0" Revision="20.1.1" option="0"><ItemID idValue="{2EDE4C1B-E069-440B-B2F6-C105970108E2}"/><Properties><ItemName>LV Circuit</ItemName><Images option="0"/><Time createdUniversalDateTime="2012-01-12T01:31:47" modifiedUniversalDateTime="2017-05-16T10:12:50"/></Properties><CustomData><Translation status="1"/></CustomData><Source/><Tools><Tool Revision="18.0.0" option="0"><ItemID idValue="{ADB769F7-354F-4FB3-BA01-F89D1008263B}"/><Properties><ItemName>Proposed LV Circuit</ItemName><Images option="0"/><Time createdUniversalDateTime="2012-01-12T03:27:35" modifiedUniversalDateTime="2012-01-12T03:27:35"/></Properties><Source/><ToolType>3</ToolType><StockToolRef/><Data/>
+		</Tool><Tool Revision="18.2.0" option="31"><ItemID idValue="{2ADB2676-FC0C-4991-9C69-0025D1C77529}"/><Properties><ItemName>CCP_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_2ADB2676-FC0C-4991-9C69-0025D1C77529.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_2ADB2676-FC0C-4991-9C69-0025D1C77529_2.PNG"/></Images><Description>Service Connection Point Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2014-02-26T04:51:37"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Services_SP_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Services_SP_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Transparency>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Transparency>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>CCP_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{00A7F93B-D637-461B-8BB8-B76C9588373E}"/><Properties><ItemName>End Shackle_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_00A7F93B-D637-461B-8BB8-B76C9588373E.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_00A7F93B-D637-461B-8BB8-B76C9588373E_2.PNG"/></Images><Overlay><Images option="0"><Image cx="16" cy="16" IsDark="false" resource="IDB_DYNAMIC_BLOCK" src="AcTcToolsRes.dll"/><Image cx="16" cy="16" IsDark="true" resource="IDB_DYNAMIC_BLOCK_DARK" src="AcTcToolsRes.dll"/></Images></Overlay><Description>End Shackle_NEW</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2017-05-16T09:32:10"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties><Color><BasicPropInfo><PropValue unspecified="FALSE"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3221225472"/></CreateInfo></Color><Layer><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="Equip_LV_NEW"/></BasicPropInfo><CreateInfo><LayerTableRecord isNotPlotted="FALSE" lineWeight="-3"><SymbolTableNameRecord>Equip_LV_NEW</SymbolTableNameRecord><Linetype><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="Continuous"/></BasicPropInfo></Linetype><Color><BasicPropInfo><PropValue unspecified="FALSE"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3271557122"/></CreateInfo></Color></LayerTableRecord></CreateInfo></Layer><Linetype><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Linetype><LinetypeScale><BasicPropInfo><PropValue unspecified="TRUE" valueType="3" value="0"/></BasicPropInfo></LinetypeScale><PlotStyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></PlotStyle><LineWeight><BasicPropInfo><PropValue unspecified="TRUE" valueType="2" value="0"/></BasicPropInfo></LineWeight><Transparency><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Transparency><Textstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Textstyle><Dimstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Dimstyle><Tablestyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Tablestyle></GeneralProperties><Block><BlockType>1</BlockType><BlockTypeEx>1</BlockTypeEx><BlockName>LV_End Shackle_NEW</BlockName><SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile><InsertAs>1</InsertAs><XrefType>0</XrefType><Scale>1</Scale><AuxiliaryScale>NONE</AuxiliaryScale><Rotation>0</Rotation><PromptRotation>1</PromptRotation><Explode>0</Explode></Block><DynamicProperties/></Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{82165778-5658-44D4-B636-3A058D41D698}"/><Properties><ItemName>ENDCAP_LV_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\ENDCAP_LV_NEW32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\ENDCAP_LV_NEW64.PNG"/></Images><Description>Existing Connector Node Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-08-02T19:25:15"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_LV_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_LV_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>LV_ENDCAP_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{93AB1C7B-545F-4169-9DA8-215E48B1B108}"/><Properties><ItemName>LV_OH_LINKS_CLOSED_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\LV_OH_LINKS_CLOSED_NEW32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\LV_OH_LINKS_CLOSED_NEW64.PNG"/></Images><Overlay><Images option="0"><Image cx="16" cy="16" IsDark="false" resource="IDB_DYNAMIC_BLOCK" src="AcTcToolsRes.dll"/><Image cx="16" cy="16" IsDark="true" resource="IDB_DYNAMIC_BLOCK_DARK" src="AcTcToolsRes.dll"/></Images></Overlay><Description>Existing Closed LV Links Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-12-20T09:16:16"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_SP_LV_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_SP_LV_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>1</BlockTypeEx>
+					<BlockName>LV_OH_LINKS_CLOSED_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>0</Explode>
+					<ObjectInfo>
+						<Objects>
+							<Object objectId="2125861256">
+								<AcRxClassInfo className="AcDbDictionary"/>
+								<ObjectData>
+									<BaseData>
+										<Dictionary treatElementsAsHard="TRUE">
+											<Entries>
+												<Entry keyName="AppDataCache" objectId="2125861240"/>
+											</Entries>
+										</Dictionary>
+									</BaseData>
+								</ObjectData>
+							</Object>
+							<Object objectId="2125861240">
+								<AcRxClassInfo className="AcDbDictionary"/>
+								<ObjectData>
+									<BaseData>
+										<Dictionary treatElementsAsHard="TRUE">
+											<Entries>
+												<Entry keyName="ACAD_ENHANCEDBLOCKDATA" objectId="2125861488"/>
+												<Entry keyName="ACAD_ENHANCEDBLOCKHISTORY" objectId="2125861480"/>
+											</Entries>
+										</Dictionary>
+									</BaseData>
+								</ObjectData>
+							</Object>
+							<Object objectId="2125861488">
+								<AcRxClassInfo className="AcDbDictionary"/>
+								<ObjectData>
+									<BaseData>
+										<Dictionary treatElementsAsHard="TRUE">
+											<Entries>
+												<Entry keyName="16" objectId="2125861496"/>
+												<Entry keyName="20" objectId="2125861504"/>
+												<Entry keyName="24" objectId="2125861512"/>
+												<Entry keyName="25" objectId="2125861520"/>
+											</Entries>
+										</Dictionary>
+									</BaseData>
+								</ObjectData>
+							</Object>
+							<Object objectId="2125861496">
+								<AcRxClassInfo className="AcDbXrecord"/>
+								<ObjectData>
+									<BaseData>
+										<Xrecord mergeStyle="1"/>
+										<Resbufs>
+											<Resbuf restype="1071">
+												<Long>11324608</Long>
+											</Resbuf>
+											<Resbuf restype="1071">
+												<Long>15407465</Long>
+											</Resbuf>
+											<Resbuf restype="70">
+												<Long>25</Long>
+											</Resbuf>
+											<Resbuf restype="70">
+												<Long>104</Long>
+											</Resbuf>
+											<Resbuf restype="10">
+												<Point>
+													<X>-2.220446049250313e-016</X>
+													<Y>5</Y>
+													<Z>0</Z>
+												</Point>
+											</Resbuf>
+										</Resbufs>
+									</BaseData>
+								</ObjectData>
+							</Object>
+							<Object objectId="2125861504">
+								<AcRxClassInfo className="AcDbXrecord"/>
+								<ObjectData>
+									<BaseData>
+										<Xrecord mergeStyle="1"/>
+										<Resbufs>
+											<Resbuf restype="1071">
+												<Long>50242585</Long>
+											</Resbuf>
+											<Resbuf restype="1071">
+												<Long>68333042</Long>
+											</Resbuf>
+											<Resbuf restype="70">
+												<Long>25</Long>
+											</Resbuf>
+											<Resbuf restype="70">
+												<Long>104</Long>
+											</Resbuf>
+											<Resbuf restype="10">
+												<Point>
+													<X>-2.220446049250313e-016</X>
+													<Y>5</Y>
+													<Z>0</Z>
+												</Point>
+											</Resbuf>
+											<Resbuf restype="10">
+												<Point>
+													<X>0.704278354061761</X>
+													<Y>5.704278354061762</Y>
+													<Z>0</Z>
+												</Point>
+											</Resbuf>
+											<Resbuf restype="10">
+												<Point>
+													<X>0</X>
+													<Y>0</Y>
+													<Z>-1</Z>
+												</Point>
+											</Resbuf>
+											<Resbuf restype="10">
+												<Point>
+													<X>0.9959999999999429</X>
+													<Y>5</Y>
+													<Z>0</Z>
+												</Point>
+											</Resbuf>
+										</Resbufs>
+									</BaseData>
+								</ObjectData>
+							</Object>
+							<Object objectId="2125861512">
+								<AcRxClassInfo className="AcDbXrecord"/>
+								<ObjectData>
+									<BaseData>
+										<Xrecord mergeStyle="1"/>
+										<Resbufs>
+											<Resbuf restype="1071">
+												<Long>4195796</Long>
+											</Resbuf>
+											<Resbuf restype="1071">
+												<Long>5656503</Long>
+											</Resbuf>
+											<Resbuf restype="70">
+												<Long>25</Long>
+											</Resbuf>
+											<Resbuf restype="70">
+												<Long>104</Long>
+											</Resbuf>
+											<Resbuf restype="10">
+												<Point>
+													<X>-2.220446049250313e-016</X>
+													<Y>3.983999999999773</Y>
+													<Z>0</Z>
+												</Point>
+											</Resbuf>
+										</Resbufs>
+									</BaseData>
+								</ObjectData>
+							</Object>
+							<Object objectId="2125861520">
+								<AcRxClassInfo className="AcDbXrecord"/>
+								<ObjectData>
+									<BaseData>
+										<Xrecord mergeStyle="1"/>
+										<Resbufs>
+											<Resbuf restype="1071">
+												<Long>1553528</Long>
+											</Resbuf>
+											<Resbuf restype="1071">
+												<Long>2094574</Long>
+											</Resbuf>
+											<Resbuf restype="70">
+												<Long>25</Long>
+											</Resbuf>
+											<Resbuf restype="70">
+												<Long>104</Long>
+											</Resbuf>
+											<Resbuf restype="40">
+												<Real>0</Real>
+											</Resbuf>
+										</Resbufs>
+									</BaseData>
+								</ObjectData>
+							</Object>
+							<Object objectId="2125861480">
+								<AcRxClassInfo className="AcDbXrecord"/>
+								<ObjectData>
+									<BaseData>
+										<Xrecord mergeStyle="1"/>
+										<Resbufs>
+											<Resbuf restype="1070">
+												<Long>3</Long>
+											</Resbuf>
+											<Resbuf restype="1071">
+												<Long>16</Long>
+											</Resbuf>
+											<Resbuf restype="300">
+												<Text><![CDATA[Position1 Y]]></Text>
+											</Resbuf>
+											<Resbuf restype="40">
+												<Real>5</Real>
+											</Resbuf>
+										</Resbufs>
+									</BaseData>
+								</ObjectData>
+							</Object>
+						</Objects>
+						<BlockReference>
+							<Object objectId="2125861152">
+								<AcRxClassInfo className="AcDbBlockReference"/>
+								<ObjectData>
+									<ExtensionDictionary>
+										<Dictionary treatElementsAsHard="TRUE">
+											<Entries>
+												<Entry keyName="AcDbBlockRepresentation" objectId="2125861256"/>
+											</Entries>
+										</Dictionary>
+									</ExtensionDictionary>
+								</ObjectData>
+							</Object>
+						</BlockReference>
+					</ObjectInfo>
+				</Block>
+				<DynamicProperties/>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{44E9A9C1-CCDC-4F5D-9A1C-268630B1A9FB}"/><Properties><ItemName>LV_OH_LINKS_DISTFUSE_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\LV_OH_LINKS_DISTFUSE_NEW32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\LV_OH_LINKS_DISTFUSE_NEW64.PNG"/></Images><Description>Existing Closed HV DOF Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-08-02T19:30:13"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_LV_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_LV_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>LV_OH_LINKS_DISTFUSE_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{89DF90D3-091F-4248-9E07-86466C0BA070}"/><Properties><ItemName>LV_UG_DFUSE_CLOSED_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_89DF90D3-091F-4248-9E07-86466C0BA070.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_89DF90D3-091F-4248-9E07-86466C0BA070_2.PNG"/></Images><Description>New Fuse Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-08-02T19:31:35"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_LV_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_LV_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>LV_UG_DFUSE_CLOSED_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{69F47BFC-E076-434C-BC82-D8B3E0FE6C9A}"/><Properties><ItemName>LV_UG_INDPILL_1SW_NEW</ItemName><Images option="2"><Image cx="32" cy="32" IsDark="false" src="Images\LV_UG_INDPILL_1SW_NEW32.PNG"/></Images><Description>Industrial Pillar 1 Switch</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T13:03:41"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_LV_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_LV_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>LV_UG_INDPILL_1SW_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{5EDDF620-420A-4527-AB25-799AD23B5EE6}"/><Properties><ItemName>LV_UG_INDPILL_2SW_NEW</ItemName><Images option="2"><Image cx="32" cy="32" IsDark="false" src="Images\LV_UG_INDPILL_2SW_NEW32.PNG"/></Images><Description>Industrial Pillar 2 Switches</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T13:03:41"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_LV_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_LV_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>LV_UG_INDPILL_2SW_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{FB92DE44-F817-4834-9AEC-601AB1EEAB9B}"/><Properties><ItemName>LV_UG_LINKS_BOX_OPEN_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\LV_UG_LINKS_BOX_OPEN_NEW32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\LV_UG_LINKS_BOX_OPEN_NEW64.PNG"/></Images><Description>New Open LV Link Box Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T13:03:41"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_LV_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_LV_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>LV_UG_LINKS_BOX_OPEN_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{7E2942DF-75CE-4702-855A-484D1DFC66AD}"/><Properties><ItemName>LV_UG_LINKS_BOX_SOLID_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\LV_UG_LINKS_BOX_SOLID_NEW32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\LV_UG_LINKS_BOX_SOLID_NEW64.PNG"/></Images><Description>New Solid LV Link Box Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T13:03:41"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_LV_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_LV_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>LV_UG_LINKS_BOX_SOLID_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{7FC43A0D-B602-42E8-869C-F8571A2D082C}"/><Properties><ItemName>LV_UG_LINKS_CLOSED_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\LV_UG_LINKS_CLOSED_NEW32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\LV_UG_LINKS_CLOSED_NEW64.PNG"/></Images><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-08-02T19:45:54"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_LV_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_LV_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>LV_UG_LINKS_CLOSED_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>0</Explode>
+					<ObjectInfo>
+						<Objects>
+							<Object objectId="2116899560">
+								<AcRxClassInfo className="AcDbDictionary"/>
+								<ObjectData>
+									<BaseData>
+										<Dictionary treatElementsAsHard="TRUE">
+											<Entries>
+												<Entry keyName="AppDataCache" objectId="2116899576"/>
+											</Entries>
+										</Dictionary>
+									</BaseData>
+								</ObjectData>
+							</Object>
+							<Object objectId="2116899576">
+								<AcRxClassInfo className="AcDbDictionary"/>
+								<ObjectData>
+									<BaseData>
+										<Dictionary treatElementsAsHard="TRUE">
+											<Entries>
+												<Entry keyName="ACAD_ENHANCEDBLOCKDATA" objectId="2116899632"/>
+												<Entry keyName="ACAD_ENHANCEDBLOCKHISTORY" objectId="2116899624"/>
+											</Entries>
+										</Dictionary>
+									</BaseData>
+								</ObjectData>
+							</Object>
+							<Object objectId="2116899632">
+								<AcRxClassInfo className="AcDbDictionary"/>
+								<ObjectData>
+									<BaseData>
+										<Dictionary treatElementsAsHard="TRUE">
+											<Entries>
+												<Entry keyName="1" objectId="2116899640"/>
+												<Entry keyName="10" objectId="2116899664"/>
+												<Entry keyName="5" objectId="2116899648"/>
+												<Entry keyName="6" objectId="2116899656"/>
+											</Entries>
+										</Dictionary>
+									</BaseData>
+								</ObjectData>
+							</Object>
+							<Object objectId="2116899640">
+								<AcRxClassInfo className="AcDbXrecord"/>
+								<ObjectData>
+									<BaseData>
+										<Xrecord mergeStyle="1"/>
+										<Resbufs>
+											<Resbuf restype="1071">
+												<Long>11324608</Long>
+											</Resbuf>
+											<Resbuf restype="1071">
+												<Long>15407465</Long>
+											</Resbuf>
+											<Resbuf restype="70">
+												<Long>25</Long>
+											</Resbuf>
+											<Resbuf restype="70">
+												<Long>104</Long>
+											</Resbuf>
+											<Resbuf restype="10">
+												<Point>
+													<X>0</X>
+													<Y>5.4</Y>
+													<Z>0</Z>
+												</Point>
+											</Resbuf>
+										</Resbufs>
+									</BaseData>
+								</ObjectData>
+							</Object>
+							<Object objectId="2116899664">
+								<AcRxClassInfo className="AcDbXrecord"/>
+								<ObjectData>
+									<BaseData>
+										<Xrecord mergeStyle="1"/>
+										<Resbufs>
+											<Resbuf restype="1071">
+												<Long>4195796</Long>
+											</Resbuf>
+											<Resbuf restype="1071">
+												<Long>5656503</Long>
+											</Resbuf>
+											<Resbuf restype="70">
+												<Long>25</Long>
+											</Resbuf>
+											<Resbuf restype="70">
+												<Long>104</Long>
+											</Resbuf>
+											<Resbuf restype="10">
+												<Point>
+													<X>0</X>
+													<Y>0</Y>
+													<Z>0</Z>
+												</Point>
+											</Resbuf>
+										</Resbufs>
+									</BaseData>
+								</ObjectData>
+							</Object>
+							<Object objectId="2116899648">
+								<AcRxClassInfo className="AcDbXrecord"/>
+								<ObjectData>
+									<BaseData>
+										<Xrecord mergeStyle="1"/>
+										<Resbufs>
+											<Resbuf restype="1071">
+												<Long>1553528</Long>
+											</Resbuf>
+											<Resbuf restype="1071">
+												<Long>2094574</Long>
+											</Resbuf>
+											<Resbuf restype="70">
+												<Long>25</Long>
+											</Resbuf>
+											<Resbuf restype="70">
+												<Long>104</Long>
+											</Resbuf>
+											<Resbuf restype="40">
+												<Real>0</Real>
+											</Resbuf>
+										</Resbufs>
+									</BaseData>
+								</ObjectData>
+							</Object>
+							<Object objectId="2116899656">
+								<AcRxClassInfo className="AcDbXrecord"/>
+								<ObjectData>
+									<BaseData>
+										<Xrecord mergeStyle="1"/>
+										<Resbufs>
+											<Resbuf restype="1071">
+												<Long>50242585</Long>
+											</Resbuf>
+											<Resbuf restype="1071">
+												<Long>68333042</Long>
+											</Resbuf>
+											<Resbuf restype="70">
+												<Long>25</Long>
+											</Resbuf>
+											<Resbuf restype="70">
+												<Long>104</Long>
+											</Resbuf>
+											<Resbuf restype="10">
+												<Point>
+													<X>0</X>
+													<Y>0</Y>
+													<Z>0</Z>
+												</Point>
+											</Resbuf>
+											<Resbuf restype="10">
+												<Point>
+													<X>1.5</X>
+													<Y>0</Y>
+													<Z>0</Z>
+												</Point>
+											</Resbuf>
+											<Resbuf restype="10">
+												<Point>
+													<X>0</X>
+													<Y>0</Y>
+													<Z>-1</Z>
+												</Point>
+											</Resbuf>
+											<Resbuf restype="10">
+												<Point>
+													<X>1.5</X>
+													<Y>0</Y>
+													<Z>0</Z>
+												</Point>
+											</Resbuf>
+										</Resbufs>
+									</BaseData>
+								</ObjectData>
+							</Object>
+							<Object objectId="2116899624">
+								<AcRxClassInfo className="AcDbXrecord"/>
+								<ObjectData>
+									<BaseData>
+										<Xrecord mergeStyle="1"/>
+										<Resbufs>
+											<Resbuf restype="1070">
+												<Long>3</Long>
+											</Resbuf>
+											<Resbuf restype="1071">
+												<Long>1</Long>
+											</Resbuf>
+											<Resbuf restype="300">
+												<Text><![CDATA[Position1 Y]]></Text>
+											</Resbuf>
+											<Resbuf restype="40">
+												<Real>5.4</Real>
+											</Resbuf>
+										</Resbufs>
+									</BaseData>
+								</ObjectData>
+							</Object>
+						</Objects>
+						<BlockReference>
+							<Object objectId="2116899224">
+								<AcRxClassInfo className="AcDbBlockReference"/>
+								<ObjectData>
+									<ExtensionDictionary>
+										<Dictionary treatElementsAsHard="TRUE">
+											<Entries>
+												<Entry keyName="AcDbBlockRepresentation" objectId="2116899560"/>
+											</Entries>
+										</Dictionary>
+									</ExtensionDictionary>
+								</ObjectData>
+							</Object>
+						</BlockReference>
+					</ObjectInfo>
+				</Block>
+				<DynamicProperties/>
+			</Data>
+		</Tool><Tool Revision="20.1.0" option="31"><ItemID idValue="{EFA1D34D-8246-4BCA-A6BF-3B5085544930}"/><Properties><ItemName>LV_UG_LINKS_OPEN_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_EFA1D34D-8246-4BCA-A6BF-3B5085544930.PNG"/><Image cx="32" cy="32" IsDark="true" src="Images\LV_UG_LINKS_OPEN_NEW32_dark.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_EFA1D34D-8246-4BCA-A6BF-3B5085544930_2.PNG"/><Image cx="64" cy="64" IsDark="true" src="Images\LV_UG_LINKS_OPEN_NEW64_dark.PNG"/></Images><Overlay><Images option="0"><Image cx="0" cy="0" IsDark="false" resource="IDB_DYNAMIC_BLOCK" src="AcTcToolsRes.dll"/><Image cx="16" cy="16" IsDark="true" resource="IDB_DYNAMIC_BLOCK_DARK" src="AcTcToolsRes.dll"/><Image cx="16" cy="16" IsDark="true" resource="IDB_DYNAMIC_BLOCK_DARK" src="AcTcToolsRes.dll"/><Image cx="0" cy="0" IsDark="true" resource="IDB_DYNAMIC_BLOCK_DARK" src="AcTcToolsRes.dll"/></Images></Overlay><Time createdUniversalDateTime="2015-11-04T22:03:41" modifiedUniversalDateTime="2015-11-04T22:03:41"/></Properties><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data><GeneralProperties><Color><BasicPropInfo><PropValue unspecified="FALSE"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3221225472"/></CreateInfo></Color><Layer><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="Equip_LV_NEW"/></BasicPropInfo><CreateInfo><LayerTableRecord isNotPlotted="FALSE" lineWeight="-3"><SymbolTableNameRecord>Equip_LV_NEW</SymbolTableNameRecord><Linetype><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="Continuous"/></BasicPropInfo></Linetype><Color><BasicPropInfo><PropValue unspecified="FALSE"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3271557122"/></CreateInfo></Color></LayerTableRecord></CreateInfo></Layer><Linetype><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="ByLayer"/></BasicPropInfo></Linetype><LinetypeScale><BasicPropInfo><PropValue unspecified="FALSE" valueType="3" value="1"/></BasicPropInfo></LinetypeScale><PlotStyle><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="ByLayer"/></BasicPropInfo></PlotStyle><LineWeight><BasicPropInfo><PropValue unspecified="FALSE" valueType="2" value="-1"/></BasicPropInfo></LineWeight><Transparency><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="ByLayer"/></BasicPropInfo></Transparency><Textstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Textstyle><Dimstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Dimstyle><Tablestyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Tablestyle></GeneralProperties><Block><BlockType>1</BlockType><BlockTypeEx>1</BlockTypeEx><BlockName>LV_UG_LINKS_OPEN_NEW</BlockName><SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile><InsertAs>1</InsertAs><XrefType>0</XrefType><Scale>1</Scale><AuxiliaryScale>NONE</AuxiliaryScale><Rotation>0</Rotation><PromptRotation>0</PromptRotation><Explode>0</Explode><ObjectInfo><Objects><Object objectId="8796085640624"><AcRxClassInfo className="AcDbDictionary"/><ObjectData><BaseData><Dictionary treatElementsAsHard="TRUE"><Entries><Entry keyName="AppDataCache" objectId="8796085645536"/></Entries></Dictionary></BaseData></ObjectData></Object><Object objectId="8796085645536"><AcRxClassInfo className="AcDbDictionary"/><ObjectData><BaseData><Dictionary treatElementsAsHard="TRUE"><Entries><Entry keyName="ACAD_ENHANCEDBLOCKDATA" objectId="8796085645552"/><Entry keyName="ACAD_ENHANCEDBLOCKHDATA" objectId="8796085645632"/><Entry keyName="ACAD_ENHANCEDBLOCKHISTORY" objectId="8796085645648"/></Entries></Dictionary></BaseData></ObjectData></Object><Object objectId="8796085645552"><AcRxClassInfo className="AcDbDictionary"/><ObjectData><BaseData><Dictionary treatElementsAsHard="TRUE"><Entries><Entry keyName="1" objectId="8796085645568"/><Entry keyName="10" objectId="8796085645584"/><Entry keyName="5" objectId="8796085645600"/><Entry keyName="9" objectId="8796085645616"/></Entries></Dictionary></BaseData></ObjectData></Object><Object objectId="8796085645568"><AcRxClassInfo className="AcDbXrecord"/><ObjectData><BaseData><Xrecord mergeStyle="1"/><Resbufs><Resbuf restype="1071"><Long>11324608</Long></Resbuf><Resbuf restype="1071"><Long>15407465</Long></Resbuf><Resbuf restype="70"><Long>25</Long></Resbuf><Resbuf restype="70"><Long>104</Long></Resbuf><Resbuf restype="10"><Point><X>-5.551115123125783e-017</X><Y>-1.110223024625157e-016</Y><Z>0</Z></Point></Resbuf></Resbufs></BaseData></ObjectData></Object><Object objectId="8796085645584"><AcRxClassInfo className="AcDbXrecord"/><ObjectData><BaseData><Xrecord mergeStyle="1"/><Resbufs><Resbuf restype="1071"><Long>1553528</Long></Resbuf><Resbuf restype="1071"><Long>2094574</Long></Resbuf><Resbuf restype="70"><Long>25</Long></Resbuf><Resbuf restype="70"><Long>104</Long></Resbuf><Resbuf restype="40"><Real>0</Real></Resbuf></Resbufs></BaseData></ObjectData></Object><Object objectId="8796085645600"><AcRxClassInfo className="AcDbXrecord"/><ObjectData><BaseData><Xrecord mergeStyle="1"/><Resbufs><Resbuf restype="1071"><Long>50242585</Long></Resbuf><Resbuf restype="1071"><Long>68333042</Long></Resbuf><Resbuf restype="70"><Long>25</Long></Resbuf><Resbuf restype="70"><Long>104</Long></Resbuf><Resbuf restype="10"><Point><X>0</X><Y>0</Y><Z>0</Z></Point></Resbuf><Resbuf restype="10"><Point><X>9.119332318733716e-017</X><Y>1.489349175801586</Y><Z>0</Z></Point></Resbuf><Resbuf restype="10"><Point><X>0</X><Y>0</Y><Z>-1</Z></Point></Resbuf><Resbuf restype="10"><Point><X>1.489349175801586</X><Y>0</Y><Z>0</Z></Point></Resbuf></Resbufs></BaseData></ObjectData></Object><Object objectId="8796085645616"><AcRxClassInfo className="AcDbXrecord"/><ObjectData><BaseData><Xrecord mergeStyle="1"/><Resbufs><Resbuf restype="1071"><Long>4195796</Long></Resbuf><Resbuf restype="1071"><Long>5656503</Long></Resbuf><Resbuf restype="70"><Long>25</Long></Resbuf><Resbuf restype="70"><Long>104</Long></Resbuf><Resbuf restype="10"><Point><X>0</X><Y>0</Y><Z>0</Z></Point></Resbuf></Resbufs></BaseData></ObjectData></Object><Object objectId="8796085645632"><AcRxClassInfo className="AcDbDictionary"/><ObjectData><BaseData><Dictionary treatElementsAsHard="FALSE"/></BaseData></ObjectData></Object><Object objectId="8796085645648"><AcRxClassInfo className="AcDbXrecord"/><ObjectData><BaseData><Xrecord mergeStyle="1"/><Resbufs><Resbuf restype="1070"><Long>3</Long></Resbuf></Resbufs></BaseData></ObjectData></Object></Objects><BlockReference><Object objectId="8796085640592"><AcRxClassInfo className="AcDbBlockReference"/><ObjectData><ExtensionDictionary><Dictionary treatElementsAsHard="TRUE"><Entries><Entry keyName="AcDbBlockRepresentation" objectId="8796085640624"/></Entries></Dictionary></ExtensionDictionary></ObjectData></Object></BlockReference></ObjectInfo></Block></Data></Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{F347E7F3-7B37-43C9-B368-4E081E5F48A5}"/><Properties><ItemName>LV_UG_LINKS_DISTFUSE_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\LV_UG_LINKS_DISTFUSE_NEW32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\LV_UG_LINKS_DISTFUSE_NEW64.PNG"/></Images><Description>Existing Fused LV Link Box Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T13:03:41"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_LV_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_LV_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>LV_UG_LINKS_DISTFUSE_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{4C845B4F-DA0A-4D47-952F-0F16EB3B03BF}"/><Properties><ItemName>LV_UG_LINKS_FUSE_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\LV_UG_LINKS_FUSE_NEW32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\LV_UG_LINKS_FUSE_NEW64.PNG"/></Images><Description>New Fused LV Link Box Symbol </Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T13:03:41"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_LV_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_LV_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>LV_UG_LINKS_FUSE_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{F3BD4CD0-3A42-412C-8AE8-23F4A309FEFB}"/><Properties><ItemName>LV_UG_LINKS_REMOVABLE_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_F3BD4CD0-3A42-412C-8AE8-23F4A309FEFB.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_F3BD4CD0-3A42-412C-8AE8-23F4A309FEFB_2.PNG"/></Images><Description>New Removeable LV Link Box Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T13:03:41"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_LV_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_LV_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>LV_UG_LINKS_REMOVABLE_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{0F0FA3B3-A704-453B-B9C2-6F7053DED07B}"/><Properties><ItemName>LV_UG_LINKS_SOLID_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\LV_UG_LINKS_SOLID_NEW32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\LV_UG_LINKS_SOLID_NEW64.PNG"/></Images><Description>New Solid LV Link Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T13:03:41"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_LV_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_LV_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>LV_UG_LINKS_SOLID_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{D2F9EDCC-B650-4B4C-B62D-744435E23C22}"/><Properties><ItemName>LV_UG_SW_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\LV_UG_SW_NEW32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\LV_UG_SW_NEW64.PNG"/></Images><Overlay><Images option="0"><Image cx="16" cy="16" IsDark="false" resource="IDB_DYNAMIC_BLOCK" src="AcTcToolsRes.dll"/><Image cx="16" cy="16" IsDark="true" resource="IDB_DYNAMIC_BLOCK_DARK" src="AcTcToolsRes.dll"/></Images></Overlay><Description>New Fuse Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T13:03:41"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_LV_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_LV_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>1</BlockTypeEx>
+					<BlockName>LV_UG_SW_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+				<DynamicProperties/>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{154BE7EE-93B0-499E-B2C3-297383095899}"/><Properties><ItemName>PANEL_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_154BE7EE-93B0-499E-B2C3-297383095899.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_154BE7EE-93B0-499E-B2C3-297383095899_2.PNG"/></Images><Description>New Panel Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T13:03:41"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_LV_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_LV_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>PANEL_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{7C4BC3E1-8FC1-4F18-8541-A364CCC90CD7}"/><Properties><ItemName>STJ_LV_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\STJ_LV_NEW32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\STJ_LV_NEW64.PNG"/></Images><Description>New Straight Through Joint Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-07-23T08:42:20"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_SP_LV_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_SP_LV_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>LV_STJ_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{7A3354BA-BDCA-4E81-B35A-325FEA7987E2}"/><Properties><ItemName>UGOH_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_7A3354BA-BDCA-4E81-B35A-325FEA7987E2.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_7A3354BA-BDCA-4E81-B35A-325FEA7987E2_2.PNG"/></Images><Description>Exisitng UGOH Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-08-02T19:36:16"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_LV_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_LV_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>UGOH_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{90141DCD-6333-415E-AAD8-3C52883FCA0D}"/><Properties><Images option="0"/><Time createdUniversalDateTime="2012-01-12T03:27:41" modifiedUniversalDateTime="2012-01-12T03:27:41"/></Properties><Source/><ToolType>4</ToolType><StockToolRef/><Data/>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{672232C1-4F29-4F77-9C34-06D1E1303E02}"/><Properties><ItemName>Existing LV Circuit</ItemName><Images option="0"/><Time createdUniversalDateTime="2012-01-12T03:27:44" modifiedUniversalDateTime="2012-01-12T03:27:44"/></Properties><Source/><ToolType>3</ToolType><StockToolRef/><Data/>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{3903DC0A-1EF5-43B4-BC9F-CB967F31E1CA}"/><Properties><ItemName>CCP_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_3903DC0A-1EF5-43B4-BC9F-CB967F31E1CA.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_3903DC0A-1EF5-43B4-BC9F-CB967F31E1CA_2.PNG"/></Images><Description>Service Connection Point Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-12-20T16:35:27"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Services_SP_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Services_SP_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>CCP_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{0CECBE44-9CB8-4C5D-B552-6643D168BF53}"/><Properties><ItemName>End Shackle_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_0CECBE44-9CB8-4C5D-B552-6643D168BF53.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_0CECBE44-9CB8-4C5D-B552-6643D168BF53_2.PNG"/></Images><Overlay><Images option="0"><Image cx="16" cy="16" IsDark="false" resource="IDB_DYNAMIC_BLOCK" src="AcTcToolsRes.dll"/><Image cx="16" cy="16" IsDark="true" resource="IDB_DYNAMIC_BLOCK_DARK" src="AcTcToolsRes.dll"/></Images></Overlay><Description>Exisitng Pole Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-07-23T13:47:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_LV_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_LV_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>1</BlockTypeEx>
+					<BlockName>LV_End Shackle_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+				<DynamicProperties/>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{662FB359-84C6-465C-8F79-B1E88D2400B3}"/><Properties><ItemName>ENDCAP_LV_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\ENDCAP_LV_EXT32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\ENDCAP_LV_EXT64.PNG"/></Images><Description>Existing Connector Node Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-08-02T19:29:17"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_LV_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_LV_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>LV_ENDCAP_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{A90D3025-A9F3-4F9F-8402-67228024596A}"/><Properties><ItemName>LV_OH_LINKS_CLOSED_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\LV_OH_LINKS_CLOSED_EXT32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\LV_OH_LINKS_CLOSED_EXT64.PNG"/></Images><Overlay><Images option="0"><Image cx="16" cy="16" IsDark="false" resource="IDB_DYNAMIC_BLOCK" src="AcTcToolsRes.dll"/><Image cx="16" cy="16" IsDark="true" resource="IDB_DYNAMIC_BLOCK_DARK" src="AcTcToolsRes.dll"/></Images></Overlay><Description>Existing Closed LV Links Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-12-20T09:17:47"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_SP_LV_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_SP_LV_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>1</BlockTypeEx>
+					<BlockName>LV_OH_LINKS_CLOSED_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>0</Explode>
+					<ObjectInfo>
+						<Objects>
+							<Object objectId="2125861328">
+								<AcRxClassInfo className="AcDbDictionary"/>
+								<ObjectData>
+									<BaseData>
+										<Dictionary treatElementsAsHard="TRUE">
+											<Entries>
+												<Entry keyName="AppDataCache" objectId="2125861320"/>
+											</Entries>
+										</Dictionary>
+									</BaseData>
+								</ObjectData>
+							</Object>
+							<Object objectId="2125861320">
+								<AcRxClassInfo className="AcDbDictionary"/>
+								<ObjectData>
+									<BaseData>
+										<Dictionary treatElementsAsHard="TRUE">
+											<Entries>
+												<Entry keyName="ACAD_ENHANCEDBLOCKDATA" objectId="2125861680"/>
+											</Entries>
+										</Dictionary>
+									</BaseData>
+								</ObjectData>
+							</Object>
+							<Object objectId="2125861680">
+								<AcRxClassInfo className="AcDbDictionary"/>
+								<ObjectData>
+									<BaseData>
+										<Dictionary treatElementsAsHard="TRUE">
+											<Entries>
+												<Entry keyName="1" objectId="2125861688"/>
+												<Entry keyName="8" objectId="2125861696"/>
+											</Entries>
+										</Dictionary>
+									</BaseData>
+								</ObjectData>
+							</Object>
+							<Object objectId="2125861688">
+								<AcRxClassInfo className="AcDbXrecord"/>
+								<ObjectData>
+									<BaseData>
+										<Xrecord mergeStyle="1"/>
+										<Resbufs>
+											<Resbuf restype="1071">
+												<Long>11323277</Long>
+											</Resbuf>
+											<Resbuf restype="1071">
+												<Long>15401870</Long>
+											</Resbuf>
+											<Resbuf restype="70">
+												<Long>25</Long>
+											</Resbuf>
+											<Resbuf restype="70">
+												<Long>104</Long>
+											</Resbuf>
+											<Resbuf restype="10">
+												<Point>
+													<X>0</X>
+													<Y>0</Y>
+													<Z>0</Z>
+												</Point>
+											</Resbuf>
+											<Resbuf restype="10">
+												<Point>
+													<X>1.255020080321357e-016</X>
+													<Y>5</Y>
+													<Z>0</Z>
+												</Point>
+											</Resbuf>
+											<Resbuf restype="10">
+												<Point>
+													<X>0</X>
+													<Y>0</Y>
+													<Z>-1</Z>
+												</Point>
+											</Resbuf>
+											<Resbuf restype="10">
+												<Point>
+													<X>10</X>
+													<Y>0</Y>
+													<Z>0</Z>
+												</Point>
+											</Resbuf>
+										</Resbufs>
+									</BaseData>
+								</ObjectData>
+							</Object>
+							<Object objectId="2125861696">
+								<AcRxClassInfo className="AcDbXrecord"/>
+								<ObjectData>
+									<BaseData>
+										<Xrecord mergeStyle="1"/>
+										<Resbufs>
+											<Resbuf restype="1071">
+												<Long>82519608</Long>
+											</Resbuf>
+											<Resbuf restype="1071">
+												<Long>111249311</Long>
+											</Resbuf>
+											<Resbuf restype="70">
+												<Long>25</Long>
+											</Resbuf>
+											<Resbuf restype="70">
+												<Long>104</Long>
+											</Resbuf>
+											<Resbuf restype="40">
+												<Real>0</Real>
+											</Resbuf>
+										</Resbufs>
+									</BaseData>
+								</ObjectData>
+							</Object>
+						</Objects>
+						<BlockReference>
+							<Object objectId="2125861184">
+								<AcRxClassInfo className="AcDbBlockReference"/>
+								<ObjectData>
+									<ExtensionDictionary>
+										<Dictionary treatElementsAsHard="TRUE">
+											<Entries>
+												<Entry keyName="AcDbBlockRepresentation" objectId="2125861328"/>
+											</Entries>
+										</Dictionary>
+									</ExtensionDictionary>
+								</ObjectData>
+							</Object>
+						</BlockReference>
+					</ObjectInfo>
+				</Block>
+				<DynamicProperties/>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{867F5964-5AC6-415B-8C43-2925F175CB09}"/><Properties><ItemName>LV_OH_LINKS_DISTFUSE_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\LV_OH_LINKS_DISTFUSE_EXT32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\LV_OH_LINKS_DISTFUSE_EXT64.PNG"/></Images><Description>Existing Closed HV DOF Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T13:03:41"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_LV_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_LV_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>LV_OH_LINKS_DISTFUSE_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{A30AC079-A95D-4127-BC7F-A77918E5BF94}"/><Properties><ItemName>LV_OH_LINKS_OPEN_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\LV_OH_LINKS_OPEN_EXT32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\LV_OH_LINKS_OPEN_EXT64.PNG"/></Images><Overlay><Images option="0"><Image cx="16" cy="16" IsDark="false" resource="IDB_DYNAMIC_BLOCK" src="AcTcToolsRes.dll"/><Image cx="16" cy="16" IsDark="true" resource="IDB_DYNAMIC_BLOCK_DARK" src="AcTcToolsRes.dll"/></Images></Overlay><Description>Exisitng Open LV Links Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-12-20T09:18:02"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_SP_LV_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_SP_LV_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>1</BlockTypeEx>
+					<BlockName>LV_OH_LINKS_OPEN_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>0</Explode>
+					<ObjectInfo>
+						<Objects>
+							<Object objectId="2125861360">
+								<AcRxClassInfo className="AcDbDictionary"/>
+								<ObjectData>
+									<BaseData>
+										<Dictionary treatElementsAsHard="TRUE">
+											<Entries>
+												<Entry keyName="AppDataCache" objectId="2125861352"/>
+											</Entries>
+										</Dictionary>
+									</BaseData>
+								</ObjectData>
+							</Object>
+							<Object objectId="2125861352">
+								<AcRxClassInfo className="AcDbDictionary"/>
+								<ObjectData>
+									<BaseData>
+										<Dictionary treatElementsAsHard="TRUE">
+											<Entries>
+												<Entry keyName="ACAD_ENHANCEDBLOCKDATA" objectId="2125861760"/>
+											</Entries>
+										</Dictionary>
+									</BaseData>
+								</ObjectData>
+							</Object>
+							<Object objectId="2125861760">
+								<AcRxClassInfo className="AcDbDictionary"/>
+								<ObjectData>
+									<BaseData>
+										<Dictionary treatElementsAsHard="TRUE">
+											<Entries>
+												<Entry keyName="1" objectId="2125861768"/>
+												<Entry keyName="8" objectId="2125861776"/>
+											</Entries>
+										</Dictionary>
+									</BaseData>
+								</ObjectData>
+							</Object>
+							<Object objectId="2125861768">
+								<AcRxClassInfo className="AcDbXrecord"/>
+								<ObjectData>
+									<BaseData>
+										<Xrecord mergeStyle="1"/>
+										<Resbufs>
+											<Resbuf restype="1071">
+												<Long>11323277</Long>
+											</Resbuf>
+											<Resbuf restype="1071">
+												<Long>15401870</Long>
+											</Resbuf>
+											<Resbuf restype="70">
+												<Long>25</Long>
+											</Resbuf>
+											<Resbuf restype="70">
+												<Long>104</Long>
+											</Resbuf>
+											<Resbuf restype="10">
+												<Point>
+													<X>0</X>
+													<Y>0</Y>
+													<Z>0</Z>
+												</Point>
+											</Resbuf>
+											<Resbuf restype="10">
+												<Point>
+													<X>0</X>
+													<Y>5</Y>
+													<Z>0</Z>
+												</Point>
+											</Resbuf>
+											<Resbuf restype="10">
+												<Point>
+													<X>0</X>
+													<Y>0</Y>
+													<Z>-1</Z>
+												</Point>
+											</Resbuf>
+											<Resbuf restype="10">
+												<Point>
+													<X>10</X>
+													<Y>0</Y>
+													<Z>0</Z>
+												</Point>
+											</Resbuf>
+										</Resbufs>
+									</BaseData>
+								</ObjectData>
+							</Object>
+							<Object objectId="2125861776">
+								<AcRxClassInfo className="AcDbXrecord"/>
+								<ObjectData>
+									<BaseData>
+										<Xrecord mergeStyle="1"/>
+										<Resbufs>
+											<Resbuf restype="1071">
+												<Long>82519608</Long>
+											</Resbuf>
+											<Resbuf restype="1071">
+												<Long>111249311</Long>
+											</Resbuf>
+											<Resbuf restype="70">
+												<Long>25</Long>
+											</Resbuf>
+											<Resbuf restype="70">
+												<Long>104</Long>
+											</Resbuf>
+											<Resbuf restype="40">
+												<Real>0</Real>
+											</Resbuf>
+										</Resbufs>
+									</BaseData>
+								</ObjectData>
+							</Object>
+						</Objects>
+						<BlockReference>
+							<Object objectId="2125861208">
+								<AcRxClassInfo className="AcDbBlockReference"/>
+								<ObjectData>
+									<ExtensionDictionary>
+										<Dictionary treatElementsAsHard="TRUE">
+											<Entries>
+												<Entry keyName="AcDbBlockRepresentation" objectId="2125861360"/>
+											</Entries>
+										</Dictionary>
+									</ExtensionDictionary>
+								</ObjectData>
+							</Object>
+						</BlockReference>
+					</ObjectInfo>
+				</Block>
+				<DynamicProperties/>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{17E64531-F48B-47D6-AAA1-3BB2DEDCD988}"/><Properties><ItemName>LV_UG_INDPILL_1SW_EXISTING</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\LV_UG_INDPILL_1SW_EXISTING32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\LV_UG_INDPILL_1SW_EXISTING64.PNG"/></Images><Description>Eixisting Industrial Pillar 1 Switch</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T13:03:41"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_LV_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_LV_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>LV_UG_INDPILL_1SW_EXISTING</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{23C6680E-418D-41EA-9E8E-80B415D93DE7}"/><Properties><ItemName>LV_UG_INDPILL_2SW_EXISTING</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\LV_UG_INDPILL_2SW_EXISTING32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\LV_UG_INDPILL_2SW_EXISTING64.PNG"/></Images><Description>Existing Industrial Pillar 2 Switch</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T13:03:41"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_LV_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_LV_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>LV_UG_INDPILL_2SW_EXISTING</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{DC325067-8C11-4D92-92A4-33F2DC4D3D8E}"/><Properties><ItemName>LV_UG_LINKS_BOX_OPEN_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\LV_UG_LINKS_BOX_OPEN_EXT32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\LV_UG_LINKS_BOX_OPEN_EXT64.PNG"/></Images><Description>Existing Open LV Link Box Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T13:03:41"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_LV_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_LV_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>LV_UG_LINKS_BOX_OPEN_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{F6A3ADFA-ED70-40A4-8D01-B392AC03E9ED}"/><Properties><ItemName>LV_UG_LINKS_BOX_SOLID_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\LV_UG_LINKS_BOX_SOLID_EXT32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\LV_UG_LINKS_BOX_SOLID_EXT64.PNG"/></Images><Description>Exisitng Solid LV Link Box Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T13:03:41"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_LV_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_LV_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>LV_UG_LINKS_BOX_SOLID_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{FA24E250-E09D-49CD-895C-C6536D0FA74F}"/><Properties><ItemName>LV_UG_LINKS_CLOSED_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\LV_UG_LINKS_CLOSED_EXT32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\LV_UG_LINKS_CLOSED_EXT64.PNG"/></Images><Overlay><Images option="0"><Image cx="16" cy="16" IsDark="false" resource="IDB_DYNAMIC_BLOCK" src="AcTcToolsRes.dll"/><Image cx="16" cy="16" IsDark="true" resource="IDB_DYNAMIC_BLOCK_DARK" src="AcTcToolsRes.dll"/></Images></Overlay><Description>Existing Closed LV Links Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T13:03:41"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_LV_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_LV_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>1</BlockTypeEx>
+					<BlockName>LV_UG_LINKS_CLOSED_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{F3A4F73D-9A4E-43C5-994F-5042A0691655}"/><Properties><ItemName>LV_UG_LINKS_DISTFUSE_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\LV_UG_LINKS_DISTFUSE_EXT32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\LV_UG_LINKS_DISTFUSE_EXT64.PNG"/></Images><Description>Existing Fused LV Link Box Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T13:03:41"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_LV_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_LV_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>LV_UG_LINKS_DISTFUSE_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{2EF196E9-3694-47C4-9B97-03882724A400}"/><Properties><ItemName>LV_UG_LINKS_FUSE_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\LV_UG_LINKS_FUSE_EXT32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\LV_UG_LINKS_FUSE_EXT64.PNG"/></Images><Description>Existing Fused LV Link Box Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T13:03:41"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_LV_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_LV_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>LV_UG_LINKS_FUSE_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{022356C3-8B4F-4787-8CB9-1A38DE99DF12}"/><Properties><ItemName>LV_UG_LINKS_OPEN_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\LV_UG_LINKS_OPEN_EXT32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\LV_UG_LINKS_OPEN_EXT64.PNG"/></Images><Overlay><Images option="0"><Image cx="16" cy="16" IsDark="false" resource="IDB_DYNAMIC_BLOCK" src="AcTcToolsRes.dll"/><Image cx="16" cy="16" IsDark="true" resource="IDB_DYNAMIC_BLOCK_DARK" src="AcTcToolsRes.dll"/></Images></Overlay><Description>Exisitng Open LV Links Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-06-21T14:45:23"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_LV_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_LV_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>1</BlockTypeEx>
+					<BlockName>LV_UG_LINKS_OPEN_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+				<DynamicProperties/>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{5EB80129-3A73-4B3C-AC90-A9A96E437C7A}"/><Properties><ItemName>LV_UG_LINKS_REMOVABLE_EXT</ItemName><Images option="2"><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_5EB80129-3A73-4B3C-AC90-A9A96E437C7A.PNG"/></Images><Description>Exisitng Removealbel LV Link Box Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-05-08T15:17:23"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_LV_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_LV_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>LV_UG_LINKS_REMOVABLE_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{D8638A06-DA10-43CB-9982-DBBAFDDC4F95}"/><Properties><ItemName>LV_UG_LINKS_SOLID_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\LV_UG_LINKS_SOLID_EXT32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\LV_UG_LINKS_SOLID_EXT64.PNG"/></Images><Description>Existing Solid LV Link Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T13:03:41"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_LV_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_LV_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>LV_UG_LINKS_SOLID_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{CBFC9E55-C17B-4B49-A1D7-3CD20790CFA6}"/><Properties><ItemName>STJ_LV_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\STJ_LV_EXT32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\STJ_LV_EXT64.PNG"/></Images><Description>Existing Straight Through Joint Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-07-23T08:42:01"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_SP_LV_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_SP_LV_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>LV_STJ_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{B0C695DB-863A-4CC0-A699-6E1069C8B928}"/><Properties><ItemName>UGOH_EXT</ItemName><Images option="2"><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_B0C695DB-863A-4CC0-A699-6E1069C8B928.PNG"/></Images><Description>Exisitng UGOH Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-09-14T11:12:32"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_LV_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_LV_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>UGOH_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{5160A3CA-8251-44CD-8075-FEACBE3A91F1}"/><Properties><Images option="0"/><Time createdUniversalDateTime="2012-06-14T00:47:57" modifiedUniversalDateTime="2012-06-14T00:47:57"/></Properties><Source/><ToolType>4</ToolType><StockToolRef/><Data/>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{A164CF30-005B-4587-A945-9794DFF05DFF}"/><Properties><ItemName>LV_LIFE_SUPPORT_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\LV_LIFE_SUPPORT_NEW32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\LV_LIFE_SUPPORT_NEW64.PNG"/></Images><Time createdUniversalDateTime="2012-06-14T04:54:32" modifiedUniversalDateTime="2012-07-23T13:40:30"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_LV_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_LV_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>LV_LIFE_SUPPORT_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{B2384531-84E6-4FB3-A2A6-E1DE3212A463}"/><Properties><ItemName>LV_GENERATOR_LIFE_SUPPORT_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\LV_GENERATOR_LIFE_SUPPORT_NEW32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\LV_GENERATOR_LIFE_SUPPORT_NEW64.PNG"/></Images><Time createdUniversalDateTime="2012-06-14T04:54:32" modifiedUniversalDateTime="2012-07-23T13:40:30"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_LV_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_LV_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>LV_GENERATOR_LIFE_SUPPORT_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{743EBAEE-8B18-4E89-AD6C-491312B08FD2}"/><Properties><ItemName>LV_GENERATOR_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\LV_GENERATOR_NEW32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\LV_GENERATOR_NEW64.PNG"/></Images><Time createdUniversalDateTime="2012-06-14T04:54:32" modifiedUniversalDateTime="2012-07-23T13:40:30"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_LV_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_LV_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>LV_GENERATOR_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{3B6C628D-D9B3-4822-988D-04C9C1F8D380}"/><Properties><ItemName>LV_LIFE_SUPPORT_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\LV_LIFE_SUPPORT_EXT32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\LV_LIFE_SUPPORT_EXT64.PNG"/></Images><Time createdUniversalDateTime="2012-06-14T04:54:32" modifiedUniversalDateTime="2012-07-23T13:41:40"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_LV_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_LV_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>LV_LIFE_SUPPORT_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{3D876ADF-7A45-45AB-82F0-4EEADA7B563D}"/><Properties><ItemName>LV_GENERATOR_LIFE_SUPPORT_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\LV_GENERATOR_LIFE_SUPPORT_EXT32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\LV_GENERATOR_LIFE_SUPPORT_EXT64.PNG"/></Images><Time createdUniversalDateTime="2012-06-14T04:54:32" modifiedUniversalDateTime="2012-07-23T13:41:40"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_LV_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_LV_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>LV_GENERATOR_LIFE_SUPPORT_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{5D064B60-90AC-4DF1-B567-5D327E1B3762}"/><Properties><ItemName>LV_GENERATOR_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\LV_GENERATOR_EXT32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\LV_GENERATOR_EXT64.PNG"/></Images><Time createdUniversalDateTime="2012-06-14T04:54:32" modifiedUniversalDateTime="2012-07-23T13:41:40"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_LV_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_LV_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>LV_GENERATOR_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{3AE9CCA8-7D94-49B3-96FD-F29889E59065}"/><Properties><ItemName>LV Notes</ItemName><Images option="0"><Image cx="16" cy="16" IsDark="false" resource="RCDATA_16_MTEXT" src="%ProgramBtnRes%"/><Image cx="16" cy="16" IsDark="true" resource="RCDATA_16_MTEXT" src="%ProgramBtnRes%"/></Images><Description>Add Notes to the LV Circuit</Description><Time createdUniversalDateTime="2008-02-01T05:25:21" modifiedUniversalDateTime="2011-03-20T16:26:30"/></Properties><CustomData>
+				<AcRxClassInfo className="AcDbMText"/>
+				<ToolbarButton idButton="ID_Mtext"/>
+			</CustomData>
+			<Source/><ToolType>1</ToolType><StockToolRef idValue="{2AE7120B-CEE4-47A5-9B50-EF9F3ADE24AC}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes_LV_MISC"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="TRUE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes_LV_MISC</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="iecARIAL"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<TextstyleTableRecord isShapeFilePointer="FALSE" fontOrShapeFile="ARIAL.TTF" isMirroredinX="FALSE" isMirroredinY="FALSE" isVertical="FALSE" widthRatio="1.000000">
+								<SymbolTableNameRecord>iecARIAL</SymbolTableNameRecord>
+								<FixedTextHeight>2.000000</FixedTextHeight>
+								<Obliquing>0.000000</Obliquing>
+								<PriorTextHeight>2.000000</PriorTextHeight>
+								<FontXdata typeFace="Arial" bold="FALSE" italic="FALSE" charSet="0" pitchAndFamily="34"/>
+							</TextstyleTableRecord>
+						</CreateInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Command>
+					<Macro><![CDATA[^C^C_mtext ]]></Macro>
+				</Command>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{6A582F54-F0CF-4094-BC22-3A09C939D248}"/><Properties><ItemName>PILLAR_LINK_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_6A582F54-F0CF-4094-BC22-3A09C939D248.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_6A582F54-F0CF-4094-BC22-3A09C939D248_2.PNG"/></Images><Overlay><Images option="0"><Image cx="16" cy="16" IsDark="false" resource="IDB_DYNAMIC_BLOCK" src="AcTcToolsRes.dll"/><Image cx="16" cy="16" IsDark="true" resource="IDB_DYNAMIC_BLOCK_DARK" src="AcTcToolsRes.dll"/></Images></Overlay><Time createdUniversalDateTime="2012-06-14T04:54:32" modifiedUniversalDateTime="2012-11-14T10:17:08"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Panels_LV_SL_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Panels_LV_SL_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>1</BlockTypeEx>
+					<BlockName>PILLAR_LINK_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>0</Explode>
+					<ObjectInfo>
+						<Objects>
+							<Object objectId="2106227600">
+								<AcRxClassInfo className="AcDbDictionary"/>
+								<ObjectData>
+									<BaseData>
+										<Dictionary treatElementsAsHard="TRUE">
+											<Entries>
+												<Entry keyName="AppDataCache" objectId="2106227576"/>
+											</Entries>
+										</Dictionary>
+									</BaseData>
+								</ObjectData>
+							</Object>
+							<Object objectId="2106227576">
+								<AcRxClassInfo className="AcDbDictionary"/>
+								<ObjectData>
+									<BaseData>
+										<Dictionary treatElementsAsHard="TRUE">
+											<Entries>
+												<Entry keyName="ACAD_ENHANCEDBLOCKDATA" objectId="2105873800"/>
+												<Entry keyName="ACAD_ENHANCEDBLOCKHDATA" objectId="2106227584"/>
+												<Entry keyName="ACAD_ENHANCEDBLOCKHISTORY" objectId="2105873792"/>
+											</Entries>
+										</Dictionary>
+									</BaseData>
+								</ObjectData>
+							</Object>
+							<Object objectId="2105873800">
+								<AcRxClassInfo className="AcDbDictionary"/>
+								<ObjectData>
+									<BaseData>
+										<Dictionary treatElementsAsHard="TRUE">
+											<Entries>
+												<Entry keyName="1" objectId="2105873808"/>
+												<Entry keyName="12" objectId="2105873816"/>
+												<Entry keyName="19" objectId="2105873824"/>
+											</Entries>
+										</Dictionary>
+									</BaseData>
+								</ObjectData>
+							</Object>
+							<Object objectId="2105873808">
+								<AcRxClassInfo className="AcDbXrecord"/>
+								<ObjectData>
+									<BaseData>
+										<Xrecord mergeStyle="1"/>
+										<Resbufs>
+											<Resbuf restype="1071">
+												<Long>135625452</Long>
+											</Resbuf>
+											<Resbuf restype="1071">
+												<Long>184556386</Long>
+											</Resbuf>
+											<Resbuf restype="70">
+												<Long>25</Long>
+											</Resbuf>
+											<Resbuf restype="70">
+												<Long>104</Long>
+											</Resbuf>
+											<Resbuf restype="10">
+												<Point>
+													<X>0.01072185795321445</X>
+													<Y>3.4703124437254</Y>
+													<Z>0</Z>
+												</Point>
+											</Resbuf>
+											<Resbuf restype="1">
+												<Text><![CDATA[C<>C]]></Text>
+											</Resbuf>
+										</Resbufs>
+									</BaseData>
+								</ObjectData>
+							</Object>
+							<Object objectId="2105873816">
+								<AcRxClassInfo className="AcDbXrecord"/>
+								<ObjectData>
+									<BaseData>
+										<Xrecord mergeStyle="1"/>
+										<Resbufs>
+											<Resbuf restype="1071">
+												<Long>11323277</Long>
+											</Resbuf>
+											<Resbuf restype="1071">
+												<Long>15401870</Long>
+											</Resbuf>
+											<Resbuf restype="70">
+												<Long>25</Long>
+											</Resbuf>
+											<Resbuf restype="70">
+												<Long>104</Long>
+											</Resbuf>
+											<Resbuf restype="10">
+												<Point>
+													<X>0</X>
+													<Y>-0.9900000001536684</Y>
+													<Z>0</Z>
+												</Point>
+											</Resbuf>
+											<Resbuf restype="10">
+												<Point>
+													<X>0</X>
+													<Y>2.009999999846332</Y>
+													<Z>0</Z>
+												</Point>
+											</Resbuf>
+											<Resbuf restype="10">
+												<Point>
+													<X>0</X>
+													<Y>0</Y>
+													<Z>-1</Z>
+												</Point>
+											</Resbuf>
+											<Resbuf restype="10">
+												<Point>
+													<X>10</X>
+													<Y>-0.9900000001536684</Y>
+													<Z>0</Z>
+												</Point>
+											</Resbuf>
+										</Resbufs>
+									</BaseData>
+								</ObjectData>
+							</Object>
+							<Object objectId="2105873824">
+								<AcRxClassInfo className="AcDbXrecord"/>
+								<ObjectData>
+									<BaseData>
+										<Xrecord mergeStyle="1"/>
+										<Resbufs>
+											<Resbuf restype="1071">
+												<Long>82519608</Long>
+											</Resbuf>
+											<Resbuf restype="1071">
+												<Long>111249311</Long>
+											</Resbuf>
+											<Resbuf restype="70">
+												<Long>25</Long>
+											</Resbuf>
+											<Resbuf restype="70">
+												<Long>104</Long>
+											</Resbuf>
+											<Resbuf restype="40">
+												<Real>0</Real>
+											</Resbuf>
+										</Resbufs>
+									</BaseData>
+								</ObjectData>
+							</Object>
+							<Object objectId="2106227584">
+								<AcRxClassInfo className="AcDbDictionary"/>
+								<ObjectData>
+									<BaseData>
+										<Dictionary treatElementsAsHard="FALSE"/>
+									</BaseData>
+								</ObjectData>
+							</Object>
+							<Object objectId="2105873792">
+								<AcRxClassInfo className="AcDbXrecord"/>
+								<ObjectData>
+									<BaseData>
+										<Xrecord mergeStyle="1"/>
+										<Resbufs>
+											<Resbuf restype="1070">
+												<Long>3</Long>
+											</Resbuf>
+											<Resbuf restype="1071">
+												<Long>12</Long>
+											</Resbuf>
+											<Resbuf restype="300">
+												<Text><![CDATA[Distance1]]></Text>
+											</Resbuf>
+											<Resbuf restype="40">
+												<Real>3</Real>
+											</Resbuf>
+											<Resbuf restype="1071">
+												<Long>1</Long>
+											</Resbuf>
+											<Resbuf restype="300">
+												<Text><![CDATA[Visibility1]]></Text>
+											</Resbuf>
+											<Resbuf restype="1">
+												<Text><![CDATA[C<>C]]></Text>
+											</Resbuf>
+										</Resbufs>
+									</BaseData>
+								</ObjectData>
+							</Object>
+						</Objects>
+						<BlockReference>
+							<Object objectId="2106227400">
+								<AcRxClassInfo className="AcDbBlockReference"/>
+								<ObjectData>
+									<ExtensionDictionary>
+										<Dictionary treatElementsAsHard="TRUE">
+											<Entries>
+												<Entry keyName="AcDbBlockRepresentation" objectId="2106227600"/>
+											</Entries>
+										</Dictionary>
+									</ExtensionDictionary>
+								</ObjectData>
+							</Object>
+						</BlockReference>
+					</ObjectInfo>
+				</Block>
+				<DynamicProperties/>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{767C7F2B-0E3B-40B5-925C-A0F77866A580}"/><Properties><ItemName>PILLAR_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_767C7F2B-0E3B-40B5-925C-A0F77866A580.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_767C7F2B-0E3B-40B5-925C-A0F77866A580_2.PNG"/></Images><Overlay><Images option="0"><Image cx="16" cy="16" IsDark="false" resource="IDB_DYNAMIC_BLOCK" src="AcTcToolsRes.dll"/><Image cx="16" cy="16" IsDark="true" resource="IDB_DYNAMIC_BLOCK_DARK" src="AcTcToolsRes.dll"/></Images></Overlay><Time createdUniversalDateTime="2012-06-14T04:54:32" modifiedUniversalDateTime="2012-11-14T10:08:38"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_LV_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_LV_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>1</BlockTypeEx>
+					<BlockName>PILLAR_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>0</Explode>
+					<ObjectInfo>
+						<Objects>
+							<Object objectId="2099860136">
+								<AcRxClassInfo className="AcDbDictionary"/>
+								<ObjectData>
+									<BaseData>
+										<Dictionary treatElementsAsHard="TRUE">
+											<Entries>
+												<Entry keyName="AppDataCache" objectId="2099860328"/>
+											</Entries>
+										</Dictionary>
+									</BaseData>
+								</ObjectData>
+							</Object>
+							<Object objectId="2099860328">
+								<AcRxClassInfo className="AcDbDictionary"/>
+								<ObjectData>
+									<BaseData>
+										<Dictionary treatElementsAsHard="TRUE">
+											<Entries>
+												<Entry keyName="ACAD_ENHANCEDBLOCKDATA" objectId="2099860384"/>
+											</Entries>
+										</Dictionary>
+									</BaseData>
+								</ObjectData>
+							</Object>
+							<Object objectId="2099860384">
+								<AcRxClassInfo className="AcDbDictionary"/>
+								<ObjectData>
+									<BaseData>
+										<Dictionary treatElementsAsHard="TRUE">
+											<Entries>
+												<Entry keyName="1" objectId="2099860392"/>
+												<Entry keyName="8" objectId="2099860400"/>
+											</Entries>
+										</Dictionary>
+									</BaseData>
+								</ObjectData>
+							</Object>
+							<Object objectId="2099860392">
+								<AcRxClassInfo className="AcDbXrecord"/>
+								<ObjectData>
+									<BaseData>
+										<Xrecord mergeStyle="1"/>
+										<Resbufs>
+											<Resbuf restype="1071">
+												<Long>11323277</Long>
+											</Resbuf>
+											<Resbuf restype="1071">
+												<Long>15401870</Long>
+											</Resbuf>
+											<Resbuf restype="70">
+												<Long>25</Long>
+											</Resbuf>
+											<Resbuf restype="70">
+												<Long>104</Long>
+											</Resbuf>
+											<Resbuf restype="10">
+												<Point>
+													<X>0</X>
+													<Y>-0.9900000001536681</Y>
+													<Z>0</Z>
+												</Point>
+											</Resbuf>
+											<Resbuf restype="10">
+												<Point>
+													<X>0</X>
+													<Y>2.009999999846332</Y>
+													<Z>0</Z>
+												</Point>
+											</Resbuf>
+											<Resbuf restype="10">
+												<Point>
+													<X>0</X>
+													<Y>0</Y>
+													<Z>-1</Z>
+												</Point>
+											</Resbuf>
+											<Resbuf restype="10">
+												<Point>
+													<X>10</X>
+													<Y>-0.9900000001536681</Y>
+													<Z>0</Z>
+												</Point>
+											</Resbuf>
+										</Resbufs>
+									</BaseData>
+								</ObjectData>
+							</Object>
+							<Object objectId="2099860400">
+								<AcRxClassInfo className="AcDbXrecord"/>
+								<ObjectData>
+									<BaseData>
+										<Xrecord mergeStyle="1"/>
+										<Resbufs>
+											<Resbuf restype="1071">
+												<Long>82519608</Long>
+											</Resbuf>
+											<Resbuf restype="1071">
+												<Long>111249311</Long>
+											</Resbuf>
+											<Resbuf restype="70">
+												<Long>25</Long>
+											</Resbuf>
+											<Resbuf restype="70">
+												<Long>104</Long>
+											</Resbuf>
+											<Resbuf restype="40">
+												<Real>0</Real>
+											</Resbuf>
+										</Resbufs>
+									</BaseData>
+								</ObjectData>
+							</Object>
+						</Objects>
+						<BlockReference>
+							<Object objectId="2099859808">
+								<AcRxClassInfo className="AcDbBlockReference"/>
+								<ObjectData>
+									<ExtensionDictionary>
+										<Dictionary treatElementsAsHard="TRUE">
+											<Entries>
+												<Entry keyName="AcDbBlockRepresentation" objectId="2099860136"/>
+											</Entries>
+										</Dictionary>
+									</ExtensionDictionary>
+								</ObjectData>
+							</Object>
+						</BlockReference>
+					</ObjectInfo>
+				</Block>
+				<DynamicProperties/>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{8267A5F9-B102-4E21-A650-0A211C71C907}"/><Properties><ItemName>PILLAR_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_8267A5F9-B102-4E21-A650-0A211C71C907.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_8267A5F9-B102-4E21-A650-0A211C71C907_2.PNG"/></Images><Overlay><Images option="0"><Image cx="16" cy="16" IsDark="false" resource="IDB_DYNAMIC_BLOCK" src="AcTcToolsRes.dll"/><Image cx="16" cy="16" IsDark="true" resource="IDB_DYNAMIC_BLOCK_DARK" src="AcTcToolsRes.dll"/></Images></Overlay><Description>Exisitng Pillar Symbol</Description><Time createdUniversalDateTime="2012-06-14T04:54:32" modifiedUniversalDateTime="2012-11-14T10:04:52"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_LV_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_LV_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>1</BlockTypeEx>
+					<BlockName>PILLAR_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\LV Circuit.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>0</Explode>
+					<ObjectInfo>
+						<Objects>
+							<Object objectId="2088354360">
+								<AcRxClassInfo className="AcDbDictionary"/>
+								<ObjectData>
+									<BaseData>
+										<Dictionary treatElementsAsHard="TRUE">
+											<Entries>
+												<Entry keyName="AppDataCache" objectId="2088354512"/>
+											</Entries>
+										</Dictionary>
+									</BaseData>
+								</ObjectData>
+							</Object>
+							<Object objectId="2088354512">
+								<AcRxClassInfo className="AcDbDictionary"/>
+								<ObjectData>
+									<BaseData>
+										<Dictionary treatElementsAsHard="TRUE">
+											<Entries>
+												<Entry keyName="ACAD_ENHANCEDBLOCKDATA" objectId="2088354568"/>
+											</Entries>
+										</Dictionary>
+									</BaseData>
+								</ObjectData>
+							</Object>
+							<Object objectId="2088354568">
+								<AcRxClassInfo className="AcDbDictionary"/>
+								<ObjectData>
+									<BaseData>
+										<Dictionary treatElementsAsHard="TRUE">
+											<Entries>
+												<Entry keyName="1" objectId="2088354576"/>
+												<Entry keyName="8" objectId="2088354584"/>
+											</Entries>
+										</Dictionary>
+									</BaseData>
+								</ObjectData>
+							</Object>
+							<Object objectId="2088354576">
+								<AcRxClassInfo className="AcDbXrecord"/>
+								<ObjectData>
+									<BaseData>
+										<Xrecord mergeStyle="1"/>
+										<Resbufs>
+											<Resbuf restype="1071">
+												<Long>11323277</Long>
+											</Resbuf>
+											<Resbuf restype="1071">
+												<Long>15401870</Long>
+											</Resbuf>
+											<Resbuf restype="70">
+												<Long>25</Long>
+											</Resbuf>
+											<Resbuf restype="70">
+												<Long>104</Long>
+											</Resbuf>
+											<Resbuf restype="10">
+												<Point>
+													<X>0</X>
+													<Y>-0.990000000000014</Y>
+													<Z>0</Z>
+												</Point>
+											</Resbuf>
+											<Resbuf restype="10">
+												<Point>
+													<X>0</X>
+													<Y>2.009999999999986</Y>
+													<Z>0</Z>
+												</Point>
+											</Resbuf>
+											<Resbuf restype="10">
+												<Point>
+													<X>0</X>
+													<Y>0</Y>
+													<Z>-1</Z>
+												</Point>
+											</Resbuf>
+											<Resbuf restype="10">
+												<Point>
+													<X>10</X>
+													<Y>-0.990000000000014</Y>
+													<Z>0</Z>
+												</Point>
+											</Resbuf>
+										</Resbufs>
+									</BaseData>
+								</ObjectData>
+							</Object>
+							<Object objectId="2088354584">
+								<AcRxClassInfo className="AcDbXrecord"/>
+								<ObjectData>
+									<BaseData>
+										<Xrecord mergeStyle="1"/>
+										<Resbufs>
+											<Resbuf restype="1071">
+												<Long>82519608</Long>
+											</Resbuf>
+											<Resbuf restype="1071">
+												<Long>111249311</Long>
+											</Resbuf>
+											<Resbuf restype="70">
+												<Long>25</Long>
+											</Resbuf>
+											<Resbuf restype="70">
+												<Long>104</Long>
+											</Resbuf>
+											<Resbuf restype="40">
+												<Real>0</Real>
+											</Resbuf>
+										</Resbufs>
+									</BaseData>
+								</ObjectData>
+							</Object>
+						</Objects>
+						<BlockReference>
+							<Object objectId="2088354104">
+								<AcRxClassInfo className="AcDbBlockReference"/>
+								<ObjectData>
+									<ExtensionDictionary>
+										<Dictionary treatElementsAsHard="TRUE">
+											<Entries>
+												<Entry keyName="AcDbBlockRepresentation" objectId="2088354360"/>
+											</Entries>
+										</Dictionary>
+									</ExtensionDictionary>
+								</ObjectData>
+							</Object>
+						</BlockReference>
+					</ObjectInfo>
+				</Block>
+				<DynamicProperties/>
+			</Data>
+		</Tool></Tools></Palette>

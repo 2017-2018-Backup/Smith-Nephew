@@ -1,0 +1,19 @@
+FILEDIA
+0
+CMDDIA
+0
+wblock
+(getvar "dwgname")
+Y
+*
+CLOSE
+Y
+OPEN
+(getvar "dwgname")
+
+ZOOM
+E
+CMDDIA
+1
+FILEDIA
+1

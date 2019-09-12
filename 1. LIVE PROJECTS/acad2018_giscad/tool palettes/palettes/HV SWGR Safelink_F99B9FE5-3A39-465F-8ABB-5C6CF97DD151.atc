@@ -1,0 +1,2166 @@
+<Palette FileRevision="22.0.0" Revision="22.0.1" option="0"><ItemID idValue="{F99B9FE5-3A39-465F-8ABB-5C6CF97DD151}"/><Properties><ItemName>HV SWGR Safelink</ItemName><Images option="0"/><Time createdUniversalDateTime="2012-01-12T01:32:24" modifiedUniversalDateTime="2012-11-12T11:20:57"/></Properties><CustomData><Translation status="1"/></CustomData><Source/><Tools><Tool Revision="18.0.0" option="0"><ItemID idValue="{8F952366-BB72-4CE3-AA7C-CE1871F3BFAC}"/><Properties><ItemName>Proposed HV SWGR</ItemName><Images option="0"/><Time createdUniversalDateTime="2012-01-12T03:24:25" modifiedUniversalDateTime="2012-01-12T03:24:25"/></Properties><Source/><ToolType>3</ToolType><StockToolRef/><Data/>
+		</Tool><Tool Revision="22.0.1" option="0"><ItemID idValue="{F09BBCCB-B187-4153-929C-DE9BC9F46108}"/><Properties><Images option="0"/><Time createdUniversalDateTime="2018-04-14T02:17:38" modifiedUniversalDateTime="2018-04-14T02:17:38"/></Properties><ToolType>4</ToolType><StockToolRef/><Data/></Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{5133F036-C0CA-4AB4-AEF6-98E88F8F5D4C}"/><Properties><ItemName>BUS_SAFELINK_2_SWITCH_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\BUS_SAFELINK_2_SWITCH_NEW32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\BUS_SAFELINK_2_SWITCH_NEW64.PNG"/></Images><Description>New Safelink 2 Sw Bus Symbol </Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-06-27T13:52:50"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_HV_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_HV_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>BUS_SAFELINK_2_SWITCH_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV SWGR Safelink.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{71D21BFD-ED9F-4D88-850E-BC2903567555}"/><Properties><ItemName>BUS_SAFELINK_3_SWITCH_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\BUS_SAFELINK_3_SWITCH_NEW32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\BUS_SAFELINK_3_SWITCH_NEW64.PNG"/></Images><Description>New Safelink 3 Sw Bus Symbol </Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-06-27T13:52:50"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_HV_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_HV_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>BUS_SAFELINK_3_SWITCH_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV SWGR Safelink.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{CAED377C-A274-42F9-8867-0FFE8D128B2D}"/><Properties><ItemName>BUS_SAFELINK_3_SWITCH_SS_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\BUS_SAFELINK_3_SWITCH_SS_NEW32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\BUS_SAFELINK_3_SWITCH_SS_NEW64.PNG"/></Images><Description>New Safelink 3 Sw Switch Station Bus Symbol </Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-06-27T13:52:50"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_HV_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_HV_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>BUS_SAFELINK_3_SWITCH_SS_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV SWGR Safelink.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{B84FA245-2CAB-447A-931A-3934CB90BF52}"/><Properties><ItemName>BUS_SAFELINK_4_SWITCH_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\BUS_SAFELINK_4_SWITCH_NEW32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\BUS_SAFELINK_4_SWITCH_NEW64.PNG"/></Images><Description>New Safelink 4 Sw Bus Symbol </Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-06-27T13:52:50"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_HV_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_HV_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>BUS_SAFELINK_4_SWITCH_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV SWGR Safelink.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{E7745806-0609-406A-8059-2265B9F3DBE2}"/><Properties><ItemName>SAFELINK_CCC_SS_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\SAFELINK_CCC_SS_NEW32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\SAFELINK_CCC_SS_NEW64.PNG"/></Images><Description>CCC Safelink Switch Station New Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-08-09T09:20:06"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_HV_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_HV_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>SAFELINK_CCC_SS_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV SWGR Safelink.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>1</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{3E2192FC-EF21-4E9E-B88D-620D062A55E6}"/><Properties><ItemName>SAFELINK_CF_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\SAFELINK_CF_NEW32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\SAFELINK_CF_NEW64.PNG"/></Images><Description>CF Safelink SWGR New Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-08-09T09:20:06"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_HV_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_HV_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>SAFELINK_CF_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV SWGR Safelink.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>1</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{E8A3DAD6-6120-4711-8A72-5E65CA843818}"/><Properties><ItemName>SAFELINK_CFC_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\SAFELINK_CFC_NEW32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\SAFELINK_CFC_NEW64.PNG"/></Images><Description>CFC Safelink SWGR New Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-08-09T09:20:06"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_HV_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_HV_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>SAFELINK_CFC_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV SWGR Safelink.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>1</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{35754BEA-10CA-4E1E-A5DF-639C718A5297}"/><Properties><ItemName>SAFELINK_CFCC_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\SAFELINK_CFCC_NEW32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\SAFELINK_CFCC_NEW64.PNG"/></Images><Description>CFC Safelink SWGR New Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-08-09T09:20:06"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_HV_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_HV_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>SAFELINK_CFCC_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV SWGR Safelink.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>1</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{787EF2D2-4D76-4A5F-BD64-DCD68BA3ED48}"/><Properties><ItemName>SWG_FUSE_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\SWG_FUSE_NEW32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\SWG_FUSE_NEW64.PNG"/></Images><Description>Existing Fuse Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-06-27T13:52:50"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_HV_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_HV_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>SWG_FUSE_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV SWGR Safelink.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{466342F4-06E9-4FAF-8B95-5E2F003B09FA}"/><Properties><ItemName>SWG_SAFELINK_SFU_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\SWG_SAFELINK_SFU_NEW32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\SWG_SAFELINK_SFU_NEW64.PNG"/></Images><Description>Safelink Switch Fuse Unit</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-06-27T13:52:50"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_HV_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_HV_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>SWG_SAFELINK_SFU_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV SWGR Safelink.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{E36A9A80-4527-46A3-AE6F-6F260FDED1B1}"/><Properties><ItemName>SWG_SAFELINK_SU_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\SWG_SAFELINK_SU_NEW32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\SWG_SAFELINK_SU_NEW64.PNG"/></Images><Description>Replace Switch 2 Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-06-27T13:52:50"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_HV_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_HV_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>SWG_SAFELINK_SU_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV SWGR Safelink.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{9DE5C20E-2210-4C1C-827F-178E7C223344}"/><Properties><ItemName>SWG_SAFELINK_SU_NO_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\SWG_SAFELINK_SU_NO_NEW32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\SWG_SAFELINK_SU_NO_NEW64.PNG"/></Images><Description>Replace Switch 2 Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-06-27T13:52:50"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_HV_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_HV_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>SWG_SAFELINK_SU_NO_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV SWGR Safelink.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{AF0A63B8-1E7F-485C-B313-3653B920343A}"/><Properties><ItemName>SWG_SAFELINK_TRF_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\SWG_SAFELINK_TRF_NEW32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\SWG_SAFELINK_TRF_NEW64.PNG"/></Images><Description>Safelink Switch Fuse Unit</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-06-27T13:52:50"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_HV_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_HV_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>SWG_SAFELINK_TRF_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV SWGR Safelink.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{4A40DDBF-D26E-4604-A4EB-167F2809DFB9}"/><Properties><Images option="0"/><Time createdUniversalDateTime="2012-01-12T03:24:35" modifiedUniversalDateTime="2012-01-12T03:24:35"/></Properties><Source/><ToolType>4</ToolType><StockToolRef/><Data/>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{38D956BF-BA3D-4878-8374-5F6131CE1BC6}"/><Properties><ItemName>Existing HV SWGR</ItemName><Images option="0"/><Time createdUniversalDateTime="2012-01-12T03:24:39" modifiedUniversalDateTime="2012-01-12T03:24:39"/></Properties><Source/><ToolType>3</ToolType><StockToolRef/><Data/>
+		</Tool><Tool Revision="22.0.1" option="0"><ItemID idValue="{5E02AA66-1EAA-4D8F-B6D0-CA4854DD7356}"/><Properties><Images option="0"/><Time createdUniversalDateTime="2018-04-14T02:17:40" modifiedUniversalDateTime="2018-04-14T02:17:40"/></Properties><ToolType>4</ToolType><StockToolRef/><Data/></Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{2DE2AEF5-06ED-4E36-8D12-5A13C51C3151}"/><Properties><ItemName>BUS_SAFELINK_2_SWITCH_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\BUS_SAFELINK_2_SWITCH_EXT32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\BUS_SAFELINK_2_SWITCH_EXT64.PNG"/></Images><Description>Exisitng Safelink 2 Sw Bus Symbol </Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-06-27T13:52:50"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_HV_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_HV_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>BUS_SAFELINK_2_SWITCH_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV SWGR Safelink.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{635E075D-5FE4-4DBC-BAC9-E4FEB22289C6}"/><Properties><ItemName>BUS_SAFELINK_3_SWITCH_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\BUS_SAFELINK_3_SWITCH_EXT32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\BUS_SAFELINK_3_SWITCH_EXT64.PNG"/></Images><Description>Exisitng Safelink 3 Sw Bus Symbol </Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-06-27T13:52:50"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_HV_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_HV_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>BUS_SAFELINK_3_SWITCH_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV SWGR Safelink.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{651C676C-DEBE-49C5-921A-B06F619B0D40}"/><Properties><ItemName>BUS_SAFELINK_3_SWITCH_SS_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\BUS_SAFELINK_3_SWITCH_SS_EXT32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\BUS_SAFELINK_3_SWITCH_SS_EXT64.PNG"/></Images><Description>Exisitng Safelink 3 Sw Switch Station Bus Symbol </Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-06-27T13:52:50"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_HV_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_HV_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>BUS_SAFELINK_3_SWITCH_SS_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV SWGR Safelink.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{DF7B9DE7-319E-4E1F-AC32-6CA086D00FA2}"/><Properties><ItemName>BUS_SAFELINK_4_SWITCH_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\BUS_SAFELINK_4_SWITCH_EXT32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\BUS_SAFELINK_4_SWITCH_EXT64.PNG"/></Images><Description>Exisitng Safelink 4 Sw Bus Symbol </Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-06-27T13:52:50"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_HV_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_HV_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>BUS_SAFELINK_4_SWITCH_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV SWGR Safelink.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{0E34073A-1B2B-4BD0-8B77-F54254C396E4}"/><Properties><ItemName>SAFELINK_CCC_SS_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\SAFELINK_CCC_SS_EXT32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\SAFELINK_CCC_SS_EXT64.PNG"/></Images><Description>CCC Safelink Switch Station Existing Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-07-05T10:10:54"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_HV_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_HV_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>SAFELINK_CCC_SS_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV SWGR Safelink.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+				<DynamicProperties/>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{2ADC3FF5-BD70-44AB-8A33-81975368EDAD}"/><Properties><ItemName>SAFELINK_CF_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\SAFELINK_CF_EXT32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\SAFELINK_CF_EXT64.PNG"/></Images><Description>CF Safelink SWGR Existing Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-07-05T10:10:54"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_HV_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_HV_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>SAFELINK_CF_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV SWGR Safelink.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+				<DynamicProperties/>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{E8EEC294-C064-47F6-98F5-B1261463C011}"/><Properties><ItemName>SAFELINK_CFC_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\SAFELINK_CFC_EXT32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\SAFELINK_CFC_EXT64.PNG"/></Images><Description>CFC Safelink SWGR Existing Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-07-05T10:10:54"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_HV_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_HV_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>SAFELINK_CFC_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV SWGR Safelink.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+				<DynamicProperties/>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{D13AB137-5401-43E8-9063-CE5B1AB08832}"/><Properties><ItemName>SAFELINK_CFCC_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\SAFELINK_CFCC_EXT32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\SAFELINK_CFCC_EXT64.PNG"/></Images><Description>CF Safelink SWGR Existing Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-07-05T10:10:54"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_HV_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_HV_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>SAFELINK_CFCC_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV SWGR Safelink.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+				<DynamicProperties/>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{0A32E228-1AA6-4C43-9EFF-E4F3C1FF7624}"/><Properties><ItemName>SWG_FUSE_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\SWG_FUSE_EXT32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\SWG_FUSE_EXT64.PNG"/></Images><Description>Existing Fuse Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-06-27T13:52:50"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_HV_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_HV_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>SWG_FUSE_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV SWGR Safelink.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{845456C7-377A-4498-A092-7FA82FC0B4FF}"/><Properties><ItemName>SWG_SAFELINK_SFU_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\SWG_SAFELINK_SFU_EXT32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\SWG_SAFELINK_SFU_EXT64.PNG"/></Images><Description>Safelink Switch Fuse Unit</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-06-27T13:52:50"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_HV_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_HV_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>SWG_SAFELINK_SFU_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV SWGR Safelink.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{BEB91EAB-5054-4E95-8FFB-087389096E08}"/><Properties><ItemName>SWG_SAFELINK_SU_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\SWG_SAFELINK_SU_EXT32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\SWG_SAFELINK_SU_EXT64.PNG"/></Images><Description>Replace Switch 2 Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-06-27T13:52:50"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_HV_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_HV_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>SWG_SAFELINK_SU_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV SWGR Safelink.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{3655B069-EC2C-4B06-AF4B-B7F30AFC50B8}"/><Properties><ItemName>SWG_SAFELINK_SU_NO_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\SWG_SAFELINK_SU_NO_EXT32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\SWG_SAFELINK_SU_NO_EXT64.PNG"/></Images><Description>Replace Switch 2 Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-06-27T13:52:50"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_HV_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_HV_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>SWG_SAFELINK_SU_NO_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV SWGR Safelink.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{83DF33BC-5C0D-4B2D-A5A2-8DB0EEAEA5F2}"/><Properties><ItemName>SWG_SAFELINK_TRF_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\SWG_SAFELINK_TRF_EXT32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\SWG_SAFELINK_TRF_EXT64.PNG"/></Images><Description>Safelink Switch Fuse Unit</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-06-27T13:52:50"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_HV_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_HV_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>SWG_SAFELINK_TRF_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV SWGR Safelink.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool></Tools></Palette>

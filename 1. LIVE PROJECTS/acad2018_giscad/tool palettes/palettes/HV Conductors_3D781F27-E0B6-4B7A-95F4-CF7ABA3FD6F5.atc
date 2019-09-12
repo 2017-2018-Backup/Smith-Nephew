@@ -1,0 +1,2249 @@
+<Palette FileRevision="18.0.0" Revision="18.0.0" option="0"><ItemID idValue="{3D781F27-E0B6-4B7A-95F4-CF7ABA3FD6F5}"/><Properties><ItemName>HV Conductors</ItemName><Images option="0"/><Time createdUniversalDateTime="2011-04-08T07:45:50" modifiedUniversalDateTime="2012-06-14T10:57:16"/></Properties><CustomData><Translation status="1"/></CustomData><Source/><Tools><Tool Revision="18.0.0" option="0"><ItemID idValue="{E7C860A9-A5AF-4C9D-A818-E6D3BDC0F810}"/><Properties><ItemName>HV Cables &amp; Conductors</ItemName><Images option="0"/><Time createdUniversalDateTime="2007-12-17T11:03:43" modifiedUniversalDateTime="2007-12-17T11:03:43"/></Properties><Source/><ToolType>3</ToolType><StockToolRef/><Data/>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{89D7AA81-ADC7-400A-85B8-58987AB8ED9F}"/><Properties><ItemName>*Please note these are standard conductors, for all other conductors please use the "Attach Cable" Tool on the tool bar.*</ItemName><Images option="0"/><Time createdUniversalDateTime="2009-02-05T21:02:08" modifiedUniversalDateTime="2009-02-05T21:02:08"/></Properties><Source/><ToolType>3</ToolType><StockToolRef/><Data/>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{E5AA1080-69BF-469D-9206-E9710BB5C6FA}"/><Properties><Images option="0"/><Time createdUniversalDateTime="2007-12-13T05:41:52" modifiedUniversalDateTime="2007-12-13T05:41:52"/></Properties><Source/><ToolType>4</ToolType><StockToolRef/><Data/>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{EAB622CA-D0DD-4A58-B290-E8F5F0F6D664}"/><Properties><ItemName>11kV 3 Phase</ItemName><Images option="0"/><Time createdUniversalDateTime="2009-02-05T03:30:29" modifiedUniversalDateTime="2009-02-05T03:30:29"/></Properties><Source/><ToolType>3</ToolType><StockToolRef/><Data/>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{865FB2BF-BE12-4525-AB9B-891F41B38B21}"/><Properties><ItemName>Underground</ItemName><Images option="0"/><Time createdUniversalDateTime="2009-02-05T03:50:47" modifiedUniversalDateTime="2009-02-05T03:50:47"/></Properties><Source/><ToolType>3</ToolType><StockToolRef/><Data/>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{7023628A-E16D-4A8C-8CD4-3E8DFA3222D8}"/><Properties><ItemName>U72 - 240 mm2 3C AL XLPE (UG) 11</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\Command tool_181D93BF-2082-49E4-AA42-F5E3019E6381.PNG"/></Images><Time createdUniversalDateTime="2007-12-17T09:53:50" modifiedUniversalDateTime="2012-11-14T14:08:32"/></Properties><CustomData>
+				<AcRxClassInfo className="AcDb2dPolyline"/>
+				<ToolbarButton idButton="ID_plinewid;0;^C^C_pline"/>
+			</CustomData>
+			<Source/><ToolType>2</ToolType><Flyout enable="false"><ShapePackage idValue="{4AFD3A7B-127C-468D-9DAD-D6D948BA8615}"/><CurrentShape idValue="{63B4EA09-B9B3-45BC-B864-E7A22A7EFAF2}"/></Flyout><StockToolRef idValue="{2AE7120B-CEE4-47A5-9B50-EF9F3ADE24AC}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3271557122"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Mains_HV_NEW_U72"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Mains_HV_NEW_U72</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Cable New UG"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LinetypeTableRecord numberOfPatternElements="3">
+								<SymbolTableNameRecord>Cable New UG</SymbolTableNameRecord>
+								<Description>UG NEW CABLE</Description>
+								<TotalPatternLength>9.350000</TotalPatternLength>
+								<LinetypeElements>
+									<LinetypeElement>
+										<Dash>7.000000</Dash>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-0.250000</Space>
+										<ComplexLinetypeElement handle="2129599624" isAbsoluteRotation="FALSE" scaleFactor="2.000000">
+											<Rotation>0.000000</Rotation>
+											<OffsetX>0.200000</OffsetX>
+											<OffsetY>-0.800000</OffsetY>
+											<TextString>x</TextString>
+										</ComplexLinetypeElement>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-2.100000</Space>
+									</LinetypeElement>
+								</LinetypeElements>
+								<TextstyleTableRecordCollection>
+									<Reference handle="2129599624">
+										<Textstyle>
+											<BasicPropInfo>
+												<PropValue unspecified="FALSE" valueType="1" value="Standard"/>
+											</BasicPropInfo>
+										</Textstyle>
+									</Reference>
+								</TextstyleTableRecordCollection>
+							</LinetypeTableRecord>
+						</CreateInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Command>
+					<Macro><![CDATA[^C^C_plinewid;0;;^C^C_pline]]></Macro>
+				</Command>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{A6B57CBD-92D0-4845-A207-0A5A9048D730}"/><Properties><ItemName>U71 - 185 mm2 3C AL XLPE (UG) 11</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\Command tool_E1B50F3F-9831-4011-AB8C-A3B4BF917F7E.PNG"/></Images><Time createdUniversalDateTime="2007-12-17T09:53:50" modifiedUniversalDateTime="2012-11-14T14:08:32"/></Properties><CustomData>
+				<AcRxClassInfo className="AcDb2dPolyline"/>
+				<ToolbarButton idButton="ID_plinewid;0;^C^C_pline"/>
+			</CustomData>
+			<Source/><ToolType>2</ToolType><Flyout enable="false"><ShapePackage idValue="{4AFD3A7B-127C-468D-9DAD-D6D948BA8615}"/><CurrentShape idValue="{63B4EA09-B9B3-45BC-B864-E7A22A7EFAF2}"/></Flyout><StockToolRef idValue="{2AE7120B-CEE4-47A5-9B50-EF9F3ADE24AC}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3271557122"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Mains_HV_NEW_U71"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Mains_HV_NEW_U71</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Cable New UG"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LinetypeTableRecord numberOfPatternElements="3">
+								<SymbolTableNameRecord>Cable New UG</SymbolTableNameRecord>
+								<Description>UG NEW CABLE</Description>
+								<TotalPatternLength>9.350000</TotalPatternLength>
+								<LinetypeElements>
+									<LinetypeElement>
+										<Dash>7.000000</Dash>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-0.250000</Space>
+										<ComplexLinetypeElement handle="2129599624" isAbsoluteRotation="FALSE" scaleFactor="2.000000">
+											<Rotation>0.000000</Rotation>
+											<OffsetX>0.200000</OffsetX>
+											<OffsetY>-0.800000</OffsetY>
+											<TextString>x</TextString>
+										</ComplexLinetypeElement>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-2.100000</Space>
+									</LinetypeElement>
+								</LinetypeElements>
+								<TextstyleTableRecordCollection>
+									<Reference handle="2129599624">
+										<Textstyle>
+											<BasicPropInfo>
+												<PropValue unspecified="FALSE" valueType="1" value="Standard"/>
+											</BasicPropInfo>
+										</Textstyle>
+									</Reference>
+								</TextstyleTableRecordCollection>
+							</LinetypeTableRecord>
+						</CreateInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Command>
+					<Macro><![CDATA[^C^C_plinewid;0;;^C^C_pline]]></Macro>
+				</Command>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{6D56E729-1D24-4E14-AC8A-FD4AA8F6C6CC}"/><Properties><ItemName>U97 - 240 mm2 3C CU XLPE (UG) 11</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\Command tool_12703794-AAE8-4542-B675-D43C3328A489.PNG"/></Images><Time createdUniversalDateTime="2007-12-17T09:53:50" modifiedUniversalDateTime="2012-11-14T14:08:32"/></Properties><CustomData>
+				<AcRxClassInfo className="AcDb2dPolyline"/>
+				<ToolbarButton idButton="ID_plinewid;0;^C^C_pline"/>
+			</CustomData>
+			<Source/><ToolType>2</ToolType><Flyout enable="false"><ShapePackage idValue="{4AFD3A7B-127C-468D-9DAD-D6D948BA8615}"/><CurrentShape idValue="{63B4EA09-B9B3-45BC-B864-E7A22A7EFAF2}"/></Flyout><StockToolRef idValue="{2AE7120B-CEE4-47A5-9B50-EF9F3ADE24AC}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3271557122"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Mains_HV_NEW_U97"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Mains_HV_NEW_U97</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Cable New UG"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LinetypeTableRecord numberOfPatternElements="3">
+								<SymbolTableNameRecord>Cable New UG</SymbolTableNameRecord>
+								<Description>UG NEW CABLE</Description>
+								<TotalPatternLength>9.350000</TotalPatternLength>
+								<LinetypeElements>
+									<LinetypeElement>
+										<Dash>7.000000</Dash>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-0.250000</Space>
+										<ComplexLinetypeElement handle="2129599624" isAbsoluteRotation="FALSE" scaleFactor="2.000000">
+											<Rotation>0.000000</Rotation>
+											<OffsetX>0.200000</OffsetX>
+											<OffsetY>-0.800000</OffsetY>
+											<TextString>x</TextString>
+										</ComplexLinetypeElement>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-2.100000</Space>
+									</LinetypeElement>
+								</LinetypeElements>
+								<TextstyleTableRecordCollection>
+									<Reference handle="2129599624">
+										<Textstyle>
+											<BasicPropInfo>
+												<PropValue unspecified="FALSE" valueType="1" value="Standard"/>
+											</BasicPropInfo>
+										</Textstyle>
+									</Reference>
+								</TextstyleTableRecordCollection>
+							</LinetypeTableRecord>
+						</CreateInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Command>
+					<Macro><![CDATA[^C^C_plinewid;0;;^C^C_pline]]></Macro>
+				</Command>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{D30B36BC-F412-420D-B8E9-DD1BD1716CC5}"/><Properties><ItemName>U83 - 185 mm2 3C AL XLPE (UG) 11</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\Command tool_A9DDFD4A-1D98-433D-B0BF-F4E538C44F91.PNG"/></Images><Time createdUniversalDateTime="2007-12-17T09:53:50" modifiedUniversalDateTime="2012-11-14T14:08:32"/></Properties><CustomData>
+				<AcRxClassInfo className="AcDb2dPolyline"/>
+				<ToolbarButton idButton="ID_plinewid;0;^C^C_pline"/>
+			</CustomData>
+			<Source/><ToolType>2</ToolType><Flyout enable="false"><ShapePackage idValue="{4AFD3A7B-127C-468D-9DAD-D6D948BA8615}"/><CurrentShape idValue="{63B4EA09-B9B3-45BC-B864-E7A22A7EFAF2}"/></Flyout><StockToolRef idValue="{2AE7120B-CEE4-47A5-9B50-EF9F3ADE24AC}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3271557122"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Mains_HV_NEW_U83"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Mains_HV_NEW_U83</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Cable New UG"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LinetypeTableRecord numberOfPatternElements="3">
+								<SymbolTableNameRecord>Cable New UG</SymbolTableNameRecord>
+								<Description>UG NEW CABLE</Description>
+								<TotalPatternLength>9.350000</TotalPatternLength>
+								<LinetypeElements>
+									<LinetypeElement>
+										<Dash>7.000000</Dash>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-0.250000</Space>
+										<ComplexLinetypeElement handle="2129599624" isAbsoluteRotation="FALSE" scaleFactor="2.000000">
+											<Rotation>0.000000</Rotation>
+											<OffsetX>0.200000</OffsetX>
+											<OffsetY>-0.800000</OffsetY>
+											<TextString>x</TextString>
+										</ComplexLinetypeElement>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-2.100000</Space>
+									</LinetypeElement>
+								</LinetypeElements>
+								<TextstyleTableRecordCollection>
+									<Reference handle="2129599624">
+										<Textstyle>
+											<BasicPropInfo>
+												<PropValue unspecified="FALSE" valueType="1" value="Standard"/>
+											</BasicPropInfo>
+										</Textstyle>
+									</Reference>
+								</TextstyleTableRecordCollection>
+							</LinetypeTableRecord>
+						</CreateInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Command>
+					<Macro><![CDATA[^C^C_plinewid;0;;^C^C_pline]]></Macro>
+				</Command>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{D7540149-0970-45F2-975B-B467DBD33099}"/><Properties><Images option="0"/><Time createdUniversalDateTime="2007-12-17T04:37:21" modifiedUniversalDateTime="2007-12-17T04:37:21"/></Properties><Source/><ToolType>4</ToolType><StockToolRef/><Data/>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{F74D56FA-FB1B-400B-8E9E-F3EEF7AA5959}"/><Properties><ItemName>CCT</ItemName><Images option="0"/><Time createdUniversalDateTime="2007-12-17T04:37:33" modifiedUniversalDateTime="2007-12-17T04:37:33"/></Properties><Source/><ToolType>3</ToolType><StockToolRef/><Data/>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{03BB7258-F076-43F7-9B96-CCC4705320BB}"/><Properties><ItemName>A41 - 120mm sq CCT AAAC (OH) 11</ItemName><Images option="0"><Image cx="16" cy="16" IsDark="false" resource="RCDATA_16_LINE" src="%ProgramBtnRes%"/><Image cx="16" cy="16" IsDark="true" resource="RCDATA_16_LINE" src="%ProgramBtnRes%"/></Images><Time createdUniversalDateTime="2007-12-17T04:27:30" modifiedUniversalDateTime="2012-11-14T14:08:57"/></Properties><CustomData>
+				<AcRxClassInfo className="AcDbLine"/>
+				<ToolbarButton idButton="ID_Line"/>
+			</CustomData>
+			<Source/><ToolType>2</ToolType><Flyout enable="false"><ShapePackage idValue="{4AFD3A7B-127C-468D-9DAD-D6D948BA8615}"/><CurrentShape idValue="{A7FC31D7-54EB-4CC8-B5D8-539D51522D1A}"/></Flyout><StockToolRef idValue="{2AE7120B-CEE4-47A5-9B50-EF9F3ADE24AC}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3271557122"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Mains_HV_NEW_A41"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Mains_HV_NEW_A41</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Cable New OH"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LinetypeTableRecord numberOfPatternElements="2">
+								<SymbolTableNameRecord>Cable New OH</SymbolTableNameRecord>
+								<Description>NEW CONDUCTOR</Description>
+								<TotalPatternLength>6.000000</TotalPatternLength>
+								<LinetypeElements>
+									<LinetypeElement>
+										<Dash>4.000000</Dash>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-2.000000</Space>
+									</LinetypeElement>
+								</LinetypeElements>
+							</LinetypeTableRecord>
+						</CreateInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Command>
+					<Macro><![CDATA[^C^C_plinewid;0;^C^C_pline]]></Macro>
+				</Command>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{072F8BDB-4090-4097-9F1C-5CA6BFAE622D}"/><Properties><ItemName>A51 - 180mm sq CCT AAAC (OH) 11</ItemName><Images option="0"><Image cx="16" cy="16" IsDark="false" resource="RCDATA_16_LINE" src="%ProgramBtnRes%"/><Image cx="16" cy="16" IsDark="true" resource="RCDATA_16_LINE" src="%ProgramBtnRes%"/></Images><Time createdUniversalDateTime="2007-12-17T04:27:30" modifiedUniversalDateTime="2012-11-14T14:08:57"/></Properties><CustomData>
+				<AcRxClassInfo className="AcDbLine"/>
+				<ToolbarButton idButton="ID_Line"/>
+			</CustomData>
+			<Source/><ToolType>2</ToolType><Flyout enable="false"><ShapePackage idValue="{4AFD3A7B-127C-468D-9DAD-D6D948BA8615}"/><CurrentShape idValue="{A7FC31D7-54EB-4CC8-B5D8-539D51522D1A}"/></Flyout><StockToolRef idValue="{2AE7120B-CEE4-47A5-9B50-EF9F3ADE24AC}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3271557122"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Mains_HV_NEW_A51"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Mains_HV_NEW_A51</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Cable New OH"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LinetypeTableRecord numberOfPatternElements="2">
+								<SymbolTableNameRecord>Cable New OH</SymbolTableNameRecord>
+								<Description>NEW CONDUCTOR</Description>
+								<TotalPatternLength>6.000000</TotalPatternLength>
+								<LinetypeElements>
+									<LinetypeElement>
+										<Dash>4.000000</Dash>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-2.000000</Space>
+									</LinetypeElement>
+								</LinetypeElements>
+							</LinetypeTableRecord>
+						</CreateInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Command>
+					<Macro><![CDATA[^C^C_plinewid;0;^C^C_pline]]></Macro>
+				</Command>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{E52B8C6D-277F-4A94-B2F2-BF0174B67441}"/><Properties><Images option="0"/><Time createdUniversalDateTime="2007-12-17T10:01:05" modifiedUniversalDateTime="2007-12-17T10:01:05"/></Properties><Source/><ToolType>4</ToolType><StockToolRef/><Data/>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{0FF12249-EFEF-4D7A-B508-223A087FDCDF}"/><Properties><ItemName>HV ABC</ItemName><Images option="0"/><Time createdUniversalDateTime="2009-02-05T03:48:48" modifiedUniversalDateTime="2009-02-05T03:48:48"/></Properties><Source/><ToolType>3</ToolType><StockToolRef/><Data/>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{9465501D-6EA7-45AA-8664-66277FCD550F}"/><Properties><ItemName>A39 - 95mm sq ABC AL NMS (OH) 11</ItemName><Images option="0"><Image cx="16" cy="16" IsDark="false" resource="RCDATA_16_LINE" src="%ProgramBtnRes%"/><Image cx="16" cy="16" IsDark="true" resource="RCDATA_16_LINE" src="%ProgramBtnRes%"/></Images><Time createdUniversalDateTime="2007-12-17T04:27:30" modifiedUniversalDateTime="2012-11-14T14:09:36"/></Properties><CustomData>
+				<AcRxClassInfo className="AcDbLine"/>
+				<ToolbarButton idButton="ID_Line"/>
+			</CustomData>
+			<Source/><ToolType>2</ToolType><Flyout enable="false"><ShapePackage idValue="{4AFD3A7B-127C-468D-9DAD-D6D948BA8615}"/><CurrentShape idValue="{A7FC31D7-54EB-4CC8-B5D8-539D51522D1A}"/></Flyout><StockToolRef idValue="{2AE7120B-CEE4-47A5-9B50-EF9F3ADE24AC}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3271557122"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Mains_HV_NEW_A39"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Mains_HV_NEW_A39</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Cable New OH"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LinetypeTableRecord numberOfPatternElements="2">
+								<SymbolTableNameRecord>Cable New OH</SymbolTableNameRecord>
+								<Description>NEW CONDUCTOR</Description>
+								<TotalPatternLength>6.000000</TotalPatternLength>
+								<LinetypeElements>
+									<LinetypeElement>
+										<Dash>4.000000</Dash>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-2.000000</Space>
+									</LinetypeElement>
+								</LinetypeElements>
+							</LinetypeTableRecord>
+						</CreateInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Command>
+					<Macro><![CDATA[^C^C_plinewid;0;^C^C_pline]]></Macro>
+				</Command>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{0F4FC0BF-1D46-45D8-8E6B-624CA3E9A4A6}"/><Properties><ItemName>A59 - 150mm sq ABC AL NMS (OH) 11</ItemName><Images option="0"><Image cx="16" cy="16" IsDark="false" resource="RCDATA_16_LINE" src="%ProgramBtnRes%"/><Image cx="16" cy="16" IsDark="true" resource="RCDATA_16_LINE" src="%ProgramBtnRes%"/></Images><Time createdUniversalDateTime="2007-12-17T04:27:30" modifiedUniversalDateTime="2012-11-14T14:09:36"/></Properties><CustomData>
+				<AcRxClassInfo className="AcDbLine"/>
+				<ToolbarButton idButton="ID_Line"/>
+			</CustomData>
+			<Source/><ToolType>2</ToolType><Flyout enable="false"><ShapePackage idValue="{4AFD3A7B-127C-468D-9DAD-D6D948BA8615}"/><CurrentShape idValue="{A7FC31D7-54EB-4CC8-B5D8-539D51522D1A}"/></Flyout><StockToolRef idValue="{2AE7120B-CEE4-47A5-9B50-EF9F3ADE24AC}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3271557122"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Mains_HV_NEW_A59"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Mains_HV_NEW_A59</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Cable New OH"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LinetypeTableRecord numberOfPatternElements="2">
+								<SymbolTableNameRecord>Cable New OH</SymbolTableNameRecord>
+								<Description>NEW CONDUCTOR</Description>
+								<TotalPatternLength>6.000000</TotalPatternLength>
+								<LinetypeElements>
+									<LinetypeElement>
+										<Dash>4.000000</Dash>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-2.000000</Space>
+									</LinetypeElement>
+								</LinetypeElements>
+							</LinetypeTableRecord>
+						</CreateInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Command>
+					<Macro><![CDATA[^C^C_plinewid;0;^C^C_pline]]></Macro>
+				</Command>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{89E2CB05-9921-4468-BF23-CB441029214E}"/><Properties><ItemName>Bare</ItemName><Images option="0"/><Time createdUniversalDateTime="2007-12-17T10:00:56" modifiedUniversalDateTime="2007-12-17T10:00:56"/></Properties><Source/><ToolType>3</ToolType><StockToolRef/><Data/>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{FA52AE35-CB0E-4D16-AD7F-8C708D5213A4}"/><Properties><ItemName>A43 - 7/4.5 AAAC (OH) 11</ItemName><Images option="0"><Image cx="16" cy="16" IsDark="false" resource="RCDATA_16_LINE" src="%ProgramBtnRes%"/><Image cx="16" cy="16" IsDark="true" resource="RCDATA_16_LINE" src="%ProgramBtnRes%"/></Images><Time createdUniversalDateTime="2007-12-17T04:27:30" modifiedUniversalDateTime="2012-11-14T14:09:36"/></Properties><CustomData>
+				<AcRxClassInfo className="AcDbLine"/>
+				<ToolbarButton idButton="ID_Line"/>
+			</CustomData>
+			<Source/><ToolType>2</ToolType><Flyout enable="false"><ShapePackage idValue="{4AFD3A7B-127C-468D-9DAD-D6D948BA8615}"/><CurrentShape idValue="{A7FC31D7-54EB-4CC8-B5D8-539D51522D1A}"/></Flyout><StockToolRef idValue="{2AE7120B-CEE4-47A5-9B50-EF9F3ADE24AC}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3271557122"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Mains_HV_NEW_A43"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Mains_HV_NEW_A43</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Cable New OH"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LinetypeTableRecord numberOfPatternElements="2">
+								<SymbolTableNameRecord>Cable New OH</SymbolTableNameRecord>
+								<Description>NEW CONDUCTOR</Description>
+								<TotalPatternLength>6.000000</TotalPatternLength>
+								<LinetypeElements>
+									<LinetypeElement>
+										<Dash>4.000000</Dash>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-2.000000</Space>
+									</LinetypeElement>
+								</LinetypeElements>
+							</LinetypeTableRecord>
+						</CreateInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Command>
+					<Macro><![CDATA[^C^C_plinewid;0;^C^C_pline]]></Macro>
+				</Command>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{B8F3FE59-30A0-4543-AA00-EDB642F64BFD}"/><Properties><ItemName>A44 - 7/4.50 AAC(7/0.173) Mercury(Wasp)</ItemName><Images option="0"><Image cx="16" cy="16" IsDark="false" resource="RCDATA_16_LINE" src="%ProgramBtnRes%"/><Image cx="16" cy="16" IsDark="true" resource="RCDATA_16_LINE" src="%ProgramBtnRes%"/></Images><Time createdUniversalDateTime="2007-12-17T04:27:30" modifiedUniversalDateTime="2012-11-14T14:09:36"/></Properties><CustomData>
+				<AcRxClassInfo className="AcDbLine"/>
+				<ToolbarButton idButton="ID_Line"/>
+			</CustomData>
+			<Source/><ToolType>2</ToolType><Flyout enable="false"><ShapePackage idValue="{4AFD3A7B-127C-468D-9DAD-D6D948BA8615}"/><CurrentShape idValue="{A7FC31D7-54EB-4CC8-B5D8-539D51522D1A}"/></Flyout><StockToolRef idValue="{2AE7120B-CEE4-47A5-9B50-EF9F3ADE24AC}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3271557122"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Mains_HV_NEW_A44"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Mains_HV_NEW_A44</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Cable New OH"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LinetypeTableRecord numberOfPatternElements="2">
+								<SymbolTableNameRecord>Cable New OH</SymbolTableNameRecord>
+								<Description>NEW CONDUCTOR</Description>
+								<TotalPatternLength>6.000000</TotalPatternLength>
+								<LinetypeElements>
+									<LinetypeElement>
+										<Dash>4.000000</Dash>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-2.000000</Space>
+									</LinetypeElement>
+								</LinetypeElements>
+							</LinetypeTableRecord>
+						</CreateInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Command>
+					<Macro><![CDATA[^C^C_plinewid;0;^C^C_pline]]></Macro>
+				</Command>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{9443F362-6C61-4D4D-9CFA-191F9C642095}"/><Properties><ItemName>H54 - 19/3.25 ACC (19/0.128) Neptune (Hornet)</ItemName><Images option="0"><Image cx="16" cy="16" IsDark="false" resource="RCDATA_16_LINE" src="%ProgramBtnRes%"/><Image cx="16" cy="16" IsDark="true" resource="RCDATA_16_LINE" src="%ProgramBtnRes%"/></Images><Time createdUniversalDateTime="2007-12-17T04:27:30" modifiedUniversalDateTime="2012-11-14T14:10:35"/></Properties><CustomData>
+				<AcRxClassInfo className="AcDbLine"/>
+				<ToolbarButton idButton="ID_Line"/>
+			</CustomData>
+			<Source/><ToolType>2</ToolType><Flyout enable="false"><ShapePackage idValue="{4AFD3A7B-127C-468D-9DAD-D6D948BA8615}"/><CurrentShape idValue="{A7FC31D7-54EB-4CC8-B5D8-539D51522D1A}"/></Flyout><StockToolRef idValue="{2AE7120B-CEE4-47A5-9B50-EF9F3ADE24AC}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3271557122"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Mains_HV_NEW_H54"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Mains_HV_NEW_H54</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Cable New OH"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LinetypeTableRecord numberOfPatternElements="2">
+								<SymbolTableNameRecord>Cable New OH</SymbolTableNameRecord>
+								<Description>NEW CONDUCTOR</Description>
+								<TotalPatternLength>6.000000</TotalPatternLength>
+								<LinetypeElements>
+									<LinetypeElement>
+										<Dash>4.000000</Dash>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-2.000000</Space>
+									</LinetypeElement>
+								</LinetypeElements>
+							</LinetypeTableRecord>
+						</CreateInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Command>
+					<Macro><![CDATA[^C^C_plinewid;0;^C^C_pline]]></Macro>
+				</Command>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{64186DBF-A225-40AB-8EF1-DAFB9C5EE0B1}"/><Properties><ItemName>A55 - 19/3.25 AAAC (OH) 11</ItemName><Images option="0"><Image cx="16" cy="16" IsDark="false" resource="RCDATA_16_LINE" src="%ProgramBtnRes%"/><Image cx="16" cy="16" IsDark="true" resource="RCDATA_16_LINE" src="%ProgramBtnRes%"/></Images><Time createdUniversalDateTime="2007-12-17T04:27:30" modifiedUniversalDateTime="2012-11-14T14:09:36"/></Properties><CustomData>
+				<AcRxClassInfo className="AcDbLine"/>
+				<ToolbarButton idButton="ID_Line"/>
+			</CustomData>
+			<Source/><ToolType>2</ToolType><Flyout enable="false"><ShapePackage idValue="{4AFD3A7B-127C-468D-9DAD-D6D948BA8615}"/><CurrentShape idValue="{A7FC31D7-54EB-4CC8-B5D8-539D51522D1A}"/></Flyout><StockToolRef idValue="{2AE7120B-CEE4-47A5-9B50-EF9F3ADE24AC}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3271557122"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Mains_HV_NEW_A55"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Mains_HV_NEW_A55</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Cable New OH"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LinetypeTableRecord numberOfPatternElements="2">
+								<SymbolTableNameRecord>Cable New OH</SymbolTableNameRecord>
+								<Description>NEW CONDUCTOR</Description>
+								<TotalPatternLength>6.000000</TotalPatternLength>
+								<LinetypeElements>
+									<LinetypeElement>
+										<Dash>4.000000</Dash>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-2.000000</Space>
+									</LinetypeElement>
+								</LinetypeElements>
+							</LinetypeTableRecord>
+						</CreateInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Command>
+					<Macro><![CDATA[^C^C_plinewid;0;^C^C_pline]]></Macro>
+				</Command>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{006BF195-3B67-4BFE-BBC3-216898177AEA}"/><Properties><ItemName>A65 - 19/3.75 AAAC (.2 CU EQUIV) (OH) 11</ItemName><Images option="0"><Image cx="16" cy="16" IsDark="false" resource="RCDATA_16_LINE" src="%ProgramBtnRes%"/><Image cx="16" cy="16" IsDark="true" resource="RCDATA_16_LINE" src="%ProgramBtnRes%"/></Images><Time createdUniversalDateTime="2007-12-17T04:27:30" modifiedUniversalDateTime="2012-11-14T14:09:36"/></Properties><CustomData>
+				<AcRxClassInfo className="AcDbLine"/>
+				<ToolbarButton idButton="ID_Line"/>
+			</CustomData>
+			<Source/><ToolType>2</ToolType><Flyout enable="false"><ShapePackage idValue="{4AFD3A7B-127C-468D-9DAD-D6D948BA8615}"/><CurrentShape idValue="{A7FC31D7-54EB-4CC8-B5D8-539D51522D1A}"/></Flyout><StockToolRef idValue="{2AE7120B-CEE4-47A5-9B50-EF9F3ADE24AC}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3271557122"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Mains_HV_NEW_A65"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Mains_HV_NEW_A65</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Cable New OH"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LinetypeTableRecord numberOfPatternElements="2">
+								<SymbolTableNameRecord>Cable New OH</SymbolTableNameRecord>
+								<Description>NEW CONDUCTOR</Description>
+								<TotalPatternLength>6.000000</TotalPatternLength>
+								<LinetypeElements>
+									<LinetypeElement>
+										<Dash>4.000000</Dash>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-2.000000</Space>
+									</LinetypeElement>
+								</LinetypeElements>
+							</LinetypeTableRecord>
+						</CreateInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Command>
+					<Macro><![CDATA[^C^C_plinewid;0;^C^C_pline]]></Macro>
+				</Command>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{505BF6A5-0F06-42C1-948F-211695F92B48}"/><Properties><Images option="0"/><Time createdUniversalDateTime="2009-02-05T03:43:37" modifiedUniversalDateTime="2009-02-05T03:43:37"/></Properties><Source/><ToolType>4</ToolType><StockToolRef/><Data/>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{162043BA-704F-4978-AF11-73684CE1CA24}"/><Properties><ItemName>22kV 3 Phase</ItemName><Images option="0"/><Time createdUniversalDateTime="2007-12-17T04:37:10" modifiedUniversalDateTime="2007-12-17T04:37:10"/></Properties><Source/><ToolType>3</ToolType><StockToolRef/><Data/>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{AB3EFCDA-3E7D-4A18-93FF-0CAA583867AB}"/><Properties><ItemName>Underground</ItemName><Images option="0"/><Time createdUniversalDateTime="2009-02-05T03:50:47" modifiedUniversalDateTime="2009-02-05T03:50:47"/></Properties><Source/><ToolType>3</ToolType><StockToolRef/><Data/>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{5F5A84D8-B8F7-463A-9F3C-113059FA2B9B}"/><Properties><ItemName>V17- 240 mm2 3C AL SCRND  XLPE (UG) 22</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\Command tool_4E67FBB0-0B8D-48DC-9795-3E886AD5C687.PNG"/></Images><Time createdUniversalDateTime="2007-12-17T09:53:50" modifiedUniversalDateTime="2012-11-14T14:10:12"/></Properties><CustomData>
+				<AcRxClassInfo className="AcDb2dPolyline"/>
+				<ToolbarButton idButton="ID_plinewid;0;^C^C_pline"/>
+			</CustomData>
+			<Source/><ToolType>2</ToolType><Flyout enable="false"><ShapePackage idValue="{4AFD3A7B-127C-468D-9DAD-D6D948BA8615}"/><CurrentShape idValue="{63B4EA09-B9B3-45BC-B864-E7A22A7EFAF2}"/></Flyout><StockToolRef idValue="{2AE7120B-CEE4-47A5-9B50-EF9F3ADE24AC}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3271557122"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Mains_HV_NEW_V17"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Mains_HV_NEW_V17</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Cable New UG"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LinetypeTableRecord numberOfPatternElements="3">
+								<SymbolTableNameRecord>Cable New UG</SymbolTableNameRecord>
+								<Description>UG NEW CABLE</Description>
+								<TotalPatternLength>9.350000</TotalPatternLength>
+								<LinetypeElements>
+									<LinetypeElement>
+										<Dash>7.000000</Dash>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-0.250000</Space>
+										<ComplexLinetypeElement handle="2129599624" isAbsoluteRotation="FALSE" scaleFactor="2.000000">
+											<Rotation>0.000000</Rotation>
+											<OffsetX>0.200000</OffsetX>
+											<OffsetY>-0.800000</OffsetY>
+											<TextString>x</TextString>
+										</ComplexLinetypeElement>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-2.100000</Space>
+									</LinetypeElement>
+								</LinetypeElements>
+								<TextstyleTableRecordCollection>
+									<Reference handle="2129599624">
+										<Textstyle>
+											<BasicPropInfo>
+												<PropValue unspecified="FALSE" valueType="1" value="Standard"/>
+											</BasicPropInfo>
+										</Textstyle>
+									</Reference>
+								</TextstyleTableRecordCollection>
+							</LinetypeTableRecord>
+						</CreateInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Command>
+					<Macro><![CDATA[^C^C_plinewid;0;;^C^C_pline]]></Macro>
+				</Command>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{ECF587DD-3833-4877-8FE5-1C4BE7015D42}"/><Properties><ItemName>V97 - 240 mm2 3C CU XLPE (UG) 22</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\Command tool_E9094F62-6FB5-4D0C-A167-E83A5770F945.PNG"/></Images><Time createdUniversalDateTime="2007-12-17T09:53:50" modifiedUniversalDateTime="2012-11-14T14:10:12"/></Properties><CustomData>
+				<AcRxClassInfo className="AcDb2dPolyline"/>
+				<ToolbarButton idButton="ID_plinewid;0;^C^C_pline"/>
+			</CustomData>
+			<Source/><ToolType>2</ToolType><Flyout enable="false"><ShapePackage idValue="{4AFD3A7B-127C-468D-9DAD-D6D948BA8615}"/><CurrentShape idValue="{63B4EA09-B9B3-45BC-B864-E7A22A7EFAF2}"/></Flyout><StockToolRef idValue="{2AE7120B-CEE4-47A5-9B50-EF9F3ADE24AC}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3271557122"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Mains_HV_NEW_V97"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Mains_HV_NEW_V97</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Cable New UG"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LinetypeTableRecord numberOfPatternElements="3">
+								<SymbolTableNameRecord>Cable New UG</SymbolTableNameRecord>
+								<Description>UG NEW CABLE</Description>
+								<TotalPatternLength>9.350000</TotalPatternLength>
+								<LinetypeElements>
+									<LinetypeElement>
+										<Dash>7.000000</Dash>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-0.250000</Space>
+										<ComplexLinetypeElement handle="2129599624" isAbsoluteRotation="FALSE" scaleFactor="2.000000">
+											<Rotation>0.000000</Rotation>
+											<OffsetX>0.200000</OffsetX>
+											<OffsetY>-0.800000</OffsetY>
+											<TextString>x</TextString>
+										</ComplexLinetypeElement>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-2.100000</Space>
+									</LinetypeElement>
+								</LinetypeElements>
+								<TextstyleTableRecordCollection>
+									<Reference handle="2129599624">
+										<Textstyle>
+											<BasicPropInfo>
+												<PropValue unspecified="FALSE" valueType="1" value="Standard"/>
+											</BasicPropInfo>
+										</Textstyle>
+									</Reference>
+								</TextstyleTableRecordCollection>
+							</LinetypeTableRecord>
+						</CreateInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Command>
+					<Macro><![CDATA[^C^C_plinewid;0;;^C^C_pline]]></Macro>
+				</Command>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{BCE4AD72-8175-4FA3-BC24-9CA9FD129FDA}"/><Properties><ItemName>CCT</ItemName><Images option="0"/><Time createdUniversalDateTime="2009-02-05T03:43:11" modifiedUniversalDateTime="2009-02-05T03:43:11"/></Properties><Source/><ToolType>3</ToolType><StockToolRef/><Data/>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{9290D4E2-0DE6-4217-8168-886C0D1FE536}"/><Properties><ItemName>H41 - 120mm sq CCT AAAC (OH) 22</ItemName><Images option="0"><Image cx="16" cy="16" IsDark="false" resource="RCDATA_16_LINE" src="%ProgramBtnRes%"/><Image cx="16" cy="16" IsDark="true" resource="RCDATA_16_LINE" src="%ProgramBtnRes%"/></Images><Time createdUniversalDateTime="2007-12-17T04:27:30" modifiedUniversalDateTime="2012-11-14T14:10:35"/></Properties><CustomData>
+				<AcRxClassInfo className="AcDbLine"/>
+				<ToolbarButton idButton="ID_Line"/>
+			</CustomData>
+			<Source/><ToolType>2</ToolType><Flyout enable="false"><ShapePackage idValue="{4AFD3A7B-127C-468D-9DAD-D6D948BA8615}"/><CurrentShape idValue="{A7FC31D7-54EB-4CC8-B5D8-539D51522D1A}"/></Flyout><StockToolRef idValue="{2AE7120B-CEE4-47A5-9B50-EF9F3ADE24AC}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3271557122"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Mains_HV_NEW_H41"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Mains_HV_NEW_H41</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Cable New OH"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LinetypeTableRecord numberOfPatternElements="2">
+								<SymbolTableNameRecord>Cable New OH</SymbolTableNameRecord>
+								<Description>NEW CONDUCTOR</Description>
+								<TotalPatternLength>6.000000</TotalPatternLength>
+								<LinetypeElements>
+									<LinetypeElement>
+										<Dash>4.000000</Dash>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-2.000000</Space>
+									</LinetypeElement>
+								</LinetypeElements>
+							</LinetypeTableRecord>
+						</CreateInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Command>
+					<Macro><![CDATA[^C^C_plinewid;0;^C^C_pline]]></Macro>
+				</Command>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{62FE0F70-3FF9-4045-BB05-33590A6BA70A}"/><Properties><ItemName>H51 - 180mm sq CCT AAAC (OH) 22</ItemName><Images option="0"><Image cx="16" cy="16" IsDark="false" resource="RCDATA_16_LINE" src="%ProgramBtnRes%"/><Image cx="16" cy="16" IsDark="true" resource="RCDATA_16_LINE" src="%ProgramBtnRes%"/></Images><Time createdUniversalDateTime="2007-12-17T04:27:30" modifiedUniversalDateTime="2012-11-14T14:10:35"/></Properties><CustomData>
+				<AcRxClassInfo className="AcDbLine"/>
+				<ToolbarButton idButton="ID_Line"/>
+			</CustomData>
+			<Source/><ToolType>2</ToolType><Flyout enable="false"><ShapePackage idValue="{4AFD3A7B-127C-468D-9DAD-D6D948BA8615}"/><CurrentShape idValue="{A7FC31D7-54EB-4CC8-B5D8-539D51522D1A}"/></Flyout><StockToolRef idValue="{2AE7120B-CEE4-47A5-9B50-EF9F3ADE24AC}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3271557122"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Mains_HV_NEW_H51"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Mains_HV_NEW_H51</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Cable New OH"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LinetypeTableRecord numberOfPatternElements="2">
+								<SymbolTableNameRecord>Cable New OH</SymbolTableNameRecord>
+								<Description>NEW CONDUCTOR</Description>
+								<TotalPatternLength>6.000000</TotalPatternLength>
+								<LinetypeElements>
+									<LinetypeElement>
+										<Dash>4.000000</Dash>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-2.000000</Space>
+									</LinetypeElement>
+								</LinetypeElements>
+							</LinetypeTableRecord>
+						</CreateInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Command>
+					<Macro><![CDATA[^C^C_plinewid;0;^C^C_pline]]></Macro>
+				</Command>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{F8A5B607-ADFE-4D23-A723-B94FE95429C1}"/><Properties><ItemName>HV ABC</ItemName><Images option="0"/><Time createdUniversalDateTime="2009-02-05T20:38:09" modifiedUniversalDateTime="2009-02-05T20:38:09"/></Properties><Source/><ToolType>3</ToolType><StockToolRef/><Data/>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{87C4CE48-2EE1-43C0-BCEE-74C394703280}"/><Properties><ItemName>H59 - 150mm sq ABC AL NMS (OH) 22</ItemName><Images option="0"><Image cx="16" cy="16" IsDark="false" resource="RCDATA_16_LINE" src="%ProgramBtnRes%"/><Image cx="16" cy="16" IsDark="true" resource="RCDATA_16_LINE" src="%ProgramBtnRes%"/></Images><Time createdUniversalDateTime="2007-12-17T04:27:30" modifiedUniversalDateTime="2012-11-14T14:10:35"/></Properties><CustomData>
+				<AcRxClassInfo className="AcDbLine"/>
+				<ToolbarButton idButton="ID_Line"/>
+			</CustomData>
+			<Source/><ToolType>2</ToolType><Flyout enable="false"><ShapePackage idValue="{4AFD3A7B-127C-468D-9DAD-D6D948BA8615}"/><CurrentShape idValue="{A7FC31D7-54EB-4CC8-B5D8-539D51522D1A}"/></Flyout><StockToolRef idValue="{2AE7120B-CEE4-47A5-9B50-EF9F3ADE24AC}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3271557122"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Mains_HV_NEW_H59"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Mains_HV_NEW_H59</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Cable New OH"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LinetypeTableRecord numberOfPatternElements="2">
+								<SymbolTableNameRecord>Cable New OH</SymbolTableNameRecord>
+								<Description>NEW CONDUCTOR</Description>
+								<TotalPatternLength>6.000000</TotalPatternLength>
+								<LinetypeElements>
+									<LinetypeElement>
+										<Dash>4.000000</Dash>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-2.000000</Space>
+									</LinetypeElement>
+								</LinetypeElements>
+							</LinetypeTableRecord>
+						</CreateInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Command>
+					<Macro><![CDATA[^C^C_plinewid;0;^C^C_pline]]></Macro>
+				</Command>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{F79CAE44-FF4A-4AC1-8467-FC9AEFF672B5}"/><Properties><ItemName>Bare</ItemName><Images option="0"/><Time createdUniversalDateTime="2009-02-05T03:41:51" modifiedUniversalDateTime="2009-02-05T03:41:51"/></Properties><Source/><ToolType>3</ToolType><StockToolRef/><Data/>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{984700F8-00BC-4F64-90F0-22C199B675CB}"/><Properties><ItemName>H43 - 7/4.5 AAAC (OH) 22</ItemName><Images option="0"><Image cx="16" cy="16" IsDark="false" resource="RCDATA_16_LINE" src="%ProgramBtnRes%"/><Image cx="16" cy="16" IsDark="true" resource="RCDATA_16_LINE" src="%ProgramBtnRes%"/></Images><Time createdUniversalDateTime="2007-12-17T04:27:30" modifiedUniversalDateTime="2012-11-14T14:10:35"/></Properties><CustomData>
+				<AcRxClassInfo className="AcDbLine"/>
+				<ToolbarButton idButton="ID_Line"/>
+			</CustomData>
+			<Source/><ToolType>2</ToolType><Flyout enable="false"><ShapePackage idValue="{4AFD3A7B-127C-468D-9DAD-D6D948BA8615}"/><CurrentShape idValue="{A7FC31D7-54EB-4CC8-B5D8-539D51522D1A}"/></Flyout><StockToolRef idValue="{2AE7120B-CEE4-47A5-9B50-EF9F3ADE24AC}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3271557122"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Mains_HV_NEW_H43"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Mains_HV_NEW_H43</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Cable New OH"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LinetypeTableRecord numberOfPatternElements="2">
+								<SymbolTableNameRecord>Cable New OH</SymbolTableNameRecord>
+								<Description>NEW CONDUCTOR</Description>
+								<TotalPatternLength>6.000000</TotalPatternLength>
+								<LinetypeElements>
+									<LinetypeElement>
+										<Dash>4.000000</Dash>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-2.000000</Space>
+									</LinetypeElement>
+								</LinetypeElements>
+							</LinetypeTableRecord>
+						</CreateInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Command>
+					<Macro><![CDATA[^C^C_plinewid;0;^C^C_pline]]></Macro>
+				</Command>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{50D3E201-12CF-425E-8417-43BF66087FB5}"/><Properties><ItemName>H55 - 19/3.25 AAAC (OH) 22</ItemName><Images option="0"><Image cx="16" cy="16" IsDark="false" resource="RCDATA_16_LINE" src="%ProgramBtnRes%"/><Image cx="16" cy="16" IsDark="true" resource="RCDATA_16_LINE" src="%ProgramBtnRes%"/></Images><Time createdUniversalDateTime="2007-12-17T04:27:30" modifiedUniversalDateTime="2012-11-14T14:10:35"/></Properties><CustomData>
+				<AcRxClassInfo className="AcDbLine"/>
+				<ToolbarButton idButton="ID_Line"/>
+			</CustomData>
+			<Source/><ToolType>2</ToolType><Flyout enable="false"><ShapePackage idValue="{4AFD3A7B-127C-468D-9DAD-D6D948BA8615}"/><CurrentShape idValue="{A7FC31D7-54EB-4CC8-B5D8-539D51522D1A}"/></Flyout><StockToolRef idValue="{2AE7120B-CEE4-47A5-9B50-EF9F3ADE24AC}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3271557122"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Mains_HV_NEW_H55"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Mains_HV_NEW_H55</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Cable New OH"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LinetypeTableRecord numberOfPatternElements="2">
+								<SymbolTableNameRecord>Cable New OH</SymbolTableNameRecord>
+								<Description>NEW CONDUCTOR</Description>
+								<TotalPatternLength>6.000000</TotalPatternLength>
+								<LinetypeElements>
+									<LinetypeElement>
+										<Dash>4.000000</Dash>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-2.000000</Space>
+									</LinetypeElement>
+								</LinetypeElements>
+							</LinetypeTableRecord>
+						</CreateInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Command>
+					<Macro><![CDATA[^C^C_plinewid;0;^C^C_pline]]></Macro>
+				</Command>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{66623AFA-8E5F-495E-9AE6-CB399D82B82E}"/><Properties><ItemName>H65 - 19/3.75 AAAC (.2 CU EQUIV) (OH) 22</ItemName><Images option="0"><Image cx="16" cy="16" IsDark="false" resource="RCDATA_16_LINE" src="%ProgramBtnRes%"/><Image cx="16" cy="16" IsDark="true" resource="RCDATA_16_LINE" src="%ProgramBtnRes%"/></Images><Time createdUniversalDateTime="2007-12-17T04:27:30" modifiedUniversalDateTime="2012-11-14T14:10:35"/></Properties><CustomData>
+				<AcRxClassInfo className="AcDbLine"/>
+				<ToolbarButton idButton="ID_Line"/>
+			</CustomData>
+			<Source/><ToolType>2</ToolType><Flyout enable="false"><ShapePackage idValue="{4AFD3A7B-127C-468D-9DAD-D6D948BA8615}"/><CurrentShape idValue="{A7FC31D7-54EB-4CC8-B5D8-539D51522D1A}"/></Flyout><StockToolRef idValue="{2AE7120B-CEE4-47A5-9B50-EF9F3ADE24AC}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3271557122"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Mains_HV_NEW_H65"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Mains_HV_NEW_H65</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Cable New OH"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LinetypeTableRecord numberOfPatternElements="2">
+								<SymbolTableNameRecord>Cable New OH</SymbolTableNameRecord>
+								<Description>NEW CONDUCTOR</Description>
+								<TotalPatternLength>6.000000</TotalPatternLength>
+								<LinetypeElements>
+									<LinetypeElement>
+										<Dash>4.000000</Dash>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-2.000000</Space>
+									</LinetypeElement>
+								</LinetypeElements>
+							</LinetypeTableRecord>
+						</CreateInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Command>
+					<Macro><![CDATA[^C^C_plinewid;0;^C^C_pline]]></Macro>
+				</Command>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{15CD61BD-2ED9-4A6A-9A7D-EE53B9FE0A49}"/><Properties><Images option="0"/><Time createdUniversalDateTime="2009-02-05T20:51:22" modifiedUniversalDateTime="2009-02-05T20:51:22"/></Properties><Source/><ToolType>4</ToolType><StockToolRef/><Data/>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{9262A94E-7F72-47E2-9F27-AF6AA07C6E17}"/><Properties><ItemName>Existing HV Overhead Mains</ItemName><Images option="0"><Image cx="16" cy="16" IsDark="false" resource="RCDATA_16_LINE" src="%ProgramBtnRes%"/><Image cx="16" cy="16" IsDark="true" resource="RCDATA_16_LINE" src="%ProgramBtnRes%"/></Images><Time createdUniversalDateTime="2007-12-17T04:27:30" modifiedUniversalDateTime="2012-11-13T11:47:28"/></Properties><CustomData>
+				<AcRxClassInfo className="AcDbLine"/>
+				<ToolbarButton idButton="ID_Line"/>
+			</CustomData>
+			<Source/><ToolType>2</ToolType><Flyout enable="false"><ShapePackage idValue="{4AFD3A7B-127C-468D-9DAD-D6D948BA8615}"/><CurrentShape idValue="{A7FC31D7-54EB-4CC8-B5D8-539D51522D1A}"/></Flyout><StockToolRef idValue="{2AE7120B-CEE4-47A5-9B50-EF9F3ADE24AC}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3271557127"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="_User_HV_Exist"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>_User_HV_Exist</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Cable Exist OH"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LinetypeTableRecord numberOfPatternElements="2">
+								<SymbolTableNameRecord>Cable Exist OH</SymbolTableNameRecord>
+								<Description>EXIST CONDUCTOR</Description>
+								<TotalPatternLength>1.000000</TotalPatternLength>
+								<LinetypeElements>
+									<LinetypeElement>
+										<Dash>1.000000</Dash>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Dot/>
+									</LinetypeElement>
+								</LinetypeElements>
+							</LinetypeTableRecord>
+						</CreateInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Command>
+					<Macro><![CDATA[^C^C_plinewid;0;^C^C_pline]]></Macro>
+				</Command>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{6489900B-F986-424A-B93A-EEC3B8F158DB}"/><Properties><ItemName>Existing HV Underground Mains</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\Command tool_ABFC9F74-8062-4895-B07A-80268C27B7EC.PNG"/></Images><Time createdUniversalDateTime="2007-12-17T09:53:50" modifiedUniversalDateTime="2012-11-13T11:47:28"/></Properties><CustomData>
+				<AcRxClassInfo className="AcDb2dPolyline"/>
+				<ToolbarButton idButton="ID_plinewid;0;^C^C_pline"/>
+			</CustomData>
+			<Source/><ToolType>2</ToolType><Flyout enable="false"><ShapePackage idValue="{4AFD3A7B-127C-468D-9DAD-D6D948BA8615}"/><CurrentShape idValue="{63B4EA09-B9B3-45BC-B864-E7A22A7EFAF2}"/></Flyout><StockToolRef idValue="{2AE7120B-CEE4-47A5-9B50-EF9F3ADE24AC}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3271557127"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="_User_HV_Exist"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>_User_HV_Exist</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Cable Exist UG"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LinetypeTableRecord numberOfPatternElements="4">
+								<SymbolTableNameRecord>Cable Exist UG</SymbolTableNameRecord>
+								<Description>EXIT CABLE</Description>
+								<TotalPatternLength>8.200000</TotalPatternLength>
+								<LinetypeElements>
+									<LinetypeElement>
+										<Dash>4.000000</Dash>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-1.200000</Space>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Dash>1.800000</Dash>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-1.200000</Space>
+									</LinetypeElement>
+								</LinetypeElements>
+							</LinetypeTableRecord>
+						</CreateInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Command>
+					<Macro><![CDATA[^C^C_plinewid;0;;^C^C_pline]]></Macro>
+				</Command>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{6BF6C720-E727-4CEC-AA72-EB207195A8EB}"/><Properties><Images option="0"/><Time createdUniversalDateTime="2012-07-04T02:02:13" modifiedUniversalDateTime="2012-07-04T02:02:13"/></Properties><Source/><ToolType>4</ToolType><StockToolRef/><Data/>
+		</Tool></Tools></Palette>

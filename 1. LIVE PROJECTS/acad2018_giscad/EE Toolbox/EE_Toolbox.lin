@@ -1,0 +1,74 @@
+;; Endeavour Energy Standard Linetypes
+
+*Cable Exist UG,EXIT CABLE
+A,4,-1.2,1.8,-1.2
+*Cable Exist OH,EXIST CONDUCTOR
+A,1,0
+*Cable Remove,CABLE REMOVE
+A,0,-2
+*Cable New OH,NEW CONDUCTOR
+A,4,-2
+*Cable New UG,UG NEW CABLE
+A,7,-0.25,["x",STANDARD,S=2,R=0,X=0.2,Y=-0.8],-2.1
+;; -----------------------------------------------------------
+*Cable 1,CABLE //
+A,7,-3,["//",STANDARD,S=1.5,R=0.0,X=-2.54,Y=-0.8],-0.001
+*Cable 2,CABLE >
+A,7.5,-0.4,[">",STANDARD,S=4,R=0,X=0.5,Y=-1.3],-4.2
+*Cable 3,CABLE >>
+A,6,-0.4,[">>",STANDARD,S=4,R=0,X=0.25,Y=-1.3],-6
+*Cable 4,CABLE o
+A,5.25,-0.1,["o",STANDARD,S=2,R=0,X=1.5,Y=-0.7],-4
+*Cable 5,CABLE oo
+A,10,-1,["o",STANDARD,S=2,R=0,X=-1,Y=-0.7],-0.00001,["o",STANDARD,S=2,R=0,X=-0.2,Y=-0.7],-1.2
+*Cable #,CABLE #
+A,8,-0.1,["#",STANDARD,S=1.8,R=0,X=0.8,Y=-0.9],-3.3
+*Cable +,CABLE +
+A,7,-0.1,["+",STANDARD,S=3.5,R=0,X=0.5,Y=-1.2],-3.5
+*Cable G,CABLE G
+A,6,-0.5,["G",STANDARD,S=1.7,R=0,X=0.5,Y=-1],-2.8
+*Cable T,CABLE T
+A,6,-0.5,["T",STANDARD,S=1.7,R=0,X=0.5,Y=-1],-2.9
+*Cable V,CABLE V
+A,7.2,-0.45,["V",STANDARD,S=1.5,R=0,Y=-0.7],-1.8
+*Cable W,CABLE W
+A,7.2,-0.3,["W",STANDARD,S=2.2,R=0,X=0.1,Y=-0.8],-2.9
+*Cable P UG,CABLE P UG
+A,6,-0.5,["P",STANDARD,S=1.7,R=0,X=0.5,Y=-1],-2.9
+*Cable P OH,CABLE P OH
+A,9.4,["P",STANDARD,S=1.7,R=0,X=0.0,Y=-1],0.0
+*Cable E UG,CABLE E UG
+A,6,-0.5,["E",STANDARD,S=1.7,R=0,X=0.5,Y=-1],-2.9
+*Cable E OH,CABLE E OH
+A,9.4,["E",STANDARD,S=1.7,R=0,X=0.0,Y=-1],0.0
+;; -------------------------------------------------------------
+*Cable x,CABLE x
+A,7,-0.25,["x",STANDARD,S=2,R=0,X=0.2,Y=-0.8],-2.1
+*Cable o,CABLE o
+A,5.25,-0.1,["o",STANDARD,S=2,R=0,X=1.5,Y=-0.7],-4
+*Cable xx,CABLE XX
+A,7,-3.3,["XX",STANDARD,S=1.5,R=0.0,X=-2.54,Y=-0.8],-1
+*Cable Z,CABLE Z
+A,7,-0.1,["Z",STANDARD,S=1.5,R=0,x=0.5,Y=-0.7],-2.4
+*Cable Rem1,CABLE REMOVE
+A,6.5,-0.001,["X",STANDARD,S=2.5,R=0,Y=-1.27],-.001
+*Cable ZigZag,Zig zag
+A,.00254,-5.08,[ZIG,ltypeshp.shx,x=-5.08,s=5.08],-10.16,[ZIG,ltypeshp.shx,r=180,x=5.08,s=5.08],-5.08
+;; --------------------------------------------------------------
+*IE UGWall, UGWALL
+A,9.4,["/",STANDARD,S=1.0,R=0,X=0.0,Y=0.2],0.0
+*IE UGFence, FENCE
+A,8,-1.2,["/",STANDARD,S=1.0,R=0.0,X=-0.2,Y=-0.4],-1.4
+*IE Fence, FENCE
+A,8,-1.2,["|",STANDARD,S=1,R=0.0,Y=-0.6],-1.4
+*IE Rail, RAILWAY
+A,10,-.001,[TRACK1,ltypeshp.shx,s=1],-.001
+*IE Trench HV,HV TRENCHLINE
+A,7,-0.2,["/",STANDARD,S=3,R=0,Y=-1.4],-2.5
+*IE Trench LV,LV TRENCHLINE
+A,5,-1.5
+*IE Wall,WALL
+A,5,-0.001,["//",STANDARD,S=1,R=0.0,X=-1.5,Y=-0.95],-0.0001
+*IE Wallr,WALL RIGHT
+A,5,-0.001,["\\",STANDARD,S=1,R=0.0,X=-1.5,Y=-0.95],-0.0001
+;; --------------------------------------------------------------

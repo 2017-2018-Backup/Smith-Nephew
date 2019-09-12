@@ -1,0 +1,92 @@
+What is this Customer's name 
+  What is this Customer's File Number How many product types are in this order Enter the appropriate number from the following list of Priority Statuses.
+ (1) RUSH
+ (2) BURN
+ (3) HOTBURN
+ (4) HOTLINE
+ (5) BLUELINE
+Does VBDATA want gloves for both hands 
+  Is this for the Customer's Right or Left hand Please answer Y or N for each Option :
+ZIPPERS SLANT INSERTS REINFORCEMENTSHow many fingers,not counting the thumb, will this glove have Patient's name : VBDATA
+File Number :  1234-4
+Right or Left : LEFT
+Is the name correct (Y/N)                                                                      
+Patient's name : VBDATA
+File Number :  1234-4
+Right or Left : LEFT
+Is the File Number correct (Y/N) Is LEFT the correct hand for this glove (Y/N) 
+         How many LEFT gloves do you want to make Is this order for a Lymphadema diagnosis (Y or N)Will you be using A or B gram range fabric (A or B)Will you be using English or Metric units (E or M)
+
+
+
+   Now enter the finger circumferences and lengths, 1 thru 20.
+   Press ENTER after each input. If a circumference is not given,
+   just type 0 and then ENTER.
+
+
+                      C( 1 ) = 
+                      C( 2 ) = 
+                      C( 3 ) = 
+                      C( 4 ) = 
+                      C( 5 ) = 
+                      C( 6 ) = 
+                      C( 7 ) = 
+                      C( 8 ) = 
+                      C( 9 ) = 
+                      C( 10 ) = 
+                      C( 11 ) = 
+         Now enter the length dimensions.
+
+                      L( 12 ) = 
+                      L( 13 ) = 
+                      L( 14 ) = 
+                      L( 15 ) = 
+                      L( 16 ) = 
+                      L( 17 ) = 
+                      L( 18 ) = 
+                      L( 19 ) = 
+                      L( 20 ) =     Will this glove extend beyond the wrist (Y/N)                                                                     
+    How many tapes, 1 or 2                                                                      
+    Enter the circumference for the  1.5  tape.
+    Enter the circumference for the  3  tape.
+  Please check that the input values are correct.
+
+            Circumferences         Lengths
+              C 1   1.625         L 12  1.125 
+              C 2   2             L 13  1.625 
+              C 3   1.625         L 14  1.625 
+              C 4   2             L 15  2 
+              C 5   1.625         L 16  0.75 
+              C 6   2             L 17  2.875 
+              C 7   1.625         L 18  3.5 
+              C 8   2             L 19  3.625 
+              C 9   2.875         L 20  2.375 
+              C 10  5.875         L 21  1.5 
+              C 11  5.5           L 22  3 
+
+              C 12  5.125  ( 1 1/2 (3.81 cm) Tape )
+              C 13  4.75    ( 3 (7.62 cm) Tape )
+ Is everything correct (Y/N) Please type in your name.                                                                      
+Does VBDATA want OPEN TIPS (Y/N)Does VBDATA want STANDARD Open Tips
+on ALL  4  fingers and thumb (Y/N)                                                                     
+                                                                     
+Will the LITTLE finger be OPEN TIPPED (Y/N)                                                                      
+Is L(12)  1.125  the desired length of the LITTLE finger                                                                     
+Will the RING finger be OPEN TIPPED (Y/N)                                                                      
+Is L(13)  1.625  the desired length of the RING finger                                                                     
+Will the MIDDLE finger be OPEN TIPPED (Y/N)                                                                      
+Is L(14)  1.625  the desired length of the MIDDLE finger                                                                     
+Will the INDEX finger be OPEN TIPPED (Y/N)                                                                      
+Is L(15)  2  the desired length of the INDEX finger                                                                     
+Will the THUMB be OPEN TIPPED (Y/N)                                                                      
+Is L(16)  0.75  the desired length of the THUMBWould you like a plot of this gloveSELECT ONE OF THESE FUNCTIONS
+TO CHANGE ANY MEASUREMENTS AND REPLOT, PRESS F4
+TO DESIGNATE AN INSERT AND REPLOT, PRESS F5
+TO REPLOT THIS SAME GLOVE , PRESS F6
+TO NOW DESIGN VBDATA'S LEFT GLOVE , PRESS F7
+TO RERUN THE PROGRAM FOR ANOTHER PATIENT, PRESS F8
+TO REPRINT THE BUNDLE SHEET, PRESS F9.
+TO END THIS PROGRAM, PRESS F10
+Thank you. Enjoy what's left of your day. 
+
+

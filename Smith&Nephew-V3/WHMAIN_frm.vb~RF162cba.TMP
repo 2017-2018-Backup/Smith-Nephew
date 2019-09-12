@@ -1,0 +1,101 @@
+﻿Imports Autodesk.AutoCAD.DatabaseServices
+
+Public Module WaistMain
+    Public WaistMainDlg As New WHMAIN_frm
+End Module
+Public Class WHMAIN_frm
+    Dim frmWaistBody As New whboddia
+    'Dim frmLeg As New whlegdia
+    Dim frmLeg As New whleg
+    Dim Figure As New whfigure
+
+    Private Sub WHMAIN_frm_Load(sender As Object, e As EventArgs) Handles Me.Load
+
+        'Position to center of screen
+        Left = VB6.TwipsToPixelsX((VB6.PixelsToTwipsX(System.Windows.Forms.Screen.PrimaryScreen.Bounds.Width) - VB6.PixelsToTwipsX(Me.Width)) / 2) ' Center form horizontally.
+        Top = VB6.TwipsToPixelsY((VB6.PixelsToTwipsY(System.Windows.Forms.Screen.PrimaryScreen.Bounds.Height) - VB6.PixelsToTwipsY(Me.Height)) / 2) ' Center form vertically.
+
+        Dim fileNo As String = "", patient As String = "", diagnosis As String = "", age As String = "", sex As String = ""
+        Dim workOrder As String = "", tempDate As String = "", tempEng As String = "", units As String = ""
+        Dim blkId As ObjectId = New ObjectId()
+        Dim obj As New BlockCreation.BlockCreation
+        blkId = obj.LoadBlockInstance()
+        If (blkId.IsNull()) Then
+            MsgBox("Patient Details have not been entered", 48, "Waist Details")
+            Me.Close()
+            Exit Sub
+        End If
+        obj.BindAttributes(blkId, fileNo, patient, diagnosis, age, sex, workOrder, tempDate, tempEng, units)
+        txtPatientName.Text = patient
+        txtFileNo.Text = fileNo
+        txtDiagnosis.Text = diagnosis
+        txtSex.Text = sex
+        txtAge.Text = age
+        txtUnits.Text = units
+
+        txtWorkOrder1.Text = workOrder
+        txtDesigner.Text = tempEng
+        txtTempDate.Text = tempDate
+
+        Dim Rect, r1 As Rectangle
+        Rect = WaistTabControl.ClientRectangle
+
+        frmWaistBody.TopLevel = False
+        frmWaistBody.FormBorderStyle = FormBorderStyle.None
+        frmWaistBody.Dock = DockStyle.Fill
+        frmWaistBody.Visible = True
+
+        WaistTabControl.TabPages(0).Controls.Add(frmWaistBody)
+        WaistTabControl.TabPages(0).Text = "Body"
+        frmWaistBody.Show()
+
+        frmLeg.TopLevel = False
+        frmLeg.FormBorderStyle = FormBorderStyle.None
+        frmLeg.Dock = DockStyle.Fill
+        frmLeg.Visible = True
+
+        WaistTabControl.TabPages(1).Controls.Add(frmLeg)
+        WaistTabControl.TabPages(1).Text = "Leg"
+        frmLeg.Show()
+
+
+        Figure.TopLevel = False
+        Figure.FormBorderStyle = FormBorderStyle.None
+        Figure.Dock = DockStyle.Fill
+        Figure.Visible = True
+
+        WaistTabControl.TabPages(2).Controls.Add(Figure)
+        WaistTabControl.TabPages(2).Text = "Figure"
+        WaistTabControl.TabPages(2).Height = 500
+        WaistTabControl.TabPages(2).Width = 100
+        Figure.Show()
+    End Sub
+
+    Private Sub WaistTabControl_TabIndexChanged(sender As Object, e As EventArgs) Handles WaistTabControl.TabIndexChanged
+        Dim TabIndex As Integer = WaistTabControl.SelectedIndex
+        If TabIndex = 0 Then
+            'VestTabControl.Height = frmVestBody.Height
+            WaistTabControl.TabPages(0).Height = frmWaistBody.Height
+            'VestTabControl.Height = frmVestBody.Height
+        ElseIf TabIndex = 1 Then
+            'VestTabControl.Height = frmArm.Height
+            WaistTabControl.TabPages(1).Height = frmLeg.Height
+            'VestTabControl.Height = frmArm.Height
+        ElseIf TabIndex = 2 Then
+            'VestTabControl.Height = torso.Height
+            WaistTabControl.TabPages(1).Height = Figure.Height
+            'VestTabControl.Height = torso.Height
+            'VestTabControl.Width = 500
+            'VestTabControl.Height = 1500
+        End If
+
+        Select Case WaistTabControl.SelectedIndex
+            Case 0
+                Me.Size = New Size(300, 200)
+            Case 1
+                Me.Size = New Size(400, 400)
+            Case 1
+                Me.Size = New Size(500, 200)
+        End Select
+    End Sub
+End Class

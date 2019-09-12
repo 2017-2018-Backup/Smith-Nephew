@@ -1,0 +1,1 @@
+The file jobstmnu.d is no longer the same as the installed file at JOBST due to local modifications in Nov 98. 

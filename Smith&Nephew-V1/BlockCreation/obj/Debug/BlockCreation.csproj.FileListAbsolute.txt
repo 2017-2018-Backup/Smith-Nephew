@@ -1,0 +1,5 @@
+D:\From dev 26 vba to .net\SmithAndNephew\VBA\VBA\BlockCreation\bin\Debug\BlockCreation.dll
+D:\From dev 26 vba to .net\SmithAndNephew\VBA\VBA\BlockCreation\bin\Debug\BlockCreation.pdb
+D:\From dev 26 vba to .net\SmithAndNephew\VBA\VBA\BlockCreation\obj\Debug\BlockCreation.dll
+D:\From dev 26 vba to .net\SmithAndNephew\VBA\VBA\BlockCreation\obj\Debug\BlockCreation.pdb
+D:\From dev 26 vba to .net\SmithAndNephew\VBA\VBA\BlockCreation\obj\Debug\BlockCreation.csprojResolveAssemblyReference.cache

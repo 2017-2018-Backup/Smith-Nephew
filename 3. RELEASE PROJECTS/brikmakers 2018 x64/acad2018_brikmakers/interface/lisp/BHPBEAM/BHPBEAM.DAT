@@ -1,0 +1,16 @@
+;;;;     === Default settings used in program ===
+;;;;
+;;;;Change these values to suit your own layers if req'd
+;;;;           |
+;;;;           |
+;;;;          \ /
+(setq
+       b#_psl "3C"                   ;primary steel layer
+       b#_ssl "2C"                  ;secondary steel layer
+       b#_olc "BYLAYER"                ;outline color
+       b#_olt "BYLAYER"          ;outline linetype
+       b#_hlc "YELLOW"              ;hidden line color
+       b#_hlt "HIDDEN"              ;hidden linetype
+       b#_clc "WHITE"              ;center line color
+       b#_clt "CENTER"              ;center linetype
+)

@@ -1,0 +1,5055 @@
+<Palette FileRevision="22.0.0" Revision="22.0.1" option="0"><ItemID idValue="{BA0828AE-55B7-4735-81DA-51F60455C090}"/><Properties><ItemName>HV Ducts</ItemName><Images option="0"/><Time createdUniversalDateTime="2012-01-12T01:33:26" modifiedUniversalDateTime="2012-08-13T13:41:42"/></Properties><CustomData><Translation status="1"/></CustomData><Source/><Tools><Tool Revision="20.1.1" option="0"><ItemID idValue="{173BEC0E-61A9-45DC-85ED-7681990993E5}"/><Properties><ItemName>Proposed HV Duct</ItemName><Images option="0"/><Time createdUniversalDateTime="2012-01-12T03:09:56" modifiedUniversalDateTime="2012-01-12T03:09:56"/></Properties><Source/><ToolType>3</ToolType><StockToolRef/><Data/>
+		</Tool><Tool Revision="22.0.1" option="0"><ItemID idValue="{58FBD567-A450-47A4-9932-D40494F4235C}"/><Properties><Images option="0"/><Time createdUniversalDateTime="2018-04-14T02:15:01" modifiedUniversalDateTime="2018-04-14T02:15:01"/></Properties><ToolType>4</ToolType><StockToolRef/><Data/></Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{B9F043D9-A0AA-4B49-AE0F-A497FE9FF1D8}"/><Properties><ItemName>CABLE_LARGE_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_B9F043D9-A0AA-4B49-AE0F-A497FE9FF1D8.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_B9F043D9-A0AA-4B49-AE0F-A497FE9FF1D8_2.PNG"/></Images><Description>Duct with New Cable Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>CABLE_LARGE_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{5DE8D326-7FD5-481A-A9F4-03F1683CAE74}"/><Properties><ItemName>CABLE_SMALL_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_5DE8D326-7FD5-481A-A9F4-03F1683CAE74.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_5DE8D326-7FD5-481A-A9F4-03F1683CAE74_2.PNG"/></Images><Description>50mm Duct Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>CABLE_SMALL_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{B6436D79-2989-46D5-9BE5-2BE4E0BD9AB0}"/><Properties><ItemName>DUCT_50_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_B6436D79-2989-46D5-9BE5-2BE4E0BD9AB0.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_B6436D79-2989-46D5-9BE5-2BE4E0BD9AB0_2.PNG"/></Images><Description>50mm Duct Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>DUCT_50_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{D1BD6832-756A-4A83-A695-F2A5DE4D5CD7}"/><Properties><ItemName>DUCT_INDICATOR</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_D1BD6832-756A-4A83-A695-F2A5DE4D5CD7.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_D1BD6832-756A-4A83-A695-F2A5DE4D5CD7_2.PNG"/></Images><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>DUCT_INDICATOR</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{B69F28FE-9699-4D64-8EA0-B57981009F17}"/><Properties><ItemName>DUCT_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_B69F28FE-9699-4D64-8EA0-B57981009F17.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_B69F28FE-9699-4D64-8EA0-B57981009F17_2.PNG"/></Images><Description>Duct Spare Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>DUCT_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{B71595DC-0209-44D6-9F59-D33A2C62EE34}"/><Properties><ItemName>TRENCH_1X50_&amp;_2X125_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_B71595DC-0209-44D6-9F59-D33A2C62EE34.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_B71595DC-0209-44D6-9F59-D33A2C62EE34_2.PNG"/></Images><Description>New 1x50 &amp; 2x125 duct in Trench</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>TRENCH_1X50_&amp;_2X125_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{0B76210C-E01F-426A-89E0-65AB36CA8409}"/><Properties><ItemName>TRENCH_1X50_&amp;_4X125_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_0B76210C-E01F-426A-89E0-65AB36CA8409.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_0B76210C-E01F-426A-89E0-65AB36CA8409_2.PNG"/></Images><Description>New 1x50 &amp; 4x125 duct in Trench</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>TRENCH_1X50_&amp;_4X125_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{63971575-0642-4DD0-8588-3D35CC336974}"/><Properties><ItemName>TRENCH_1X50_&amp;_6X125_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_63971575-0642-4DD0-8588-3D35CC336974.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_63971575-0642-4DD0-8588-3D35CC336974_2.PNG"/></Images><Description>New 1x50 &amp; 6x125 duct in Trench</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>TRENCH_1X50_&amp;_6X125_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{D0227300-5483-4702-B347-83D94B9943F2}"/><Properties><ItemName>TRENCH_1X50_&amp;_8X125_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_D0227300-5483-4702-B347-83D94B9943F2.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_D0227300-5483-4702-B347-83D94B9943F2_2.PNG"/></Images><Description>New 1x50 &amp; 8x125 duct in Trench</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>TRENCH_1X50_&amp;_8X125_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{F8F9D12E-B1E8-45BC-868D-B46BEB8B74C9}"/><Properties><ItemName>TRENCH_2X125_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_F8F9D12E-B1E8-45BC-868D-B46BEB8B74C9.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_F8F9D12E-B1E8-45BC-868D-B46BEB8B74C9_2.PNG"/></Images><Description>New 2x125 duct in Trench</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>TRENCH_2X125_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{3A0EBEBF-D827-4BDB-8F3E-7F9265718751}"/><Properties><ItemName>TRENCH_2X50_&amp;_4X125_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_3A0EBEBF-D827-4BDB-8F3E-7F9265718751.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_3A0EBEBF-D827-4BDB-8F3E-7F9265718751_2.PNG"/></Images><Description>New 2x50 &amp; 4x125 duct in Trench</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>TRENCH_2X50_&amp;_4X125_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{77A9D33E-1E98-41AC-AC31-45BBE48AFFF5}"/><Properties><ItemName>TRENCH_2X50_&amp;_6X125_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_77A9D33E-1E98-41AC-AC31-45BBE48AFFF5.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_77A9D33E-1E98-41AC-AC31-45BBE48AFFF5_2.PNG"/></Images><Description>New 2x50 &amp; 6x125 duct in Trench</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>TRENCH_2X50_&amp;_6X125_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{C424DDF2-C6C2-4000-B396-1D4FA5CDCD30}"/><Properties><ItemName>TRENCH_2X50_&amp;_8X125_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_C424DDF2-C6C2-4000-B396-1D4FA5CDCD30.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_C424DDF2-C6C2-4000-B396-1D4FA5CDCD30_2.PNG"/></Images><Description>New 2x50 &amp; 8x125 duct in Trench</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>TRENCH_2X50_&amp;_8X125_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{D06A85BC-ECB0-4E7A-A540-A73648138FF3}"/><Properties><ItemName>TRENCH_3X50_&amp;_8X125_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_D06A85BC-ECB0-4E7A-A540-A73648138FF3.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_D06A85BC-ECB0-4E7A-A540-A73648138FF3_2.PNG"/></Images><Description>New 3x50 &amp; 8x125 duct in Trench</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>TRENCH_3X50_&amp;_8X125_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{C717317D-5E29-4AA4-9F4E-1F27205A535B}"/><Properties><ItemName>TRENCH_4X125_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_C717317D-5E29-4AA4-9F4E-1F27205A535B.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_C717317D-5E29-4AA4-9F4E-1F27205A535B_2.PNG"/></Images><Description>New 4x125 duct in Trench</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>TRENCH_4X125_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{0DD9A5D2-287B-482E-BF75-4D213AB7F319}"/><Properties><ItemName>TRENCH_HV_1_DUCT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_0DD9A5D2-287B-482E-BF75-4D213AB7F319.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_0DD9A5D2-287B-482E-BF75-4D213AB7F319_2.PNG"/></Images><Description>HV Trench 1 duct wide Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>TRENCH_HV_1_DUCT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{B0FE264A-9B84-4428-A2A3-101E3DE13BB9}"/><Properties><ItemName>TRENCH_6X125_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_B0FE264A-9B84-4428-A2A3-101E3DE13BB9.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_B0FE264A-9B84-4428-A2A3-101E3DE13BB9_2.PNG"/></Images><Description>New 6x125 duct in Trench</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>TRENCH_6X125_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{4D56E9A4-5329-49BC-BE80-AAFF4324A0B4}"/><Properties><ItemName>TRENCH_8X125_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_4D56E9A4-5329-49BC-BE80-AAFF4324A0B4.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_4D56E9A4-5329-49BC-BE80-AAFF4324A0B4_2.PNG"/></Images><Description>New 8x125 duct in Trench</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>TRENCH_8X125_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{3CCAE63E-BC67-401A-985C-D55E37E9C445}"/><Properties><ItemName>TRENCH_HV_2_DUCTS</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_3CCAE63E-BC67-401A-985C-D55E37E9C445.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_3CCAE63E-BC67-401A-985C-D55E37E9C445_2.PNG"/></Images><Description>HV Trench 2 ducts wide Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>TRENCH_HV_2_DUCTS</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{CE9EA061-334E-4B29-A44A-733BEFA54B5D}"/><Properties><ItemName>TRENCH_HV_1X125_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_CE9EA061-334E-4B29-A44A-733BEFA54B5D.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_CE9EA061-334E-4B29-A44A-733BEFA54B5D_2.PNG"/></Images><Description>New 1x125 duct in HV Trench</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>TRENCH_HV_1X125_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{40D67587-B4FD-461A-894D-BD3F0EEFCDC3}"/><Properties><ItemName>TRENCH_HV_1X50_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_40D67587-B4FD-461A-894D-BD3F0EEFCDC3.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_40D67587-B4FD-461A-894D-BD3F0EEFCDC3_2.PNG"/></Images><Description>New 1x50 duct in HV Trench</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>TRENCH_HV_1X50_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{515995A6-2C13-4393-9A18-0FABDCC5C602}"/><Properties><ItemName>TRENCH_HV_3_DUCTS</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_515995A6-2C13-4393-9A18-0FABDCC5C602.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_515995A6-2C13-4393-9A18-0FABDCC5C602_2.PNG"/></Images><Description>HV Trench 3 ducts wide Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>TRENCH_HV_3_DUCTS</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{01CF237A-5394-4611-8AE8-91E803877EDE}"/><Properties><ItemName>TRENCH_HV_2X125_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_01CF237A-5394-4611-8AE8-91E803877EDE.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_01CF237A-5394-4611-8AE8-91E803877EDE_2.PNG"/></Images><Description>New 2x125 duct in HV Trench</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>TRENCH_HV_2X125_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{FA4F3B29-0060-4D19-8F1E-67D9D5D2BAC6}"/><Properties><ItemName>TRENCH_HV_3X125_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_FA4F3B29-0060-4D19-8F1E-67D9D5D2BAC6.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_FA4F3B29-0060-4D19-8F1E-67D9D5D2BAC6_2.PNG"/></Images><Description>New 3x125 duct in HV Trench</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>TRENCH_HV_3X125_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{A0360E0C-6BB0-4BB9-AFC4-2ABDB2893367}"/><Properties><ItemName>TRENCH_HV_4_DUCTS</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_A0360E0C-6BB0-4BB9-AFC4-2ABDB2893367.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_A0360E0C-6BB0-4BB9-AFC4-2ABDB2893367_2.PNG"/></Images><Description>HV Trench 4 ducts wide Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>TRENCH_HV_4_DUCTS</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{ACA0973F-335F-402C-A074-D87A676C3AB8}"/><Properties><ItemName>TRENCH_HV_4X125_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_ACA0973F-335F-402C-A074-D87A676C3AB8.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_ACA0973F-335F-402C-A074-D87A676C3AB8_2.PNG"/></Images><Description>New 4x125 duct in HV Trench</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>TRENCH_HV_4X125_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{53736A0F-A079-4FC7-AE0E-60A892A2C540}"/><Properties><ItemName>U_BORE_1X125_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_53736A0F-A079-4FC7-AE0E-60A892A2C540.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_53736A0F-A079-4FC7-AE0E-60A892A2C540_2.PNG"/></Images><Description>New 1x125 Duct in Underbore</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>U_BORE_1X125_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{3D9EDDBE-1595-4CB7-9935-9EA19F04653E}"/><Properties><ItemName>U_BORE_1X50_&amp;_2X125_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_3D9EDDBE-1595-4CB7-9935-9EA19F04653E.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_3D9EDDBE-1595-4CB7-9935-9EA19F04653E_2.PNG"/></Images><Description>New 1x50 &amp; 2x125 Ducts in Underbore</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>U_BORE_1X50_&amp;_2X125_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{065F2093-2F57-4BED-90C2-BE2A1DFF16D9}"/><Properties><ItemName>U_BORE_1X50_&amp;_4X125_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_065F2093-2F57-4BED-90C2-BE2A1DFF16D9.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_065F2093-2F57-4BED-90C2-BE2A1DFF16D9_2.PNG"/></Images><Description>New 1x50 &amp; 4x125 Ducts in Underbore</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>U_BORE_1X50_&amp;_4X125_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{E93ECF1D-B836-4D3D-A9D2-EB8496F99FED}"/><Properties><ItemName>U_BORE_2X125_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_E93ECF1D-B836-4D3D-A9D2-EB8496F99FED.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_E93ECF1D-B836-4D3D-A9D2-EB8496F99FED_2.PNG"/></Images><Description>New 2x125 Ducts in Underbore</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>U_BORE_2X125_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{7C28B80F-A691-4D66-9109-3A75E87C029C}"/><Properties><ItemName>U_BORE_2X50_&amp;_6X125_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_7C28B80F-A691-4D66-9109-3A75E87C029C.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_7C28B80F-A691-4D66-9109-3A75E87C029C_2.PNG"/></Images><Description>New 2x50 &amp; 6x125 Ducts in Underbore</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>U_BORE_2X50_&amp;_6X125_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{A2863920-C7A2-4E7E-80EE-81D1F53FBDDE}"/><Properties><ItemName>U_BORE_4X125_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_A2863920-C7A2-4E7E-80EE-81D1F53FBDDE.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_A2863920-C7A2-4E7E-80EE-81D1F53FBDDE_2.PNG"/></Images><Description>New 4x125 Ducts in Underbore</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>U_BORE_4X125_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{7BCA8DD6-1DA7-4B2F-A013-EEB276EDCCCC}"/><Properties><ItemName>UNDERBORE_1_DUCT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_7BCA8DD6-1DA7-4B2F-A013-EEB276EDCCCC.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_7BCA8DD6-1DA7-4B2F-A013-EEB276EDCCCC_2.PNG"/></Images><Description>Underbore with 1 Duct</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>UNDERBORE_1_DUCT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{A376101C-E7FA-43DB-B8D6-94EE8A6CA44F}"/><Properties><ItemName>UNDERBORE_2_DUCTS</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_A376101C-E7FA-43DB-B8D6-94EE8A6CA44F.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_A376101C-E7FA-43DB-B8D6-94EE8A6CA44F_2.PNG"/></Images><Description>Underbore with 2 Ducts</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>UNDERBORE_2_DUCTS</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{737A857C-D3DF-4F49-A6AA-7DAB2F0FB164}"/><Properties><ItemName>UNDERBORE_4_DUCTS</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_737A857C-D3DF-4F49-A6AA-7DAB2F0FB164.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_737A857C-D3DF-4F49-A6AA-7DAB2F0FB164_2.PNG"/></Images><Description>Underbore with 4 Ducts</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>UNDERBORE_4_DUCTS</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{BA9E8C06-CCE6-46BC-8DEA-32DD67F625D1}"/><Properties><ItemName>UNDERBORE_6_DUCTS</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_BA9E8C06-CCE6-46BC-8DEA-32DD67F625D1.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_BA9E8C06-CCE6-46BC-8DEA-32DD67F625D1_2.PNG"/></Images><Description>Underbore with 6 Ducts</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>UNDERBORE_6_DUCTS</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="0"><ItemID idValue="{C7048708-B7BB-4FCE-8F2A-34B1D6D8D8F4}"/><Properties><Images option="0"/><Time createdUniversalDateTime="2012-01-12T03:18:10" modifiedUniversalDateTime="2012-01-12T03:18:10"/></Properties><Source/><ToolType>4</ToolType><StockToolRef/><Data/>
+		</Tool><Tool Revision="20.1.1" option="0"><ItemID idValue="{53331A63-6261-4BCD-BDCA-69A38486531E}"/><Properties><ItemName>Existing HV Duct</ItemName><Images option="0"/><Time createdUniversalDateTime="2012-01-12T03:10:45" modifiedUniversalDateTime="2012-01-12T03:10:45"/></Properties><Source/><ToolType>3</ToolType><StockToolRef/><Data/>
+		</Tool><Tool Revision="22.0.1" option="0"><ItemID idValue="{2D478F88-7CFC-4EA7-9E72-7311B83510E2}"/><Properties><Images option="0"/><Time createdUniversalDateTime="2018-04-14T02:15:05" modifiedUniversalDateTime="2018-04-14T02:15:05"/></Properties><ToolType>4</ToolType><StockToolRef/><Data/></Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{2F5227D7-3AFD-4AB1-8A59-27FCECF3F306}"/><Properties><ItemName>CABLE_LARGE_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_2F5227D7-3AFD-4AB1-8A59-27FCECF3F306.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_2F5227D7-3AFD-4AB1-8A59-27FCECF3F306_2.PNG"/></Images><Description>Duct with Existing Cable Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>CABLE_LARGE_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{4040A8AB-C55D-4E08-9E30-C9920D78F239}"/><Properties><ItemName>CABLE_SMALL_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_4040A8AB-C55D-4E08-9E30-C9920D78F239.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_4040A8AB-C55D-4E08-9E30-C9920D78F239_2.PNG"/></Images><Description>Duct with Existing Cable Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>CABLE_SMALL_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{C584979B-EFF8-46B7-A94B-216364CF4EDB}"/><Properties><ItemName>DUCT_50_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_C584979B-EFF8-46B7-A94B-216364CF4EDB.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_C584979B-EFF8-46B7-A94B-216364CF4EDB_2.PNG"/></Images><Description>50mm Duct Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>DUCT_50_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{6536660B-C4F3-43EB-8CEA-F40219BC4690}"/><Properties><ItemName>DUCT_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_6536660B-C4F3-43EB-8CEA-F40219BC4690.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_6536660B-C4F3-43EB-8CEA-F40219BC4690_2.PNG"/></Images><Description>Duct Spare Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>DUCT_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{FE6D62DF-254A-4187-A360-F847071CDE5D}"/><Properties><ItemName>TRENCH_1X50_&amp;_2X125_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_FE6D62DF-254A-4187-A360-F847071CDE5D.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_FE6D62DF-254A-4187-A360-F847071CDE5D_2.PNG"/></Images><Description>Existing 1x50 &amp; 2x125 duct in Trench</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>TRENCH_1X50_&amp;_2X125_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{3DD7006A-5953-4290-B5F4-758E019E6C85}"/><Properties><ItemName>TRENCH_1X50_&amp;_4X125_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_3DD7006A-5953-4290-B5F4-758E019E6C85.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_3DD7006A-5953-4290-B5F4-758E019E6C85_2.PNG"/></Images><Description>Existing 1x50 &amp; 4x125 duct in Trench</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>TRENCH_1X50_&amp;_4X125_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{0EE57CCF-FCB5-4BAA-BE57-7CD182C878FD}"/><Properties><ItemName>TRENCH_1X50_&amp;_6X125_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_0EE57CCF-FCB5-4BAA-BE57-7CD182C878FD.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_0EE57CCF-FCB5-4BAA-BE57-7CD182C878FD_2.PNG"/></Images><Description>Existing 1x50 &amp; 6x125 duct in Trench</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>TRENCH_1X50_&amp;_6X125_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{1641B28F-CBA6-48B2-AF73-EDF82C7E318C}"/><Properties><ItemName>TRENCH_1X50_&amp;_8X125_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_1641B28F-CBA6-48B2-AF73-EDF82C7E318C.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_1641B28F-CBA6-48B2-AF73-EDF82C7E318C_2.PNG"/></Images><Description>Existing 1x50 &amp; 8x125 duct in Trench</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>TRENCH_1X50_&amp;_8X125_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{ABF2335C-3510-4E87-BB3E-7110223E936E}"/><Properties><ItemName>TRENCH_2X125_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_ABF2335C-3510-4E87-BB3E-7110223E936E.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_ABF2335C-3510-4E87-BB3E-7110223E936E_2.PNG"/></Images><Description>Existing 2x125 duct in Trench</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-11-13T12:20:59"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>TRENCH_2X125_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{894837F7-B7FF-4EBD-B494-CB183EBFA82C}"/><Properties><ItemName>TRENCH_2X50_&amp;_4X125_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_894837F7-B7FF-4EBD-B494-CB183EBFA82C.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_894837F7-B7FF-4EBD-B494-CB183EBFA82C_2.PNG"/></Images><Description>Existing 2x50 &amp; 4x125 duct in Trench</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>TRENCH_2X50_&amp;_4X125_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{41990C75-F14E-486E-B15E-6061893107E2}"/><Properties><ItemName>TRENCH_2X50_&amp;_6X125_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_41990C75-F14E-486E-B15E-6061893107E2.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_41990C75-F14E-486E-B15E-6061893107E2_2.PNG"/></Images><Description>Existing 2x50 &amp; 6x125 duct in Trench</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>TRENCH_2X50_&amp;_6X125_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{8FDBA357-CE62-4223-8706-A53166DE79A9}"/><Properties><ItemName>TRENCH_2X50_&amp;_8X125_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_8FDBA357-CE62-4223-8706-A53166DE79A9.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_8FDBA357-CE62-4223-8706-A53166DE79A9_2.PNG"/></Images><Description>Existing 2x50 &amp; 8x125 duct in Trench</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>TRENCH_2X50_&amp;_8X125_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{FF35CE9E-6994-4654-9720-321B5A2DE0F5}"/><Properties><ItemName>TRENCH_3X50_&amp;_8X125_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_FF35CE9E-6994-4654-9720-321B5A2DE0F5.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_FF35CE9E-6994-4654-9720-321B5A2DE0F5_2.PNG"/></Images><Description>Existing 3x50 &amp; 8x125 duct in Trench</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>TRENCH_3X50_&amp;_8X125_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{5ACEBC72-07F0-435F-B105-D9D806D8BC27}"/><Properties><ItemName>TRENCH_4X125_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_5ACEBC72-07F0-435F-B105-D9D806D8BC27.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_5ACEBC72-07F0-435F-B105-D9D806D8BC27_2.PNG"/></Images><Description>Existing 4x125 duct in Trench</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>TRENCH_4X125_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{9A45C376-9772-4B1B-AF5C-2AC069CBA5AD}"/><Properties><ItemName>TRENCH_6X125_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_9A45C376-9772-4B1B-AF5C-2AC069CBA5AD.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_9A45C376-9772-4B1B-AF5C-2AC069CBA5AD_2.PNG"/></Images><Description>Existing 6x125 duct in HV Trench</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>TRENCH_6X125_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{A9DC3D1F-426B-48A5-BD8F-9E7ACC47F761}"/><Properties><ItemName>TRENCH_8X125_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_A9DC3D1F-426B-48A5-BD8F-9E7ACC47F761.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_A9DC3D1F-426B-48A5-BD8F-9E7ACC47F761_2.PNG"/></Images><Description>Existing 8x125 duct in Trench</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>TRENCH_8X125_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{8C5ED41A-A248-4A22-BBCA-8629D79FCC2C}"/><Properties><ItemName>TRENCH_HV_1X125_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_8C5ED41A-A248-4A22-BBCA-8629D79FCC2C.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_8C5ED41A-A248-4A22-BBCA-8629D79FCC2C_2.PNG"/></Images><Description>Existing 1x125 duct in HV Trench</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>TRENCH_HV_1X125_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{D6151627-AFF7-47E3-A354-0A7288A0A569}"/><Properties><ItemName>TRENCH_HV_1X50_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_D6151627-AFF7-47E3-A354-0A7288A0A569.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_D6151627-AFF7-47E3-A354-0A7288A0A569_2.PNG"/></Images><Description>Existing 1x50 duct in HV Trench</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>TRENCH_HV_1X50_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{28D583E9-7F6F-434E-998C-06CB27D4D030}"/><Properties><ItemName>TRENCH_HV_2X125_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_28D583E9-7F6F-434E-998C-06CB27D4D030.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_28D583E9-7F6F-434E-998C-06CB27D4D030_2.PNG"/></Images><Description>Existing 2x125 duct in HV Trench</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>TRENCH_HV_2X125_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{A7F6F068-7ACD-4D4E-B580-B91706A1D395}"/><Properties><ItemName>TRENCH_HV_3X125_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_A7F6F068-7ACD-4D4E-B580-B91706A1D395.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_A7F6F068-7ACD-4D4E-B580-B91706A1D395_2.PNG"/></Images><Description>Existing 3x125 duct in HV Trench</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>TRENCH_HV_3X125_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{050553D8-8959-4E67-9057-ED981A8B7272}"/><Properties><ItemName>TRENCH_HV_4X125_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_050553D8-8959-4E67-9057-ED981A8B7272.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_050553D8-8959-4E67-9057-ED981A8B7272_2.PNG"/></Images><Description>Existing 4x125 duct in HV Trench</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2012-03-12T12:56:07"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>TRENCH_HV_4X125_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{14F24663-8699-4DD8-A135-109F3B1CC492}"/><Properties><ItemName>CABLE_MED_NEW</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_14F24663-8699-4DD8-A135-109F3B1CC492.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_14F24663-8699-4DD8-A135-109F3B1CC492_2.PNG"/></Images><Time createdUniversalDateTime="2012-06-14T04:54:32" modifiedUniversalDateTime="2012-06-21T10:39:17"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>CABLE_MED_NEW</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="31"><ItemID idValue="{7EE7BBD4-26E6-423B-B553-6C34A6DCD6F1}"/><Properties><ItemName>CABLE_MED_EXT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_7EE7BBD4-26E6-423B-B553-6C34A6DCD6F1.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_7EE7BBD4-26E6-423B-B553-6C34A6DCD6F1_2.PNG"/></Images><Time createdUniversalDateTime="2012-06-14T04:54:32" modifiedUniversalDateTime="2012-06-21T10:39:53"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>CABLE_MED_EXT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\HV Ducts.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="0"><ItemID idValue="{BB646416-A7D4-4E02-8EE4-1202F2E093AD}"/><Properties><ItemName>New Duct Route</ItemName><Images option="0"><Image cx="16" cy="16" IsDark="false" resource="RCDATA_16_LINE" src="%ProgramBtnRes%"/><Image cx="16" cy="16" IsDark="true" resource="RCDATA_16_LINE" src="%ProgramBtnRes%"/></Images><Description>Draw a New Duct Route</Description><Time createdUniversalDateTime="2008-04-22T22:49:05" modifiedUniversalDateTime="2008-05-21T09:14:53"/></Properties><CustomData>
+				<AcRxClassInfo className="AcDbLine"/>
+				<ToolbarButton idButton="ID_Line"/>
+			</CustomData>
+			<Source/><ToolType>2</ToolType><Flyout enable="false"><ShapePackage idValue="{4AFD3A7B-127C-468D-9DAD-D6D948BA8615}"/><CurrentShape idValue="{A7FC31D7-54EB-4CC8-B5D8-539D51522D1A}"/></Flyout><StockToolRef idValue="{2AE7120B-CEE4-47A5-9B50-EF9F3ADE24AC}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Command>
+					<Macro><![CDATA[^C^C_mline;j;zero;st;DUCTNEW;]]></Macro>
+				</Command>
+			</Data>
+		</Tool><Tool Revision="20.1.1" option="0"><ItemID idValue="{8D054D3B-E50B-4F5D-A73C-99E9BEF41835}"/><Properties><ItemName>Existing Duct Route</ItemName><Images option="0"><Image cx="16" cy="16" IsDark="false" resource="RCDATA_16_LINE" src="%ProgramBtnRes%"/><Image cx="16" cy="16" IsDark="true" resource="RCDATA_16_LINE" src="%ProgramBtnRes%"/></Images><Description>Draw an Existing Duct Route</Description><Time createdUniversalDateTime="2008-04-22T22:49:05" modifiedUniversalDateTime="2008-05-21T09:15:02"/></Properties><CustomData>
+				<AcRxClassInfo className="AcDbLine"/>
+				<ToolbarButton idButton="ID_Line"/>
+			</CustomData>
+			<Source/><ToolType>2</ToolType><Flyout enable="false"><ShapePackage idValue="{4AFD3A7B-127C-468D-9DAD-D6D948BA8615}"/><CurrentShape idValue="{A7FC31D7-54EB-4CC8-B5D8-539D51522D1A}"/></Flyout><StockToolRef idValue="{2AE7120B-CEE4-47A5-9B50-EF9F3ADE24AC}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Duct_SP_EXT"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Duct_SP_EXT</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Command>
+					<Macro><![CDATA[^C^C_mline;j;zero;st;DUCTEXT;]]></Macro>
+				</Command>
+			</Data>
+		</Tool></Tools></Palette>

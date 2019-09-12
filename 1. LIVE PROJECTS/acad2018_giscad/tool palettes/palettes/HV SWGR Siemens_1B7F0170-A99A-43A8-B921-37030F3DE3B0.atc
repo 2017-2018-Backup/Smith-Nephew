@@ -1,0 +1,952 @@
+<Palette FileRevision="19.1.0" Revision="19.1.1" option="0"><ItemID idValue="{1B7F0170-A99A-43A8-B921-37030F3DE3B0}"/><Properties><ItemName>HV SWGR Siemens</ItemName><Images option="0"/><Time createdUniversalDateTime="2014-03-05T23:05:29" modifiedUniversalDateTime="2014-05-16T01:31:46"/></Properties><CustomData><Translation status="1"/></CustomData><Source/><Tools><Tool Revision="18.0.1" option="0"><ItemID idValue="{5651588E-D49E-47A4-B13D-06F310586A09}"/><Properties><ItemName>HV SWGR</ItemName><Images option="0"/><Time createdUniversalDateTime="2014-03-05T23:51:54" modifiedUniversalDateTime="2014-03-05T23:51:54"/></Properties><Source/><ToolType>3</ToolType><StockToolRef/><Data/>
+		</Tool><Tool Revision="18.0.1" option="31"><ItemID idValue="{5FA3B4C1-8965-4293-9D49-7464912B1584}"/><Properties><ItemName>8DJ10 3 Feeder</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\A$C672B45D432.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\A$C672B45D464.PNG"/></Images><Time createdUniversalDateTime="2011-08-09T01:35:51" modifiedUniversalDateTime="2014-03-06T11:47:05"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_HV_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_HV_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="CENTERX2"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LinetypeTableRecord numberOfPatternElements="4">
+								<SymbolTableNameRecord>CENTERX2</SymbolTableNameRecord>
+								<Description>Center (2x) ________  __  ________  __  _____</Description>
+								<TotalPatternLength>4.000000</TotalPatternLength>
+								<LinetypeElements>
+									<LinetypeElement>
+										<Dash>2.500000</Dash>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-0.500000</Space>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Dash>0.500000</Dash>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-0.500000</Space>
+									</LinetypeElement>
+								</LinetypeElements>
+							</LinetypeTableRecord>
+						</CreateInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>A$C672B45D4</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\Symbols\8DJ10_3_FEEDER_NEW.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>1</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.1" option="31"><ItemID idValue="{0C5F09A2-3555-4219-AC52-9399BAB6E57C}"/><Properties><ItemName>8DJ20 3 Feeder</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\A$C297B2CE932.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\A$C297B2CE964.PNG"/></Images><Time createdUniversalDateTime="2011-08-09T01:35:51" modifiedUniversalDateTime="2014-03-06T11:47:11"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_HV_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_HV_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="CENTERX2"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LinetypeTableRecord numberOfPatternElements="4">
+								<SymbolTableNameRecord>CENTERX2</SymbolTableNameRecord>
+								<Description>Center (2x) ________  __  ________  __  _____</Description>
+								<TotalPatternLength>4.000000</TotalPatternLength>
+								<LinetypeElements>
+									<LinetypeElement>
+										<Dash>2.500000</Dash>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-0.500000</Space>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Dash>0.500000</Dash>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-0.500000</Space>
+									</LinetypeElement>
+								</LinetypeElements>
+							</LinetypeTableRecord>
+						</CreateInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>A$C297B2CE9</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\Symbols\8DJ20_3_FEEDER_NEW.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>1</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="19.1.1" option="31"><ItemID idValue="{322E7716-24AB-43D5-8DF6-178208F185B3}"/><Properties><ItemName>8DJH 3 Feeder</ItemName><Images option="2"><Image cx="32" cy="32" IsDark="false" src="Images\8DJH 3 Feeder32.PNG"/></Images><Time createdUniversalDateTime="2011-08-09T01:35:51" modifiedUniversalDateTime="2014-09-03T09:20:54"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties><Color><BasicPropInfo><PropValue unspecified="FALSE"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3221225472"/></CreateInfo></Color><Layer><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="Equip_HV_NEW"/></BasicPropInfo><CreateInfo><LayerTableRecord isNotPlotted="FALSE" lineWeight="-3"><SymbolTableNameRecord>Equip_HV_NEW</SymbolTableNameRecord><Linetype><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="Continuous"/></BasicPropInfo></Linetype><Color><BasicPropInfo><PropValue unspecified="FALSE"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3271557122"/></CreateInfo></Color></LayerTableRecord></CreateInfo></Layer><Linetype><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="CENTERX2"/></BasicPropInfo><CreateInfo><LinetypeTableRecord numberOfPatternElements="4"><SymbolTableNameRecord>CENTERX2</SymbolTableNameRecord><Description>Center (2x) ________  __  ________  __  _____</Description><TotalPatternLength>4.000000</TotalPatternLength><LinetypeElements><LinetypeElement><Dash>2.500000</Dash></LinetypeElement><LinetypeElement><Space>-0.500000</Space></LinetypeElement><LinetypeElement><Dash>0.500000</Dash></LinetypeElement><LinetypeElement><Space>-0.500000</Space></LinetypeElement></LinetypeElements></LinetypeTableRecord></CreateInfo></Linetype><LinetypeScale><BasicPropInfo><PropValue unspecified="FALSE" valueType="3" value="1"/></BasicPropInfo></LinetypeScale><PlotStyle><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="ByLayer"/></BasicPropInfo></PlotStyle><LineWeight><BasicPropInfo><PropValue unspecified="FALSE" valueType="2" value="-1"/></BasicPropInfo></LineWeight><Transparency><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Transparency><Textstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Textstyle><Dimstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Dimstyle><Tablestyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Tablestyle></GeneralProperties><Block><BlockType>1</BlockType><BlockTypeEx>0</BlockTypeEx><BlockName>8DJH_3_Feeder</BlockName><SourceFile>C:\ACAD2018_GISCAD\Symbols\8DJH_3_FEEDER_NEW.dwg</SourceFile><InsertAs>1</InsertAs><XrefType>0</XrefType><Scale>1</Scale><AuxiliaryScale>NONE</AuxiliaryScale><Rotation>0</Rotation><PromptRotation>1</PromptRotation><Explode>1</Explode></Block></Data>
+		</Tool><Tool Revision="19.1.1" option="31"><ItemID idValue="{A64F53CE-B372-4F05-9484-319ECE9C9DE0}"/><Properties><ItemName>8DJH-C 3 Feeder</ItemName><Images option="2"><Image cx="32" cy="32" IsDark="false" src="Images\A$C35CC03CE32.PNG"/></Images><Time createdUniversalDateTime="2011-08-09T01:35:51" modifiedUniversalDateTime="2014-09-04T07:02:45"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties><Color><BasicPropInfo><PropValue unspecified="FALSE"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3221225472"/></CreateInfo></Color><Layer><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="Equip_HV_NEW"/></BasicPropInfo><CreateInfo><LayerTableRecord isNotPlotted="FALSE" lineWeight="-3"><SymbolTableNameRecord>Equip_HV_NEW</SymbolTableNameRecord><Linetype><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="Continuous"/></BasicPropInfo></Linetype><Color><BasicPropInfo><PropValue unspecified="FALSE"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3271557122"/></CreateInfo></Color></LayerTableRecord></CreateInfo></Layer><Linetype><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="CENTERX2"/></BasicPropInfo><CreateInfo><LinetypeTableRecord numberOfPatternElements="4"><SymbolTableNameRecord>CENTERX2</SymbolTableNameRecord><Description>Center (2x) ________  __  ________  __  _____</Description><TotalPatternLength>4.000000</TotalPatternLength><LinetypeElements><LinetypeElement><Dash>2.500000</Dash></LinetypeElement><LinetypeElement><Space>-0.500000</Space></LinetypeElement><LinetypeElement><Dash>0.500000</Dash></LinetypeElement><LinetypeElement><Space>-0.500000</Space></LinetypeElement></LinetypeElements></LinetypeTableRecord></CreateInfo></Linetype><LinetypeScale><BasicPropInfo><PropValue unspecified="FALSE" valueType="3" value="1"/></BasicPropInfo></LinetypeScale><PlotStyle><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="ByLayer"/></BasicPropInfo></PlotStyle><LineWeight><BasicPropInfo><PropValue unspecified="FALSE" valueType="2" value="-1"/></BasicPropInfo></LineWeight><Transparency><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Transparency><Textstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Textstyle><Dimstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Dimstyle><Tablestyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Tablestyle></GeneralProperties><Block><BlockType>1</BlockType><BlockTypeEx>0</BlockTypeEx><BlockName>8DJH-C_3_Feeder</BlockName><SourceFile>C:\ACAD2018_GISCAD\Symbols\8DJH-C_3_FEEDER_NEW.dwg</SourceFile><InsertAs>1</InsertAs><XrefType>0</XrefType><Scale>1</Scale><AuxiliaryScale>NONE</AuxiliaryScale><Rotation>0</Rotation><PromptRotation>1</PromptRotation><Explode>1</Explode></Block></Data>
+		</Tool><Tool Revision="19.1.0" option="31"><ItemID idValue="{5CCACC25-CE1E-4897-AE48-784ADF5C0CE0}"/><Properties><ItemName>8DJ20 2 Feeder</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\8DJ20 2 Feeder32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\8DJ20 2 Feeder64.PNG"/></Images><Time createdUniversalDateTime="2013-03-15T07:28:54" modifiedUniversalDateTime="2014-09-03T08:50:14"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties><Color><BasicPropInfo><PropValue unspecified="FALSE"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3221225472"/></CreateInfo></Color><Layer><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="Equip_HV_NEW"/></BasicPropInfo><CreateInfo><LayerTableRecord isNotPlotted="FALSE" lineWeight="-3"><SymbolTableNameRecord>Equip_HV_NEW</SymbolTableNameRecord><Linetype><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="Continuous"/></BasicPropInfo></Linetype><Color><BasicPropInfo><PropValue unspecified="FALSE"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3271557122"/></CreateInfo></Color></LayerTableRecord></CreateInfo></Layer><Linetype><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="CENTERX2"/></BasicPropInfo><CreateInfo><LinetypeTableRecord numberOfPatternElements="4"><SymbolTableNameRecord>CENTERX2</SymbolTableNameRecord><Description>Center (2x) ________  __  ________  __  _____</Description><TotalPatternLength>4.000000</TotalPatternLength><LinetypeElements><LinetypeElement><Dash>2.500000</Dash></LinetypeElement><LinetypeElement><Space>-0.500000</Space></LinetypeElement><LinetypeElement><Dash>0.500000</Dash></LinetypeElement><LinetypeElement><Space>-0.500000</Space></LinetypeElement></LinetypeElements></LinetypeTableRecord></CreateInfo></Linetype><LinetypeScale><BasicPropInfo><PropValue unspecified="FALSE" valueType="3" value="1"/></BasicPropInfo></LinetypeScale><PlotStyle><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="ByLayer"/></BasicPropInfo></PlotStyle><LineWeight><BasicPropInfo><PropValue unspecified="FALSE" valueType="2" value="-1"/></BasicPropInfo></LineWeight><Transparency><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="ByLayer"/></BasicPropInfo></Transparency><Textstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Textstyle><Dimstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Dimstyle><Tablestyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Tablestyle></GeneralProperties><Block><BlockType>1</BlockType><BlockTypeEx>0</BlockTypeEx><BlockName>8DJ20_2_Feeder</BlockName><SourceFile>C:\ACAD2018_GISCAD\Symbols\8DJ20_2_FEEDER_NEW.dwg</SourceFile><InsertAs>1</InsertAs><XrefType>0</XrefType><Scale>1</Scale><AuxiliaryScale>NONE</AuxiliaryScale><Rotation>0</Rotation><PromptRotation>1</PromptRotation><Explode>1</Explode></Block></Data>
+		</Tool><Tool Revision="19.1.0" option="31"><ItemID idValue="{A5CC3EC6-7309-4459-B2C7-CC794292703F}"/><Properties><ItemName>8DJ10 2 Feeder</ItemName><Images option="2"><Image cx="26" cy="32" IsDark="false" src="Images\8DJ10_2_Feeder32.PNG"/></Images><Overlay><Images option="0"><Image cx="16" cy="16" IsDark="false" resource="IDB_DYNAMIC_BLOCK" src="AcTcToolsRes.dll"/><Image cx="16" cy="16" IsDark="true" resource="IDB_DYNAMIC_BLOCK_DARK" src="AcTcToolsRes.dll"/></Images></Overlay><Time createdUniversalDateTime="2013-03-15T07:28:54" modifiedUniversalDateTime="2014-09-03T08:58:55"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data><GeneralProperties><Color><BasicPropInfo><PropValue unspecified="FALSE"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3221225472"/></CreateInfo></Color><Layer><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="Equip_HV_NEW"/></BasicPropInfo><CreateInfo><LayerTableRecord isNotPlotted="FALSE" lineWeight="-3"><SymbolTableNameRecord>Equip_HV_NEW</SymbolTableNameRecord><Linetype><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="Continuous"/></BasicPropInfo></Linetype><Color><BasicPropInfo><PropValue unspecified="FALSE"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3271557122"/></CreateInfo></Color></LayerTableRecord></CreateInfo></Layer><Linetype><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="CENTERX2"/></BasicPropInfo><CreateInfo><LinetypeTableRecord numberOfPatternElements="4"><SymbolTableNameRecord>CENTERX2</SymbolTableNameRecord><Description>Center (2x) ________  __  ________  __  _____</Description><TotalPatternLength>4.000000</TotalPatternLength><LinetypeElements><LinetypeElement><Dash>2.500000</Dash></LinetypeElement><LinetypeElement><Space>-0.500000</Space></LinetypeElement><LinetypeElement><Dash>0.500000</Dash></LinetypeElement><LinetypeElement><Space>-0.500000</Space></LinetypeElement></LinetypeElements></LinetypeTableRecord></CreateInfo></Linetype><LinetypeScale><BasicPropInfo><PropValue unspecified="FALSE" valueType="3" value="1"/></BasicPropInfo></LinetypeScale><PlotStyle><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="ByLayer"/></BasicPropInfo></PlotStyle><LineWeight><BasicPropInfo><PropValue unspecified="FALSE" valueType="2" value="-1"/></BasicPropInfo></LineWeight><Transparency><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="ByLayer"/></BasicPropInfo></Transparency><Textstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Textstyle><Dimstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Dimstyle><Tablestyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Tablestyle></GeneralProperties><Block><BlockType>1</BlockType><BlockTypeEx>1</BlockTypeEx><BlockName>8DJ10_2_Feeder</BlockName><SourceFile>C:\ACAD2018_GISCAD\Symbols\8DJ10_2_FEEDER_NEW.dwg</SourceFile><InsertAs>1</InsertAs><XrefType>0</XrefType><Scale>1</Scale><AuxiliaryScale>NONE</AuxiliaryScale><Rotation>0</Rotation><PromptRotation>1</PromptRotation><Explode>1</Explode></Block></Data></Tool><Tool Revision="18.0.1" option="0"><ItemID idValue="{8D2BE671-F2FD-453D-9A99-ACC20B80A111}"/><Properties><ItemName>HV SWGR With CB</ItemName><Images option="0"/><Time createdUniversalDateTime="2014-03-05T23:53:01" modifiedUniversalDateTime="2014-03-05T23:53:01"/></Properties><Source/><ToolType>3</ToolType><StockToolRef/><Data/>
+		</Tool><Tool Revision="18.0.1" option="31"><ItemID idValue="{CD9A3661-91EF-4BCD-8040-BE97A5B83ADE}"/><Properties><ItemName>8DJ10 3 Feeder CB</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\A$C64DA346F32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\A$C64DA346F64.PNG"/></Images><Time createdUniversalDateTime="2011-08-09T01:35:51" modifiedUniversalDateTime="2014-03-06T11:46:02"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_HV_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_HV_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="CENTERX2"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LinetypeTableRecord numberOfPatternElements="4">
+								<SymbolTableNameRecord>CENTERX2</SymbolTableNameRecord>
+								<Description>Center (2x) ________  __  ________  __  _____</Description>
+								<TotalPatternLength>4.000000</TotalPatternLength>
+								<LinetypeElements>
+									<LinetypeElement>
+										<Dash>2.500000</Dash>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-0.500000</Space>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Dash>0.500000</Dash>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-0.500000</Space>
+									</LinetypeElement>
+								</LinetypeElements>
+							</LinetypeTableRecord>
+						</CreateInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>A$C64DA346F</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\Symbols\8DJ10_3_FEEDER_CB_NEW.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>1</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="19.1.1" option="31"><ItemID idValue="{4A094D1B-BE86-4550-B59C-154D0568F6F1}"/><Properties><ItemName>8DJ20 3 Feeder CB</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\A$C45EB7C6F32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\A$C45EB7C6F64.PNG"/></Images><Time createdUniversalDateTime="2013-02-26T00:35:32" modifiedUniversalDateTime="2014-09-02T11:14:44"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties><Color><BasicPropInfo><PropValue unspecified="FALSE"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3221225472"/></CreateInfo></Color><Layer><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="Equip_HV_NEW"/></BasicPropInfo><CreateInfo><LayerTableRecord isNotPlotted="FALSE" lineWeight="-3"><SymbolTableNameRecord>Equip_HV_NEW</SymbolTableNameRecord><Linetype><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="Continuous"/></BasicPropInfo></Linetype><Color><BasicPropInfo><PropValue unspecified="FALSE"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3271557122"/></CreateInfo></Color></LayerTableRecord></CreateInfo></Layer><Linetype><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="CENTERX2"/></BasicPropInfo><CreateInfo><LinetypeTableRecord numberOfPatternElements="4"><SymbolTableNameRecord>CENTERX2</SymbolTableNameRecord><Description>Center (2x) ________  __  ________  __  _____</Description><TotalPatternLength>4.000000</TotalPatternLength><LinetypeElements><LinetypeElement><Dash>2.500000</Dash></LinetypeElement><LinetypeElement><Space>-0.500000</Space></LinetypeElement><LinetypeElement><Dash>0.500000</Dash></LinetypeElement><LinetypeElement><Space>-0.500000</Space></LinetypeElement></LinetypeElements></LinetypeTableRecord></CreateInfo></Linetype><LinetypeScale><BasicPropInfo><PropValue unspecified="FALSE" valueType="3" value="1"/></BasicPropInfo></LinetypeScale><PlotStyle><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="ByLayer"/></BasicPropInfo></PlotStyle><LineWeight><BasicPropInfo><PropValue unspecified="FALSE" valueType="2" value="-1"/></BasicPropInfo></LineWeight><Transparency><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Transparency><Textstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Textstyle><Dimstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Dimstyle><Tablestyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Tablestyle></GeneralProperties><Block><BlockType>1</BlockType><BlockTypeEx>0</BlockTypeEx><BlockName>A$C45EB7C6F</BlockName><SourceFile>C:\ACAD2018_GISCAD\Symbols\8DJ20_3_FEEDER_CB_NEW.dwg</SourceFile><InsertAs>1</InsertAs><XrefType>0</XrefType><Scale>1</Scale><AuxiliaryScale>NONE</AuxiliaryScale><Rotation>0</Rotation><PromptRotation>1</PromptRotation><Explode>1</Explode></Block></Data>
+		</Tool><Tool Revision="19.1.1" option="31"><ItemID idValue="{8C13D7A0-C5BB-4024-9491-F0B04AF98194}"/><Properties><ItemName>8DJH 3 Feeder CB</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\A$C49185E2E32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\A$C49185E2E64.PNG"/></Images><Time createdUniversalDateTime="2013-02-26T00:35:32" modifiedUniversalDateTime="2014-09-02T11:14:53"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties><Color><BasicPropInfo><PropValue unspecified="FALSE"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3221225472"/></CreateInfo></Color><Layer><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="Equip_HV_NEW"/></BasicPropInfo><CreateInfo><LayerTableRecord isNotPlotted="FALSE" lineWeight="-3"><SymbolTableNameRecord>Equip_HV_NEW</SymbolTableNameRecord><Linetype><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="Continuous"/></BasicPropInfo></Linetype><Color><BasicPropInfo><PropValue unspecified="FALSE"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3271557122"/></CreateInfo></Color></LayerTableRecord></CreateInfo></Layer><Linetype><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="CENTERX2"/></BasicPropInfo><CreateInfo><LinetypeTableRecord numberOfPatternElements="4"><SymbolTableNameRecord>CENTERX2</SymbolTableNameRecord><Description>Center (2x) ________  __  ________  __  _____</Description><TotalPatternLength>4.000000</TotalPatternLength><LinetypeElements><LinetypeElement><Dash>2.500000</Dash></LinetypeElement><LinetypeElement><Space>-0.500000</Space></LinetypeElement><LinetypeElement><Dash>0.500000</Dash></LinetypeElement><LinetypeElement><Space>-0.500000</Space></LinetypeElement></LinetypeElements></LinetypeTableRecord></CreateInfo></Linetype><LinetypeScale><BasicPropInfo><PropValue unspecified="FALSE" valueType="3" value="1"/></BasicPropInfo></LinetypeScale><PlotStyle><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="ByLayer"/></BasicPropInfo></PlotStyle><LineWeight><BasicPropInfo><PropValue unspecified="FALSE" valueType="2" value="-1"/></BasicPropInfo></LineWeight><Transparency><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Transparency><Textstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Textstyle><Dimstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Dimstyle><Tablestyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Tablestyle></GeneralProperties><Block><BlockType>1</BlockType><BlockTypeEx>0</BlockTypeEx><BlockName>A$C49185E2E</BlockName><SourceFile>C:\ACAD2018_GISCAD\Symbols\8DJH_3_FEEDER_CB_NEW.dwg</SourceFile><InsertAs>1</InsertAs><XrefType>0</XrefType><Scale>1</Scale><AuxiliaryScale>NONE</AuxiliaryScale><Rotation>0</Rotation><PromptRotation>1</PromptRotation><Explode>1</Explode></Block></Data>
+		</Tool><Tool Revision="19.1.1" option="31"><ItemID idValue="{DD02D1F3-60C2-4520-B2D4-F07FAF353AD3}"/><Properties><ItemName>8DJH-C 3 Feeder CB</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\A$C0E03257032.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\A$C0E03257064.PNG"/></Images><Time createdUniversalDateTime="2013-02-26T00:35:32" modifiedUniversalDateTime="2014-09-02T11:20:46"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties><Color><BasicPropInfo><PropValue unspecified="FALSE"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3221225472"/></CreateInfo></Color><Layer><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="Equip_HV_NEW"/></BasicPropInfo><CreateInfo><LayerTableRecord isNotPlotted="FALSE" lineWeight="-3"><SymbolTableNameRecord>Equip_HV_NEW</SymbolTableNameRecord><Linetype><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="Continuous"/></BasicPropInfo></Linetype><Color><BasicPropInfo><PropValue unspecified="FALSE"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3271557122"/></CreateInfo></Color></LayerTableRecord></CreateInfo></Layer><Linetype><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="CENTERX2"/></BasicPropInfo><CreateInfo><LinetypeTableRecord numberOfPatternElements="4"><SymbolTableNameRecord>CENTERX2</SymbolTableNameRecord><Description>Center (2x) ________  __  ________  __  _____</Description><TotalPatternLength>4.000000</TotalPatternLength><LinetypeElements><LinetypeElement><Dash>2.500000</Dash></LinetypeElement><LinetypeElement><Space>-0.500000</Space></LinetypeElement><LinetypeElement><Dash>0.500000</Dash></LinetypeElement><LinetypeElement><Space>-0.500000</Space></LinetypeElement></LinetypeElements></LinetypeTableRecord></CreateInfo></Linetype><LinetypeScale><BasicPropInfo><PropValue unspecified="FALSE" valueType="3" value="1"/></BasicPropInfo></LinetypeScale><PlotStyle><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="ByLayer"/></BasicPropInfo></PlotStyle><LineWeight><BasicPropInfo><PropValue unspecified="FALSE" valueType="2" value="-1"/></BasicPropInfo></LineWeight><Transparency><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Transparency><Textstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Textstyle><Dimstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Dimstyle><Tablestyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Tablestyle></GeneralProperties><Block><BlockType>1</BlockType><BlockTypeEx>0</BlockTypeEx><BlockName>A$C1CA04309</BlockName><SourceFile>C:\ACAD2018_GISCAD\Symbols\8DJH-C_3_FEEDER_CB_NEW.dwg</SourceFile><InsertAs>1</InsertAs><XrefType>0</XrefType><Scale>1</Scale><AuxiliaryScale>NONE</AuxiliaryScale><Rotation>0</Rotation><PromptRotation>1</PromptRotation><Explode>1</Explode></Block></Data>
+		</Tool><Tool Revision="19.1.0" option="31"><ItemID idValue="{3E428C66-7652-41F1-BDA9-1E8E30642467}"/><Properties><ItemName>8DJ20 2 Feeder CB</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\8DJ20_2_Feeder_CB32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\8DJ20_2_Feeder_CB64.PNG"/></Images><Time createdUniversalDateTime="2013-03-15T07:28:54" modifiedUniversalDateTime="2014-09-02T11:20:27"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data><GeneralProperties><Color><BasicPropInfo><PropValue unspecified="FALSE"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3221225472"/></CreateInfo></Color><Layer><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="Equip_HV_NEW"/></BasicPropInfo><CreateInfo><LayerTableRecord isNotPlotted="FALSE" lineWeight="-3"><SymbolTableNameRecord>Equip_HV_NEW</SymbolTableNameRecord><Linetype><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="Continuous"/></BasicPropInfo></Linetype><Color><BasicPropInfo><PropValue unspecified="FALSE"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3271557122"/></CreateInfo></Color></LayerTableRecord></CreateInfo></Layer><Linetype><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="CENTERX2"/></BasicPropInfo><CreateInfo><LinetypeTableRecord numberOfPatternElements="4"><SymbolTableNameRecord>CENTERX2</SymbolTableNameRecord><Description>Center (2x) ________  __  ________  __  _____</Description><TotalPatternLength>4.000000</TotalPatternLength><LinetypeElements><LinetypeElement><Dash>2.500000</Dash></LinetypeElement><LinetypeElement><Space>-0.500000</Space></LinetypeElement><LinetypeElement><Dash>0.500000</Dash></LinetypeElement><LinetypeElement><Space>-0.500000</Space></LinetypeElement></LinetypeElements></LinetypeTableRecord></CreateInfo></Linetype><LinetypeScale><BasicPropInfo><PropValue unspecified="FALSE" valueType="3" value="1"/></BasicPropInfo></LinetypeScale><PlotStyle><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="ByLayer"/></BasicPropInfo></PlotStyle><LineWeight><BasicPropInfo><PropValue unspecified="FALSE" valueType="2" value="-1"/></BasicPropInfo></LineWeight><Transparency><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="ByLayer"/></BasicPropInfo></Transparency><Textstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Textstyle><Dimstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Dimstyle><Tablestyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Tablestyle></GeneralProperties><Block><BlockType>1</BlockType><BlockTypeEx>0</BlockTypeEx><BlockName>8DJ20_2_Feeder_CB</BlockName><SourceFile>C:\ACAD2018_GISCAD\Symbols\8DJ20_3_FEEDER_CB_NEW.dwg</SourceFile><InsertAs>1</InsertAs><XrefType>0</XrefType><Scale>1</Scale><AuxiliaryScale>NONE</AuxiliaryScale><Rotation>0</Rotation><PromptRotation>1</PromptRotation><Explode>1</Explode></Block></Data></Tool><Tool Revision="19.1.0" option="31"><ItemID idValue="{1DCF0E31-2B98-408C-9CED-D7BB9F99DD83}"/><Properties><ItemName>8DJ10 2 Feeder CB</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\8DJ10_2_Feeder_CB32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\8DJ10_2_Feeder_CB64.PNG"/></Images><Time createdUniversalDateTime="2013-03-15T07:28:54" modifiedUniversalDateTime="2014-09-03T10:39:02"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data><GeneralProperties><Color><BasicPropInfo><PropValue unspecified="FALSE"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3221225472"/></CreateInfo></Color><Layer><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="Equip_HV_NEW"/></BasicPropInfo><CreateInfo><LayerTableRecord isNotPlotted="FALSE" lineWeight="-3"><SymbolTableNameRecord>Equip_HV_NEW</SymbolTableNameRecord><Linetype><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="Continuous"/></BasicPropInfo></Linetype><Color><BasicPropInfo><PropValue unspecified="FALSE"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3271557122"/></CreateInfo></Color></LayerTableRecord></CreateInfo></Layer><Linetype><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="CENTERX2"/></BasicPropInfo><CreateInfo><LinetypeTableRecord numberOfPatternElements="4"><SymbolTableNameRecord>CENTERX2</SymbolTableNameRecord><Description>Center (2x) ________  __  ________  __  _____</Description><TotalPatternLength>4.000000</TotalPatternLength><LinetypeElements><LinetypeElement><Dash>2.500000</Dash></LinetypeElement><LinetypeElement><Space>-0.500000</Space></LinetypeElement><LinetypeElement><Dash>0.500000</Dash></LinetypeElement><LinetypeElement><Space>-0.500000</Space></LinetypeElement></LinetypeElements></LinetypeTableRecord></CreateInfo></Linetype><LinetypeScale><BasicPropInfo><PropValue unspecified="FALSE" valueType="3" value="1"/></BasicPropInfo></LinetypeScale><PlotStyle><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="ByLayer"/></BasicPropInfo></PlotStyle><LineWeight><BasicPropInfo><PropValue unspecified="FALSE" valueType="2" value="-1"/></BasicPropInfo></LineWeight><Transparency><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="ByLayer"/></BasicPropInfo></Transparency><Textstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Textstyle><Dimstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Dimstyle><Tablestyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Tablestyle></GeneralProperties><Block><BlockType>1</BlockType><BlockTypeEx>0</BlockTypeEx><BlockName>8DJ10_2_Feeder_CB</BlockName><SourceFile>C:\ACAD2018_GISCAD\Symbols\8DJ10_3_FEEDER_CB_NEW.dwg</SourceFile><InsertAs>1</InsertAs><XrefType>0</XrefType><Scale>1</Scale><AuxiliaryScale>NONE</AuxiliaryScale><Rotation>0</Rotation><PromptRotation>1</PromptRotation><Explode>1</Explode></Block></Data></Tool><Tool Revision="19.1.0" option="31"><ItemID idValue="{945F03A3-65AD-4D68-B618-646D65963DB4}"/><Properties><ItemName>8DJH 2 Feede CB</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\8DJH_2_Feeder_CB32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\8DJH_2_Feeder_CB64.PNG"/></Images><Time createdUniversalDateTime="2013-03-15T07:28:54" modifiedUniversalDateTime="2014-09-02T11:18:51"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data><GeneralProperties><Color><BasicPropInfo><PropValue unspecified="FALSE"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3221225472"/></CreateInfo></Color><Layer><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="Equip_HV_NEW"/></BasicPropInfo><CreateInfo><LayerTableRecord isNotPlotted="FALSE" lineWeight="-3"><SymbolTableNameRecord>Equip_HV_NEW</SymbolTableNameRecord><Linetype><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="Continuous"/></BasicPropInfo></Linetype><Color><BasicPropInfo><PropValue unspecified="FALSE"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3271557122"/></CreateInfo></Color></LayerTableRecord></CreateInfo></Layer><Linetype><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="CENTERX2"/></BasicPropInfo><CreateInfo><LinetypeTableRecord numberOfPatternElements="4"><SymbolTableNameRecord>CENTERX2</SymbolTableNameRecord><Description>Center (2x) ________  __  ________  __  _____</Description><TotalPatternLength>4.000000</TotalPatternLength><LinetypeElements><LinetypeElement><Dash>2.500000</Dash></LinetypeElement><LinetypeElement><Space>-0.500000</Space></LinetypeElement><LinetypeElement><Dash>0.500000</Dash></LinetypeElement><LinetypeElement><Space>-0.500000</Space></LinetypeElement></LinetypeElements></LinetypeTableRecord></CreateInfo></Linetype><LinetypeScale><BasicPropInfo><PropValue unspecified="FALSE" valueType="3" value="1"/></BasicPropInfo></LinetypeScale><PlotStyle><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="ByLayer"/></BasicPropInfo></PlotStyle><LineWeight><BasicPropInfo><PropValue unspecified="FALSE" valueType="2" value="-1"/></BasicPropInfo></LineWeight><Transparency><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="ByLayer"/></BasicPropInfo></Transparency><Textstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Textstyle><Dimstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Dimstyle><Tablestyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Tablestyle></GeneralProperties><Block><BlockType>1</BlockType><BlockTypeEx>0</BlockTypeEx><BlockName>8DJH_2_Feeder_CB</BlockName><SourceFile>C:\ACAD2018_GISCAD\Symbols\8DJH_3_FEEDER_CB_NEW.dwg</SourceFile><InsertAs>1</InsertAs><XrefType>0</XrefType><Scale>1</Scale><AuxiliaryScale>NONE</AuxiliaryScale><Rotation>0</Rotation><PromptRotation>1</PromptRotation><Explode>1</Explode></Block></Data></Tool><Tool Revision="19.1.0" option="31"><ItemID idValue="{E6AD02C0-9F06-4EB3-A743-FA9E8A85CBA7}"/><Properties><ItemName>8DJH-C 2 Feeder CB</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\8DJH-C_2_Feeder_CB32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\8DJH-C_2_Feeder_CB64.PNG"/></Images><Time createdUniversalDateTime="2013-03-15T07:28:54" modifiedUniversalDateTime="2014-09-02T11:18:29"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data><GeneralProperties><Color><BasicPropInfo><PropValue unspecified="FALSE"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3221225472"/></CreateInfo></Color><Layer><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="Equip_HV_NEW"/></BasicPropInfo><CreateInfo><LayerTableRecord isNotPlotted="FALSE" lineWeight="-3"><SymbolTableNameRecord>Equip_HV_NEW</SymbolTableNameRecord><Linetype><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="Continuous"/></BasicPropInfo></Linetype><Color><BasicPropInfo><PropValue unspecified="FALSE"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3271557122"/></CreateInfo></Color></LayerTableRecord></CreateInfo></Layer><Linetype><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="CENTERX2"/></BasicPropInfo><CreateInfo><LinetypeTableRecord numberOfPatternElements="4"><SymbolTableNameRecord>CENTERX2</SymbolTableNameRecord><Description>Center (2x) ________  __  ________  __  _____</Description><TotalPatternLength>4.000000</TotalPatternLength><LinetypeElements><LinetypeElement><Dash>2.500000</Dash></LinetypeElement><LinetypeElement><Space>-0.500000</Space></LinetypeElement><LinetypeElement><Dash>0.500000</Dash></LinetypeElement><LinetypeElement><Space>-0.500000</Space></LinetypeElement></LinetypeElements></LinetypeTableRecord></CreateInfo></Linetype><LinetypeScale><BasicPropInfo><PropValue unspecified="FALSE" valueType="3" value="1"/></BasicPropInfo></LinetypeScale><PlotStyle><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="ByLayer"/></BasicPropInfo></PlotStyle><LineWeight><BasicPropInfo><PropValue unspecified="FALSE" valueType="2" value="-1"/></BasicPropInfo></LineWeight><Transparency><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="ByLayer"/></BasicPropInfo></Transparency><Textstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Textstyle><Dimstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Dimstyle><Tablestyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Tablestyle></GeneralProperties><Block><BlockType>1</BlockType><BlockTypeEx>0</BlockTypeEx><BlockName>8DJH-C_2_Feeder_CB</BlockName><SourceFile>C:\ACAD2018_GISCAD\Symbols\8DJH-C_3_FEEDER_CB_NEW.dwg</SourceFile><InsertAs>1</InsertAs><XrefType>0</XrefType><Scale>1</Scale><AuxiliaryScale>NONE</AuxiliaryScale><Rotation>0</Rotation><PromptRotation>1</PromptRotation><Explode>1</Explode></Block></Data></Tool><Tool Revision="18.0.1" option="0"><ItemID idValue="{E2BA44A5-DE40-4CDF-AAFE-CE7FA61B4601}"/><Properties><ItemName>SWGR</ItemName><Images option="0"/><Time createdUniversalDateTime="2014-03-06T00:25:27" modifiedUniversalDateTime="2014-03-06T00:25:27"/></Properties><Source/><ToolType>3</ToolType><StockToolRef/><Data/>
+		</Tool><Tool Revision="18.0.1" option="31"><ItemID idValue="{3E9DD43E-0ED2-435F-94C9-6E8A01EE2EDE}"/><Properties><ItemName>SWG SIE TRF CB</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\A$C54374FA032.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\A$C54374FA064.PNG"/></Images><Time createdUniversalDateTime="2013-02-26T00:35:32" modifiedUniversalDateTime="2014-03-06T11:46:28"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_HV_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_HV_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="CENTERX2"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LinetypeTableRecord numberOfPatternElements="4">
+								<SymbolTableNameRecord>CENTERX2</SymbolTableNameRecord>
+								<Description>Center (2x) ________  __  ________  __  _____</Description>
+								<TotalPatternLength>4.000000</TotalPatternLength>
+								<LinetypeElements>
+									<LinetypeElement>
+										<Dash>2.500000</Dash>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-0.500000</Space>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Dash>0.500000</Dash>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-0.500000</Space>
+									</LinetypeElement>
+								</LinetypeElements>
+							</LinetypeTableRecord>
+						</CreateInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>A$C54374FA0</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\Symbols\SWG_SIE_TRF_CB_NEW.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>1</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.1" option="31"><ItemID idValue="{7636F436-FDD0-47A4-B52A-F7858A419183}"/><Properties><ItemName>SWG SIE TRF CB NOES</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_7636F436-FDD0-47A4-B52A-F7858A419183.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_7636F436-FDD0-47A4-B52A-F7858A419183_2.PNG"/></Images><Time createdUniversalDateTime="2011-08-09T01:35:51" modifiedUniversalDateTime="2014-03-06T11:46:34"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_HV_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_HV_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="CENTERX2"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LinetypeTableRecord numberOfPatternElements="4">
+								<SymbolTableNameRecord>CENTERX2</SymbolTableNameRecord>
+								<Description>Center (2x) ________  __  ________  __  _____</Description>
+								<TotalPatternLength>4.000000</TotalPatternLength>
+								<LinetypeElements>
+									<LinetypeElement>
+										<Dash>2.500000</Dash>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-0.500000</Space>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Dash>0.500000</Dash>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-0.500000</Space>
+									</LinetypeElement>
+								</LinetypeElements>
+							</LinetypeTableRecord>
+						</CreateInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>A$C34D048B8</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\Symbols\SWG_SIE_TRF_CB_NOES_NEW.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>1</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.1" option="31"><ItemID idValue="{5E7194F7-5CBE-4E80-9CE0-6A49A22B356A}"/><Properties><ItemName>SWG SIE SUWE</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\A$C5B840EC732.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\A$C5B840EC764.PNG"/></Images><Time createdUniversalDateTime="2011-08-09T01:35:51" modifiedUniversalDateTime="2014-03-06T11:46:46"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_HV_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_HV_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="CENTERX2"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LinetypeTableRecord numberOfPatternElements="4">
+								<SymbolTableNameRecord>CENTERX2</SymbolTableNameRecord>
+								<Description>Center (2x) ________  __  ________  __  _____</Description>
+								<TotalPatternLength>4.000000</TotalPatternLength>
+								<LinetypeElements>
+									<LinetypeElement>
+										<Dash>2.500000</Dash>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-0.500000</Space>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Dash>0.500000</Dash>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-0.500000</Space>
+									</LinetypeElement>
+								</LinetypeElements>
+							</LinetypeTableRecord>
+						</CreateInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>A$C5B840EC7</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\Symbols\SWG_SIE_SUWE_NEW.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>1</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.1" option="31"><ItemID idValue="{EAA7E17C-0B8B-40AC-9EEE-C3914C581133}"/><Properties><ItemName>SWG SIE TRF</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\A$C4FF2428532.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\A$C4FF2428564.PNG"/></Images><Time createdUniversalDateTime="2011-08-09T01:35:51" modifiedUniversalDateTime="2014-03-06T11:46:53"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_HV_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_HV_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="CENTERX2"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LinetypeTableRecord numberOfPatternElements="4">
+								<SymbolTableNameRecord>CENTERX2</SymbolTableNameRecord>
+								<Description>Center (2x) ________  __  ________  __  _____</Description>
+								<TotalPatternLength>4.000000</TotalPatternLength>
+								<LinetypeElements>
+									<LinetypeElement>
+										<Dash>2.500000</Dash>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-0.500000</Space>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Dash>0.500000</Dash>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-0.500000</Space>
+									</LinetypeElement>
+								</LinetypeElements>
+							</LinetypeTableRecord>
+						</CreateInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>A$C4FF24285</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\Symbols\SWG_SIE_TRF_NEW.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>1</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.1" option="31"><ItemID idValue="{F7EFD86E-3AEC-4675-9258-F436E149DAAF}"/><Properties><ItemName>SWG SIE TRF NOES</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\A$C7FB1370932.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\A$C7FB1370964.PNG"/></Images><Time createdUniversalDateTime="2011-08-09T01:35:51" modifiedUniversalDateTime="2014-03-06T11:46:59"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_HV_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_HV_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="CENTERX2"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LinetypeTableRecord numberOfPatternElements="4">
+								<SymbolTableNameRecord>CENTERX2</SymbolTableNameRecord>
+								<Description>Center (2x) ________  __  ________  __  _____</Description>
+								<TotalPatternLength>4.000000</TotalPatternLength>
+								<LinetypeElements>
+									<LinetypeElement>
+										<Dash>2.500000</Dash>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-0.500000</Space>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Dash>0.500000</Dash>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-0.500000</Space>
+									</LinetypeElement>
+								</LinetypeElements>
+							</LinetypeTableRecord>
+						</CreateInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>A$C7FB13709</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\Symbols\SWG_SIE_TRF_NOES_NEW.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>1</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.1" option="31"><ItemID idValue="{695D4D51-A59A-4BED-A453-D7D67C965ACC}"/><Properties><ItemName>CB</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\A$C6C3F3DB332.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\A$C6C3F3DB364.PNG"/></Images><Time createdUniversalDateTime="2011-08-09T01:35:51" modifiedUniversalDateTime="2014-03-06T11:47:22"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Equip_HV_NEW"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Equip_HV_NEW</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557122"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="CENTERX2"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LinetypeTableRecord numberOfPatternElements="4">
+								<SymbolTableNameRecord>CENTERX2</SymbolTableNameRecord>
+								<Description>Center (2x) ________  __  ________  __  _____</Description>
+								<TotalPatternLength>4.000000</TotalPatternLength>
+								<LinetypeElements>
+									<LinetypeElement>
+										<Dash>2.500000</Dash>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-0.500000</Space>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Dash>0.500000</Dash>
+									</LinetypeElement>
+									<LinetypeElement>
+										<Space>-0.500000</Space>
+									</LinetypeElement>
+								</LinetypeElements>
+							</LinetypeTableRecord>
+						</CreateInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>A$C6C3F3DB3</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\Symbols\CB_WITHAN_NEW.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>1</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="19.1.0" option="31"><ItemID idValue="{F27D664F-39B6-4DC0-B62F-DCFF281CE6F3}"/><Properties><ItemName>8DJH 2 Feeder</ItemName><Images option="2"><Image cx="26" cy="32" IsDark="false" src="Images\A$C5DAF5B2732.PNG"/></Images><Time createdUniversalDateTime="2014-06-05T21:02:17" modifiedUniversalDateTime="2014-09-03T10:09:37"/></Properties><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data><GeneralProperties><Color><BasicPropInfo><PropValue unspecified="FALSE"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3221225472"/></CreateInfo></Color><Layer><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="Equip_HV_NEW"/></BasicPropInfo><CreateInfo><LayerTableRecord isNotPlotted="FALSE" lineWeight="-3"><SymbolTableNameRecord>Equip_HV_NEW</SymbolTableNameRecord><Linetype><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="Continuous"/></BasicPropInfo></Linetype><Color><BasicPropInfo><PropValue unspecified="FALSE"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3271557122"/></CreateInfo></Color></LayerTableRecord></CreateInfo></Layer><Linetype><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="CENTERX2"/></BasicPropInfo><CreateInfo><LinetypeTableRecord numberOfPatternElements="4"><SymbolTableNameRecord>CENTERX2</SymbolTableNameRecord><Description>Center (2x) ________  __  ________  __  _____</Description><TotalPatternLength>4.000000</TotalPatternLength><LinetypeElements><LinetypeElement><Dash>2.500000</Dash></LinetypeElement><LinetypeElement><Space>-0.500000</Space></LinetypeElement><LinetypeElement><Dash>0.500000</Dash></LinetypeElement><LinetypeElement><Space>-0.500000</Space></LinetypeElement></LinetypeElements></LinetypeTableRecord></CreateInfo></Linetype><LinetypeScale><BasicPropInfo><PropValue unspecified="FALSE" valueType="3" value="1"/></BasicPropInfo></LinetypeScale><PlotStyle><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="ByLayer"/></BasicPropInfo></PlotStyle><LineWeight><BasicPropInfo><PropValue unspecified="FALSE" valueType="2" value="-1"/></BasicPropInfo></LineWeight><Transparency><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="ByLayer"/></BasicPropInfo></Transparency><Textstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Textstyle><Dimstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Dimstyle><Tablestyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Tablestyle></GeneralProperties><Block><BlockType>1</BlockType><BlockTypeEx>0</BlockTypeEx><BlockName>8DJH_2_Feeder</BlockName><SourceFile>C:\ACAD2018_GISCAD\Symbols\8DJH_2_FEEDER_NEW.dwg</SourceFile><InsertAs>1</InsertAs><XrefType>0</XrefType><Scale>1</Scale><AuxiliaryScale>NONE</AuxiliaryScale><Rotation>0</Rotation><PromptRotation>1</PromptRotation><Explode>1</Explode></Block></Data></Tool><Tool Revision="19.1.0" option="31"><ItemID idValue="{9B45D3CB-2D20-401F-851C-4A0F19C4BFDB}"/><Properties><ItemName>8DJH-C_2_Feeder</ItemName><Images option="2"><Image cx="26" cy="32" IsDark="false" src="Images\8DJH-C_2_Feeder32.PNG"/></Images><Time createdUniversalDateTime="2014-06-05T21:02:17" modifiedUniversalDateTime="2014-09-03T10:10:19"/></Properties><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data><GeneralProperties><Color><BasicPropInfo><PropValue unspecified="FALSE"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3221225472"/></CreateInfo></Color><Layer><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="Equip_HV_NEW"/></BasicPropInfo><CreateInfo><LayerTableRecord isNotPlotted="FALSE" lineWeight="-3"><SymbolTableNameRecord>Equip_HV_NEW</SymbolTableNameRecord><Linetype><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="Continuous"/></BasicPropInfo></Linetype><Color><BasicPropInfo><PropValue unspecified="FALSE"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3271557122"/></CreateInfo></Color></LayerTableRecord></CreateInfo></Layer><Linetype><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="CENTERX2"/></BasicPropInfo><CreateInfo><LinetypeTableRecord numberOfPatternElements="4"><SymbolTableNameRecord>CENTERX2</SymbolTableNameRecord><Description>Center (2x) ________  __  ________  __  _____</Description><TotalPatternLength>4.000000</TotalPatternLength><LinetypeElements><LinetypeElement><Dash>2.500000</Dash></LinetypeElement><LinetypeElement><Space>-0.500000</Space></LinetypeElement><LinetypeElement><Dash>0.500000</Dash></LinetypeElement><LinetypeElement><Space>-0.500000</Space></LinetypeElement></LinetypeElements></LinetypeTableRecord></CreateInfo></Linetype><LinetypeScale><BasicPropInfo><PropValue unspecified="FALSE" valueType="3" value="1"/></BasicPropInfo></LinetypeScale><PlotStyle><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="ByLayer"/></BasicPropInfo></PlotStyle><LineWeight><BasicPropInfo><PropValue unspecified="FALSE" valueType="2" value="-1"/></BasicPropInfo></LineWeight><Transparency><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="ByLayer"/></BasicPropInfo></Transparency><Textstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Textstyle><Dimstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Dimstyle><Tablestyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Tablestyle></GeneralProperties><Block><BlockType>1</BlockType><BlockTypeEx>0</BlockTypeEx><BlockName>8DJH-C_2_Feeder</BlockName><SourceFile>C:\ACAD2018_GISCAD\Symbols\8DJH-C_2_FEEDER_NEW.dwg</SourceFile><InsertAs>1</InsertAs><XrefType>0</XrefType><Scale>1</Scale><AuxiliaryScale>NONE</AuxiliaryScale><Rotation>0</Rotation><PromptRotation>1</PromptRotation><Explode>1</Explode></Block></Data></Tool></Tools></Palette>

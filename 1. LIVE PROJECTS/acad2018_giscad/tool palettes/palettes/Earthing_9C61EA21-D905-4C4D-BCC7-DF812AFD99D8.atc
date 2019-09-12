@@ -1,0 +1,1477 @@
+<Palette FileRevision="22.0.0" Revision="22.0.1" option="0"><ItemID idValue="{FCB744C1-09E6-4810-8E1A-B35EE3541A53}"/><Properties><ItemName>Earthing</ItemName><Images option="0"/><Time createdUniversalDateTime="2012-01-12T01:25:55" modifiedUniversalDateTime="2013-05-23T17:41:37"/></Properties><CustomData>
+		<Translation status="1"/>
+	</CustomData>
+	<Source/><Tools><Tool Revision="18.0.1" option="31"><ItemID idValue="{0DDCAB24-86BB-4182-84D7-816041622EF9}"/><Properties><ItemName>Earth</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_0DDCAB24-86BB-4182-84D7-816041622EF9.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_0DDCAB24-86BB-4182-84D7-816041622EF9_2.PNG"/></Images><Description>Earth Symbol</Description><Time createdUniversalDateTime="2011-12-02T05:17:21" modifiedUniversalDateTime="2013-07-11T12:28:16"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE"/>
+						</BasicPropInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>Earth</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\Symbols\Standards\EE_CAD_Standards.dwt</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{B5FA132E-502D-442F-892D-80BE44709C28}"/><Properties><ItemName>NOTE_APPROVAL_INDOOR_SUB</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_B5FA132E-502D-442F-892D-80BE44709C28.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_B5FA132E-502D-442F-892D-80BE44709C28_2.PNG"/></Images><Time createdUniversalDateTime="2013-02-26T11:55:09" modifiedUniversalDateTime="2013-02-26T11:55:09"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>NOTE_APPROVAL_INDOOR_SUB</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Earthing with Nested block2010.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1.028629963097882</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{6C98D7E0-B666-4D6F-9F0E-F7F3A19FBB0D}"/><Properties><ItemName>SEPARATE EARTHING SITE PLAN DETAIL</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\SEPARATE EARTHING SITE PLAN DETAIL32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\SEPARATE EARTHING SITE PLAN DETAIL64.PNG"/></Images><Time createdUniversalDateTime="2013-02-26T11:55:09" modifiedUniversalDateTime="2013-05-23T17:48:43"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>SEPARATE EARTHING SITE PLAN DETAIL</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Earthing with Nested block2010.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{AF452092-71BA-4C4D-AAF0-D6AA4DE8B3B0}"/><Properties><ItemName>COMMON EARTHING SITE PLAN DETAIL</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\COMMON EARTHING SITE PLAN DETAIL32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\COMMON EARTHING SITE PLAN DETAIL64.PNG"/></Images><Time createdUniversalDateTime="2013-02-26T11:55:09" modifiedUniversalDateTime="2013-05-23T17:48:53"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>COMMON EARTHING SITE PLAN DETAIL</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Earthing with Nested block2010.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{CB10B0CC-74AC-4930-AEFE-7A7A59105432}"/><Properties><ItemName>NOTE48A</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_CB10B0CC-74AC-4930-AEFE-7A7A59105432.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_CB10B0CC-74AC-4930-AEFE-7A7A59105432_2.PNG"/></Images><Time createdUniversalDateTime="2013-02-26T11:55:09" modifiedUniversalDateTime="2013-05-23T17:48:58"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>NOTE48A</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Earthing with Nested block2010.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{905CE15D-794F-4140-8F49-D52096155036}"/><Properties><ItemName>NOTE48C</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_905CE15D-794F-4140-8F49-D52096155036.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_905CE15D-794F-4140-8F49-D52096155036_2.PNG"/></Images><Time createdUniversalDateTime="2013-02-26T11:55:09" modifiedUniversalDateTime="2013-05-23T17:49:03"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>NOTE48C</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Earthing with Nested block2010.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{88F26255-6771-491F-BD6F-EDD7ED301E62}"/><Properties><ItemName>COMMON EARTHING SINGLE POLE SUB CONCRETE POLE</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\COMMON EARTHING SINGLE POLE SUB CONCRETE POLE32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\COMMON EARTHING SINGLE POLE SUB CONCRETE POLE64.PNG"/></Images><Time createdUniversalDateTime="2013-02-26T11:55:09" modifiedUniversalDateTime="2013-05-23T17:49:10"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>COMMON EARTHING SINGLE POLE SUB CONCRETE POLE</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Earthing with Nested block2010.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{9D935DF1-38EC-4EAE-839B-3CF6F49C16EC}"/><Properties><ItemName>COMMON EARTHING SINGLE POLE SUB WOODEN POLE</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\COMMON EARTHING SINGLE POLE SUB WOODEN POLE32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\COMMON EARTHING SINGLE POLE SUB WOODEN POLE64.PNG"/></Images><Time createdUniversalDateTime="2013-02-26T11:55:09" modifiedUniversalDateTime="2013-05-23T17:49:15"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>COMMON EARTHING SINGLE POLE SUB WOODEN POLE</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Earthing with Nested block2010.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{9B1136C5-F4F0-4C4D-84ED-B13A4D44BCB1}"/><Properties><ItemName>SEPARATE EARTHING SINGLE POLE SUB CONCRETE POLE</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\SEPARATE EARTHING SINGLE POLE SUB CONCRETE POLE32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\SEPARATE EARTHING SINGLE POLE SUB CONCRETE POLE64.PNG"/></Images><Time createdUniversalDateTime="2013-02-26T11:55:09" modifiedUniversalDateTime="2013-05-23T17:49:23"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>SEPARATE EARTHING SINGLE POLE SUB CONCRETE POLE</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Earthing with Nested block2010.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{1E5D48C5-C074-4D23-9BF6-401D9B51A617}"/><Properties><ItemName>SEPARATE EARTHING SINGLE POLE SUB WOODEN POLE</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\SEPARATE EARTHING SINGLE POLE SUB WOODEN POLE32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\SEPARATE EARTHING SINGLE POLE SUB WOODEN POLE64.PNG"/></Images><Time createdUniversalDateTime="2013-02-26T11:55:09" modifiedUniversalDateTime="2013-05-23T17:49:30"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>SEPARATE EARTHING SINGLE POLE SUB WOODEN POLE</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Earthing with Nested block2010.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{BB69E05F-8B7B-40D5-8C75-5D8FCF2A8F5C}"/><Properties><ItemName>SEPARATE EARTHING LBS CONCRETE POLE</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\SEPARATE EARTHING LBS CONCRETE POLE32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\SEPARATE EARTHING LBS CONCRETE POLE64.PNG"/></Images><Time createdUniversalDateTime="2013-02-26T11:55:09" modifiedUniversalDateTime="2013-05-23T17:49:37"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>SEPARATE EARTHING LBS CONCRETE POLE</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Earthing with Nested block2010.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{33224A95-4C4E-4499-8284-8E3E260ECA2C}"/><Properties><ItemName>SEPARATE EARTHING LBS WOODEN POLE</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\SEPARATE EARTHING LBS WOODEN POLE32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\SEPARATE EARTHING LBS WOODEN POLE64.PNG"/></Images><Time createdUniversalDateTime="2013-02-26T11:55:09" modifiedUniversalDateTime="2013-05-23T17:49:44"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>SEPARATE EARTHING LBS WOODEN POLE</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Earthing with Nested block2010.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{0737594B-46C8-4B60-A48F-C5FF1AF6E6FF}"/><Properties><ItemName>COMMON EARTHING LBS CONCRETE POLE</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\COMMON EARTHING LBS CONCRETE POLE32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\COMMON EARTHING LBS CONCRETE POLE64.PNG"/></Images><Time createdUniversalDateTime="2013-02-26T11:55:09" modifiedUniversalDateTime="2013-05-23T17:49:52"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>COMMON EARTHING LBS CONCRETE POLE</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Earthing with Nested block2010.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{C0C1590E-90CC-4D86-A887-CA3B0A59EC8D}"/><Properties><ItemName>COMMON EARTHING LBS WOODEN POLE</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\COMMON EARTHING LBS WOODEN POLE32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\COMMON EARTHING LBS WOODEN POLE64.PNG"/></Images><Time createdUniversalDateTime="2013-02-26T11:55:09" modifiedUniversalDateTime="2013-05-23T17:49:58"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>COMMON EARTHING LBS WOODEN POLE</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Earthing with Nested block2010.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{C8E4FFD2-80CB-4DA9-A4C9-C9892AC087B5}"/><Properties><ItemName>SEPARATE EARTHING UGOH CONCRETE POLE</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\SEPARATE EARTHING UGOH CONCRETE POLE32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\SEPARATE EARTHING UGOH CONCRETE POLE64.PNG"/></Images><Time createdUniversalDateTime="2013-02-26T11:55:09" modifiedUniversalDateTime="2013-05-23T17:50:05"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>SEPARATE EARTHING UGOH CONCRETE POLE</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Earthing with Nested block2010.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{FB691377-EFBB-4B3A-8E84-41E7166ECC2B}"/><Properties><ItemName>SEPARATE EARTHING UGOH WOODEN POLE</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\SEPARATE EARTHING UGOH WOODEN POLE32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\SEPARATE EARTHING UGOH WOODEN POLE64.PNG"/></Images><Time createdUniversalDateTime="2013-02-26T11:55:09" modifiedUniversalDateTime="2013-05-23T17:50:13"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>SEPARATE EARTHING UGOH WOODEN POLE</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Earthing with Nested block2010.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{217DDF35-F20F-4D7F-9C3D-1EFBFCF1D7AB}"/><Properties><ItemName>COMMON EARTHING UGOH CONCRETE POLE</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\COMMON EARTHING UGOH CONCRETE POLE32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\COMMON EARTHING UGOH CONCRETE POLE64.PNG"/></Images><Time createdUniversalDateTime="2013-02-26T11:55:09" modifiedUniversalDateTime="2013-05-23T17:50:19"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>COMMON EARTHING UGOH CONCRETE POLE</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Earthing with Nested block2010.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{7707A240-709F-40D2-A896-5DB7C5F00C92}"/><Properties><ItemName>COMMON EARTHING UGOH WOODEN POLE</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\COMMON EARTHING UGOH WOODEN POLE32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\COMMON EARTHING UGOH WOODEN POLE64.PNG"/></Images><Time createdUniversalDateTime="2013-02-26T11:55:09" modifiedUniversalDateTime="2013-05-23T17:50:26"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>COMMON EARTHING UGOH WOODEN POLE</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Earthing with Nested block2010.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="22.0.1" option="0"><ItemID idValue="{D8FBC381-216C-4D55-9FFB-70F18427996F}"/><Properties><ItemName>Earthing</ItemName><Images option="0"/><Time createdUniversalDateTime="2018-04-14T02:16:49" modifiedUniversalDateTime="2018-04-14T02:16:49"/></Properties><ToolType>3</ToolType><StockToolRef/><Data/></Tool><Tool Revision="22.0.1" option="0"><ItemID idValue="{8D38FD04-4B27-43CD-9CDC-DF8CE4DD4981}"/><Properties><Images option="0"/><Time createdUniversalDateTime="2018-04-14T02:16:55" modifiedUniversalDateTime="2018-04-14T02:16:55"/></Properties><ToolType>4</ToolType><StockToolRef/><Data/></Tool></Tools></Palette>

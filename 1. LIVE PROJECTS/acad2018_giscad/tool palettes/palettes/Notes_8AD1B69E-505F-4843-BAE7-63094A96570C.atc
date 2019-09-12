@@ -1,0 +1,3791 @@
+<Palette FileRevision="22.0.0" Revision="22.0.1" option="0"><ItemID idValue="{8AD1B69E-505F-4843-BAE7-63094A96570C}"/><Properties><ItemName>Notes</ItemName><Images option="0"/><Time createdUniversalDateTime="2012-04-03T06:23:11" modifiedUniversalDateTime="2014-10-31T09:55:12"/></Properties><CustomData>
+		<Translation status="1"/>
+	</CustomData>
+	<Source/><Tools><Tool Revision="18.0.0" option="0"><ItemID idValue="{CC8A340C-8DC3-4E6D-BF57-34188E8FB032}"/><Properties><ItemName>Notes</ItemName><Images option="0"/><Time createdUniversalDateTime="2012-07-17T05:56:56" modifiedUniversalDateTime="2012-07-17T05:56:56"/></Properties><Source/><ToolType>3</ToolType><StockToolRef/><Data/>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{5FB88609-931A-427B-9DC7-DC542BD3F264}"/><Properties><ItemName>NOTE48A</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\NOTE48A32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\NOTE48A64.PNG"/></Images><Time createdUniversalDateTime="2012-06-14T04:54:32" modifiedUniversalDateTime="2012-07-26T11:30:32"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>NOTE48A</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Labels.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{84BEF8B6-11FD-4F03-AC6A-E7AC6DE30D60}"/><Properties><ItemName>NOTE48B</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\NOTE48B32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\NOTE48B64.PNG"/></Images><Time createdUniversalDateTime="2012-06-14T04:54:32" modifiedUniversalDateTime="2012-07-26T11:30:32"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>NOTE48B</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Labels.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{B71CB725-5788-4C3D-B054-55272EFF00EE}"/><Properties><ItemName>NOTE48C</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\NOTE48C32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\NOTE48C64.PNG"/></Images><Time createdUniversalDateTime="2012-06-14T04:54:32" modifiedUniversalDateTime="2012-07-26T11:30:32"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>NOTE48C</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Labels.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{754ED99B-59EB-4BDE-AC8C-A81DE3B80380}"/><Properties><ItemName>NOTE48D</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\NOTE48D32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\NOTE48D64.PNG"/></Images><Time createdUniversalDateTime="2012-06-14T04:54:32" modifiedUniversalDateTime="2012-07-26T11:30:32"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>NOTE48D</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Labels.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{30BC84A0-7BDB-4122-9143-D222759B3536}"/><Properties><ItemName>NOTE_50</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\NOTE_5032.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\NOTE_5064.PNG"/></Images><Time createdUniversalDateTime="2012-06-14T04:54:32" modifiedUniversalDateTime="2012-07-26T11:30:32"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>NOTE_50</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Labels.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="19.1.1" option="31"><ItemID idValue="{9D0731AC-F6ED-4B2C-853B-2B25DE28F8BD}"/><Properties><ItemName>NOTE_PIONEER_MAX-50kVA </ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\Note 5532.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\Note 5564.PNG"/></Images><Time createdUniversalDateTime="2013-10-19T11:55:11" modifiedUniversalDateTime="2014-11-03T09:08:24"/></Properties><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data><GeneralProperties><Color><BasicPropInfo><PropValue unspecified="FALSE"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3221225472"/></CreateInfo></Color><Layer><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="Notes"/></BasicPropInfo><CreateInfo><LayerTableRecord isNotPlotted="FALSE" lineWeight="-3"><SymbolTableNameRecord>Notes</SymbolTableNameRecord><Linetype><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="Continuous"/></BasicPropInfo></Linetype><Color><BasicPropInfo><PropValue unspecified="FALSE"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3271557127"/></CreateInfo></Color></LayerTableRecord></CreateInfo></Layer><Linetype><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="ByLayer"/></BasicPropInfo></Linetype><LinetypeScale><BasicPropInfo><PropValue unspecified="FALSE" valueType="3" value="1"/></BasicPropInfo></LinetypeScale><PlotStyle><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="ByLayer"/></BasicPropInfo></PlotStyle><LineWeight><BasicPropInfo><PropValue unspecified="FALSE" valueType="2" value="-1"/></BasicPropInfo></LineWeight><Transparency><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="ByLayer"/></BasicPropInfo></Transparency><Textstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Textstyle><Dimstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Dimstyle><Tablestyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Tablestyle></GeneralProperties><Block><BlockType>1</BlockType><BlockTypeEx>0</BlockTypeEx><BlockName>Note 55</BlockName><SourceFile>C:\ACAD2018_GISCAD\symbols\Notes.dwg</SourceFile><InsertAs>1</InsertAs><XrefType>0</XrefType><Scale>1</Scale><AuxiliaryScale>NONE</AuxiliaryScale><Rotation>0</Rotation><PromptRotation>0</PromptRotation><Explode>1</Explode></Block></Data></Tool><Tool Revision="19.1.1" option="31"><ItemID idValue="{749E7423-CEF5-4DEC-8E1A-9E607E87ECED}"/><Properties><ItemName>Table</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Table tool_749E7423-CEF5-4DEC-8E1A-9E607E87ECED.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Table tool_749E7423-CEF5-4DEC-8E1A-9E607E87ECED_2.PNG"/></Images><Time createdUniversalDateTime="2013-09-09T03:46:12" modifiedUniversalDateTime="2013-09-09T03:46:12"/></Properties><ToolType>1</ToolType><StockToolRef idValue="{10C22F88-5A00-44CB-9E2C-0D4BF8BF9814}"/><Data><GeneralProperties><Color><BasicPropInfo><PropValue unspecified="FALSE"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3221225472"/></CreateInfo></Color><Layer><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="Notes"/></BasicPropInfo><CreateInfo><LayerTableRecord isNotPlotted="FALSE" lineWeight="-3"><SymbolTableNameRecord>Notes</SymbolTableNameRecord><Linetype><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="Continuous"/></BasicPropInfo></Linetype><Color><BasicPropInfo><PropValue unspecified="FALSE"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3271557127"/></CreateInfo></Color></LayerTableRecord></CreateInfo></Layer><Linetype><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="ByLayer"/></BasicPropInfo></Linetype><LinetypeScale><BasicPropInfo><PropValue unspecified="FALSE" valueType="3" value="1"/></BasicPropInfo></LinetypeScale><PlotStyle><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="ByLayer"/></BasicPropInfo></PlotStyle><LineWeight><BasicPropInfo><PropValue unspecified="FALSE" valueType="2" value="-1"/></BasicPropInfo></LineWeight><Transparency><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="ByLayer"/></BasicPropInfo></Transparency><Textstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Textstyle><Dimstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Dimstyle><Tablestyle><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="Standard"/></BasicPropInfo></Tablestyle></GeneralProperties><Table isTitleSuppressed="0" isHeaderSuppressed="0"><Rows NumRows="5"/><Columns NumColumns="6"/><flowDirection>1</flowDirection><Width>284.747337993198</Width><Height>116.839008058381</Height><VertCellMargin>1.5</VertCellMargin><HorzCellMargin>1.5</HorzCellMargin><EnableBreak>0</EnableBreak><BreakFlowDirection>1</BreakFlowDirection><RepeatTopLabels>0</RepeatTopLabels><RepeatBottomLabels>0</RepeatBottomLabels><TableBreakHeight>0</TableBreakHeight><TableBreakSpacing>24.75</TableBreakSpacing><InsertLabelCells>0</InsertLabelCells><InsertDataCells>0</InsertDataCells><InsertBlocks>0</InsertBlocks><InsertDatalinks>0</InsertDatalinks><InsertFields>0</InsertFields><InsertFormulas>0</InsertFormulas><RetainCellStyle>1</RetainCellStyle><TableTemplate NumRows="5" NumColumns="6" Tablestyle="Standard"><Styles/><Columns><Column Width="46.5213173735459"><Format/></Column><Column Width="46.5102966172711"><Format/></Column><Column Width="46.5102966172711"><Format/></Column><Column Width="46.5102966172711"><Format/></Column><Column Width="51.3950083043844"><Format/></Column><Column Width="47.3001224634545"><Format/></Column></Columns><Rows><Row CellStyle="_TITLE" Height="36.889008058381"><Format/><Cells><Cell><Format/><ContentFormats><ContentFormat cellDataType="4" cellUnitType="0"/></ContentFormats><Contents><Content><value><Text>PIONEER COST SHARE REIMBURSEMENT SCHEME - Expiry Date dd/mmm/yyyy  Pre-Calculated Reimbursement for Customers Load up to 50kVA</Text></value></Content></Contents></Cell><Cell><Format/><ContentFormats/><Contents/></Cell><Cell><Format/><ContentFormats/><Contents/></Cell><Cell><Format/><ContentFormats/><Contents/></Cell><Cell><Format/><ContentFormats/><Contents/></Cell><Cell><Format/><ContentFormats/><Contents/></Cell></Cells></Row><Row CellStyle="_HEADER" Height="52.95"><Format/><Cells><Cell><Format/><ContentFormats><ContentFormat cellDataType="4" cellUnitType="0"/></ContentFormats><Contents><Content><value><Text>Asset</Text></value></Content></Contents></Cell><Cell><Format/><ContentFormats><ContentFormat cellDataType="4" cellUnitType="0"/></ContentFormats><Contents><Content><value><Text>Asset Cost Estimate         ($)</Text></value></Content></Contents></Cell><Cell><Format/><ContentFormats><ContentFormat cellDataType="4" cellUnitType="0"/></ContentFormats><Contents><Content><value><Text>Unit Quantity (km)</Text></value></Content></Contents></Cell><Cell><Format/><ContentFormats><ContentFormat cellDataType="4" cellUnitType="0"/></ContentFormats><Contents><Content><value><Text>Prospective New Customer Numbers</Text></value></Content></Contents></Cell><Cell><Format/><ContentFormats><ContentFormat cellDataType="4" cellUnitType="0"/></ContentFormats><Contents><Content><value><Text>Maximum Reimbursement per New Customer Connected ($)</Text></value></Content></Contents></Cell><Cell><Format/><ContentFormats><ContentFormat cellDataType="4" cellUnitType="0"/></ContentFormats><Contents><Content><value><Text>Maximum Reimbursement Amount          ($)</Text></value></Content></Contents></Cell></Cells></Row><Row CellStyle="_DATA" Height="9"><Format/><Cells><Cell><Format/><ContentFormats><ContentFormat cellDataType="4" cellUnitType="0" TextHeight="4.5"/></ContentFormats><Contents><Content><value><Text>HV Mains</Text></value></Content></Contents></Cell><Cell><Format/><ContentFormats><ContentFormat cellDataType="4" cellUnitType="0" TextHeight="4.5"/></ContentFormats><Contents><Content><value><Text>$xxxx</Text></value></Content></Contents></Cell><Cell><Format/><ContentFormats><ContentFormat cellDataType="4" cellUnitType="0" TextHeight="4.5"/></ContentFormats><Contents><Content><value><Text>xxxkm</Text></value></Content></Contents></Cell><Cell><Format/><ContentFormats/><Contents/></Cell><Cell><Format/><ContentFormats><ContentFormat cellDataType="4" cellUnitType="0"/></ContentFormats><Contents><Content><value><Text>$xxxx</Text></value></Content></Contents></Cell><Cell><Format/><ContentFormats><ContentFormat cellDataType="4" cellUnitType="0"/></ContentFormats><Contents><Content><value><Text>$xxxx</Text></value></Content></Contents></Cell></Cells></Row><Row CellStyle="_DATA" Height="9"><Format/><Cells><Cell><Format/><ContentFormats><ContentFormat cellDataType="4" cellUnitType="0" TextHeight="4.5"/></ContentFormats><Contents><Content><value><Text>LV Mains</Text></value></Content></Contents></Cell><Cell><Format/><ContentFormats><ContentFormat cellDataType="4" cellUnitType="0" TextHeight="4.5"/></ContentFormats><Contents><Content><value><Text>$xxxx</Text></value></Content></Contents></Cell><Cell><Format/><ContentFormats><ContentFormat cellDataType="4" cellUnitType="0" TextHeight="4.5"/></ContentFormats><Contents><Content><value><Text>xxxkm</Text></value></Content></Contents></Cell><Cell><Format/><ContentFormats/><Contents/></Cell><Cell><Format/><ContentFormats><ContentFormat cellDataType="4" cellUnitType="0"/></ContentFormats><Contents><Content><value><Text>$xxxx</Text></value></Content></Contents></Cell><Cell><Format/><ContentFormats><ContentFormat cellDataType="4" cellUnitType="0"/></ContentFormats><Contents><Content><value><Text>$xxxx</Text></value></Content></Contents></Cell></Cells></Row><Row CellStyle="_DATA" Height="9"><Format/><Cells><Cell><Format/><ContentFormats><ContentFormat cellDataType="4" cellUnitType="0" TextHeight="4.5"/></ContentFormats><Contents><Content><value><Text>Substation</Text></value></Content></Contents></Cell><Cell><Format/><ContentFormats><ContentFormat cellDataType="4" cellUnitType="0" TextHeight="4.5"/></ContentFormats><Contents><Content><value><Text>$xxxx</Text></value></Content></Contents></Cell><Cell><Format/><ContentFormats/><Contents/></Cell><Cell><Format/><ContentFormats/><Contents/></Cell><Cell><Format/><ContentFormats><ContentFormat cellDataType="4" cellUnitType="0"/></ContentFormats><Contents><Content><value><Text>$xxxx</Text></value></Content></Contents></Cell><Cell><Format/><ContentFormats><ContentFormat cellDataType="4" cellUnitType="0"/></ContentFormats><Contents><Content><value><Text>$xxxx</Text></value></Content></Contents></Cell></Cells></Row></Rows><MergedCells><MergedCell><CellRange Left="0" Top="0" Right="5" Bottom="0"/></MergedCell></MergedCells></TableTemplate></Table></Data></Tool><Tool Revision="19.1.1" option="31"><ItemID idValue="{691B4AF0-81CB-43BC-85D7-95C7AD45AB30}"/><Properties><ItemName>NOTE_PIONEER_OVER-50kVA</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\Note 55A32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\Note 55A64.PNG"/></Images><Time createdUniversalDateTime="2013-10-19T11:55:11" modifiedUniversalDateTime="2014-11-03T09:08:31"/></Properties><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data><GeneralProperties><Color><BasicPropInfo><PropValue unspecified="FALSE"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3221225472"/></CreateInfo></Color><Layer><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="Notes"/></BasicPropInfo><CreateInfo><LayerTableRecord isNotPlotted="FALSE" lineWeight="-3"><SymbolTableNameRecord>Notes</SymbolTableNameRecord><Linetype><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="Continuous"/></BasicPropInfo></Linetype><Color><BasicPropInfo><PropValue unspecified="FALSE"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3271557127"/></CreateInfo></Color></LayerTableRecord></CreateInfo></Layer><Linetype><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="ByLayer"/></BasicPropInfo></Linetype><LinetypeScale><BasicPropInfo><PropValue unspecified="FALSE" valueType="3" value="1"/></BasicPropInfo></LinetypeScale><PlotStyle><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="ByLayer"/></BasicPropInfo></PlotStyle><LineWeight><BasicPropInfo><PropValue unspecified="FALSE" valueType="2" value="-1"/></BasicPropInfo></LineWeight><Transparency><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="ByLayer"/></BasicPropInfo></Transparency><Textstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Textstyle><Dimstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Dimstyle><Tablestyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Tablestyle></GeneralProperties><Block><BlockType>1</BlockType><BlockTypeEx>0</BlockTypeEx><BlockName>Note 55A</BlockName><SourceFile>C:\ACAD2018_GISCAD\symbols\Notes.dwg</SourceFile><InsertAs>1</InsertAs><XrefType>0</XrefType><Scale>1</Scale><AuxiliaryScale>NONE</AuxiliaryScale><Rotation>0</Rotation><PromptRotation>0</PromptRotation><Explode>1</Explode></Block></Data></Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{D7ACAB9E-6772-48B2-82CF-9B498F2D4221}"/><Properties><ItemName>FUNDING_ARRANGEMENTS</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\FUNDING_ARRANGEMENTS32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\FUNDING_ARRANGEMENTS64.PNG"/></Images><Time createdUniversalDateTime="2012-06-14T04:54:32" modifiedUniversalDateTime="2012-07-26T11:30:32"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>FUNDING_ARRANGEMENTS</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Labels.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{4DEBCB0C-96A2-4E12-91D0-E0C9D7BE6041}"/><Properties><ItemName>NOTE-LIGHTING-EQUIPMENT</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\NOTE-LIGHTING-EQUIPMENT32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\NOTE-LIGHTING-EQUIPMENT64.PNG"/></Images><Time createdUniversalDateTime="2012-06-14T04:54:32" modifiedUniversalDateTime="2012-07-26T11:30:32"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>NOTE-LIGHTING-EQUIPMENT</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Labels.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{39083195-3D44-40D9-9CBE-94C37EC63947}"/><Properties><ItemName>NOTE_APPROVAL-TO-CONNECT-SL</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\NOTE_APPROVAL-TO-CONNECT-SL32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\NOTE_APPROVAL-TO-CONNECT-SL64.PNG"/></Images><Time createdUniversalDateTime="2012-06-14T04:54:32" modifiedUniversalDateTime="2012-07-26T11:30:32"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>NOTE_APPROVAL-TO-CONNECT-SL</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Labels.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{13567C93-942A-47E6-AF1F-E334B1AC27FE}"/><Properties><ItemName>NOTE_APPROVAL_INDOOR_SUB</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\NOTE_APPROVAL_INDOOR_SUB32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\NOTE_APPROVAL_INDOOR_SUB64.PNG"/></Images><Time createdUniversalDateTime="2012-06-14T04:54:32" modifiedUniversalDateTime="2012-07-26T11:30:32"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>NOTE_APPROVAL_INDOOR_SUB</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Labels.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{43D9AC8A-76C1-4BB5-8C8C-E7C9ACD64ED8}"/><Properties><ItemName>NOTE_APPROVAL_TRANS_ENG</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\NOTE_APPROVAL_TRANS_ENG32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\NOTE_APPROVAL_TRANS_ENG64.PNG"/></Images><Time createdUniversalDateTime="2012-06-14T04:54:32" modifiedUniversalDateTime="2012-07-26T11:30:32"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>NOTE_APPROVAL_TRANS_ENG</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Labels.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{279951DD-5638-44EB-9DBB-AD7F1F76EC3C}"/><Properties><ItemName>NOTE_CERTIFIED-BY-IE</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\NOTE_CERTIFIED-BY-IE32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\NOTE_CERTIFIED-BY-IE64.PNG"/></Images><Time createdUniversalDateTime="2012-06-14T04:54:32" modifiedUniversalDateTime="2012-07-26T11:30:32"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>NOTE_CERTIFIED-BY-IE</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Labels.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{2B71693C-1C4D-4922-A3BC-67C9CF75C809}"/><Properties><ItemName>NOTE_DESIGN-COMPLIANCE</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\NOTE_DESIGN-COMPLIANCE32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\NOTE_DESIGN-COMPLIANCE64.PNG"/></Images><Time createdUniversalDateTime="2012-06-14T04:54:32" modifiedUniversalDateTime="2012-07-26T11:30:32"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>NOTE_DESIGN-COMPLIANCE</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Labels.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{8A06A9E4-5B0F-4416-A7A7-4A195B8A36D5}"/><Properties><ItemName>NOTE_DUCT-DECLARATION</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\NOTE_DUCT-DECLARATION32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\NOTE_DUCT-DECLARATION64.PNG"/></Images><Time createdUniversalDateTime="2012-06-14T04:54:32" modifiedUniversalDateTime="2012-07-26T11:30:32"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>NOTE_DUCT-DECLARATION</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Labels.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{500B3C21-6D13-4F4A-B7D3-42D556E91C1B}"/><Properties><ItemName>NOTE_DUCT-END-DETAIL</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\NOTE_DUCT-END-DETAIL32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\NOTE_DUCT-END-DETAIL64.PNG"/></Images><Time createdUniversalDateTime="2012-06-14T04:54:32" modifiedUniversalDateTime="2012-07-26T11:30:32"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>NOTE_DUCT-END-DETAIL</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Labels.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{B50771A2-F7B6-4443-8202-E64DC2113E44}"/><Properties><ItemName>NOTE_EARTH-DESIGN</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\NOTE_EARTH-DESIGN32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\NOTE_EARTH-DESIGN64.PNG"/></Images><Time createdUniversalDateTime="2012-06-14T04:54:32" modifiedUniversalDateTime="2012-07-26T11:30:32"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>NOTE_EARTH-DESIGN</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Labels.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{05E2DC14-454B-4937-8C8A-36CFF3C79BC5}"/><Properties><ItemName>NOTE_IE-AUTHORISED-FUNDING</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\NOTE_IE-AUTHORISED-FUNDING32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\NOTE_IE-AUTHORISED-FUNDING64.PNG"/></Images><Time createdUniversalDateTime="2012-06-14T04:54:32" modifiedUniversalDateTime="2012-07-26T11:30:32"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>NOTE_IE-AUTHORISED-FUNDING</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Labels.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{BF2FB200-B6AB-4B6C-ABB4-4F80DF8B78A0}"/><Properties><ItemName>NOTE_LANTERN-COLUMN-NUM</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\NOTE_LANTERN-COLUMN-NUM32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\NOTE_LANTERN-COLUMN-NUM64.PNG"/></Images><Time createdUniversalDateTime="2012-06-14T04:54:32" modifiedUniversalDateTime="2012-07-26T11:30:32"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>NOTE_LANTERN-COLUMN-NUM</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Labels.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{004BEC08-D79F-4F82-A3D1-D86DABFAAE5A}"/><Properties><ItemName>NOTE_LIGHTING-DETAILS</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\NOTE_LIGHTING-DETAILS32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\NOTE_LIGHTING-DETAILS64.PNG"/></Images><Time createdUniversalDateTime="2012-06-14T04:54:32" modifiedUniversalDateTime="2012-07-26T11:30:32"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>NOTE_LIGHTING-DETAILS</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Labels.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{5FB72B82-04ED-4F8C-AF50-9D4390917BD1}"/><Properties><ItemName>NOTE_MAIN</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\NOTE_MAIN32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\NOTE_MAIN64.PNG"/></Images><Time createdUniversalDateTime="2012-06-14T04:54:32" modifiedUniversalDateTime="2012-07-26T11:30:32"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>NOTE_MAIN</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Labels.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{1C82DC75-9DF2-4948-92C4-3D4D959C87EA}"/><Properties><ItemName>NOTE_NEW-DUCT-REQ</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\NOTE_NEW-DUCT-REQ32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\NOTE_NEW-DUCT-REQ64.PNG"/></Images><Time createdUniversalDateTime="2012-06-14T04:54:32" modifiedUniversalDateTime="2012-07-26T11:30:32"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>NOTE_NEW-DUCT-REQ</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Labels.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{BB3A6E50-F536-4319-946F-CFEA641E5EC9}"/><Properties><ItemName>NOTE_POLE-LEGEND</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\NOTE_POLE-LEGEND32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\NOTE_POLE-LEGEND64.PNG"/></Images><Time createdUniversalDateTime="2012-06-14T04:54:32" modifiedUniversalDateTime="2012-07-26T11:30:32"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>NOTE_POLE-LEGEND</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Labels.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{82EF89CC-3541-42F2-A63D-4A68B55E0B1A}"/><Properties><ItemName>NOTE_RESTRICT-ZONE</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\NOTE_RESTRICT-ZONE32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\NOTE_RESTRICT-ZONE64.PNG"/></Images><Time createdUniversalDateTime="2012-06-14T04:54:32" modifiedUniversalDateTime="2012-07-26T11:30:32"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>NOTE_RESTRICT-ZONE</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Labels.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{8EB48092-FE17-4166-9C28-DDDAD6BD19D4}"/><Properties><ItemName>NOTE_SUB-LABELS</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\NOTE_SUB-LABELS32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\NOTE_SUB-LABELS64.PNG"/></Images><Time createdUniversalDateTime="2012-06-14T04:54:32" modifiedUniversalDateTime="2012-07-26T11:30:32"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>NOTE_SUB-LABELS</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Labels.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{F5845A87-2439-4CC6-B434-D552FF54A70B}"/><Properties><ItemName>NOTE_TRENCH-LENGTH</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\NOTE_TRENCH-LENGTH32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\NOTE_TRENCH-LENGTH64.PNG"/></Images><Time createdUniversalDateTime="2012-06-14T04:54:32" modifiedUniversalDateTime="2012-07-26T11:30:32"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>NOTE_TRENCH-LENGTH</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Labels.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{5794FDB5-1AE6-45FB-9B4C-FAB20059FFB3}"/><Properties><ItemName>NOTE_WORKS-COMPLETED</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\NOTE_WORKS-COMPLETED32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\NOTE_WORKS-COMPLETED64.PNG"/></Images><Time createdUniversalDateTime="2012-06-14T04:54:32" modifiedUniversalDateTime="2012-07-26T11:30:32"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>NOTE_WORKS-COMPLETED</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Labels.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{406EA395-AD3D-4113-B68E-B7CE7C12AADC}"/><Properties><ItemName>SP_NOTES_COMMS</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\SP_NOTES_COMMS32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\SP_NOTES_COMMS64.PNG"/></Images><Time createdUniversalDateTime="2012-06-14T04:54:32" modifiedUniversalDateTime="2012-07-26T11:30:32"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>SP_NOTES_COMMS</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Labels.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{504B8D75-FADC-4F38-B088-761991199164}"/><Properties><ItemName>NOTE_63</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\NOTE_6332.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\NOTE_6364.PNG"/></Images><Time createdUniversalDateTime="2012-06-14T04:54:32" modifiedUniversalDateTime="2012-07-26T11:30:32"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>NOTE_63</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Labels.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{30C79FEA-DC7D-4C7B-87C4-6B1CE700C293}"/><Properties><ItemName>NOTE_LOTS</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\NOTE_LOTS32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\NOTE_LOTS64.PNG"/></Images><Time createdUniversalDateTime="2012-06-14T04:54:32" modifiedUniversalDateTime="2012-07-26T11:30:32"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>NOTE_LOTS</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Labels.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.2.1" option="31"><ItemID idValue="{21FE5544-6DCC-4F07-942C-E44DF0B39D11}"/><Properties><ItemName>Joint Termination</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\Joint Termination32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\Joint Termination64.PNG"/></Images><Time createdUniversalDateTime="2013-02-26T11:55:09" modifiedUniversalDateTime="2014-05-06T12:27:19"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="0"/>
+						</BasicPropInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="5"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Transparency>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Transparency>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>Joint Termination Sticker</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\JOINT TERMINATION STICKER.DWG</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.1" option="31"><ItemID idValue="{FDD3DC90-994C-454C-8126-2359490502ED}"/><Properties><ItemName>Table</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Table tool_FDD3DC90-994C-454C-8126-2359490502ED.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Table tool_FDD3DC90-994C-454C-8126-2359490502ED_2.PNG"/></Images><Time createdUniversalDateTime="2011-08-09T01:35:51" modifiedUniversalDateTime="2013-11-19T08:57:51"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{10C22F88-5A00-44CB-9E2C-0D4BF8BF9814}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3271557122"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Standard"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Table isTitleSuppressed="0" isHeaderSuppressed="0">
+					<Rows NumRows="6"/>
+					<Columns NumColumns="22"/>
+					<flowDirection>1</flowDirection>
+					<Width>240</Width>
+					<Height>62.25363801728058</Height>
+					<VertCellMargin>1.5</VertCellMargin>
+					<HorzCellMargin>1.5</HorzCellMargin>
+					<EnableBreak>0</EnableBreak>
+					<BreakFlowDirection>1</BreakFlowDirection>
+					<RepeatTopLabels>0</RepeatTopLabels>
+					<RepeatBottomLabels>0</RepeatBottomLabels>
+					<TableBreakHeight>0</TableBreakHeight>
+					<TableBreakSpacing>24.75</TableBreakSpacing>
+					<InsertLabelCells>1</InsertLabelCells>
+					<InsertDataCells>1</InsertDataCells>
+					<InsertBlocks>0</InsertBlocks>
+					<InsertDatalinks>1</InsertDatalinks>
+					<InsertFields>1</InsertFields>
+					<InsertFormulas>1</InsertFormulas>
+					<RetainCellStyle>1</RetainCellStyle>
+					<TableTemplate NumRows="6" NumColumns="22" Tablestyle="Standard">
+						<Styles/>
+						<Columns>
+							<Column Width="18">
+								<Format/>
+							</Column>
+							<Column Width="18">
+								<Format/>
+							</Column>
+							<Column Width="7.5">
+								<Format/>
+							</Column>
+							<Column Width="7">
+								<Format/>
+							</Column>
+							<Column Width="7">
+								<Format/>
+							</Column>
+							<Column Width="7.5">
+								<Format/>
+							</Column>
+							<Column Width="7">
+								<Format/>
+							</Column>
+							<Column Width="10">
+								<Format/>
+							</Column>
+							<Column Width="10">
+								<Format/>
+							</Column>
+							<Column Width="30">
+								<Format/>
+							</Column>
+							<Column Width="30">
+								<Format/>
+							</Column>
+							<Column Width="10">
+								<Format/>
+							</Column>
+							<Column Width="10">
+								<Format/>
+							</Column>
+							<Column Width="12">
+								<Format/>
+							</Column>
+							<Column Width="7">
+								<Format/>
+							</Column>
+							<Column Width="7">
+								<Format/>
+							</Column>
+							<Column Width="7">
+								<Format/>
+							</Column>
+							<Column Width="7">
+								<Format/>
+							</Column>
+							<Column Width="7">
+								<Format/>
+							</Column>
+							<Column Width="7">
+								<Format/>
+							</Column>
+							<Column Width="7">
+								<Format/>
+							</Column>
+							<Column Width="7">
+								<Format/>
+							</Column>
+						</Columns>
+						<Rows>
+							<Row CellStyle="_TITLE" Height="9.75363801728058">
+								<Format/>
+								<Cells>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>FIELD POLE\PNUMBER</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>LANTERNS</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>CONSTRUCTION</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>HOLE</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>POLE</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+								</Cells>
+							</Row>
+							<Row CellStyle="_HEADER" Height="22.5">
+								<Format/>
+								<Cells>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" Rotation="1.5707963267949" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>NEW</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" Rotation="1.5707963267949" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>EXISTING</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" Rotation="1.5707963267949" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>NEW</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" Rotation="1.5707963267949" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>REMOVE</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" Rotation="1.5707963267949" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>EXISTING</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" Rotation="1.5707963267949" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>REPLACE</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" Rotation="1.5707963267949" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>BRACKET</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" Rotation="1.5707963267949" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>SPAN\PLENGTH</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" Rotation="1.5707963267949" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>LINE DEV\PDEGREES</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" Rotation="1.5707963267949" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>HV</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" Rotation="1.5707963267949" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>LV</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" Rotation="1.5707963267949" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>DIA\Pmm</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" Rotation="1.5707963267949" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>DEPTH\Pm</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" Rotation="1.5707963267949" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>TYPE</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" Rotation="1.5707963267949" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>STAY</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" Rotation="1.5707963267949" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>FOOTING</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" Rotation="1.5707963267949" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>RELOCATE</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" Rotation="1.5707963267949" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>REPLACE</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" Rotation="1.5707963267949" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>NEW</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" Rotation="1.5707963267949" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>EXISTING</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" Rotation="1.5707963267949" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>REMOVE</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" Rotation="1.5707963267949" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>NUMBER</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+								</Cells>
+							</Row>
+							<Row CellStyle="_DATA" Height="7.5">
+								<Format/>
+								<Cells>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content/>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content/>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content/>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content/>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content/>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content/>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content/>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>450</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>1.55</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>9.5/4</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content/>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content/>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>X</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>1</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+								</Cells>
+							</Row>
+							<Row CellStyle="_DATA" Height="7.5">
+								<Format/>
+								<Cells>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content/>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content/>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content/>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content/>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content/>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content/>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content/>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>450</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>1.55</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>9.5/4</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content/>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content/>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>X</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>2</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+								</Cells>
+							</Row>
+							<Row CellStyle="_DATA" Height="7.5">
+								<Format/>
+								<Cells>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content/>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content/>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content/>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content/>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content/>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content/>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content/>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>450</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>1.55</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>9.5/4</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content/>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content/>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>X</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>3</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+								</Cells>
+							</Row>
+							<Row CellStyle="_DATA" Height="7.5">
+								<Format/>
+								<Cells>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content/>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content/>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content/>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content/>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content/>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content/>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content/>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>450</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>1.55</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>9.5/4</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content/>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content/>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>X</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats/>
+										<Contents/>
+									</Cell>
+									<Cell>
+										<Format/>
+										<ContentFormats>
+											<ContentFormat cellDataType="4" cellUnitType="0" TextHeight="2.5"/>
+										</ContentFormats>
+										<Contents>
+											<Content>
+												<value>
+													<Text>4</Text>
+												</value>
+											</Content>
+										</Contents>
+									</Cell>
+								</Cells>
+							</Row>
+						</Rows>
+						<MergedCells>
+							<MergedCell>
+								<CellRange Left="0" Top="0" Right="1" Bottom="0"/>
+							</MergedCell>
+							<MergedCell>
+								<CellRange Left="2" Top="0" Right="6" Bottom="0"/>
+							</MergedCell>
+							<MergedCell>
+								<CellRange Left="7" Top="0" Right="10" Bottom="0"/>
+							</MergedCell>
+							<MergedCell>
+								<CellRange Left="11" Top="0" Right="12" Bottom="0"/>
+							</MergedCell>
+							<MergedCell>
+								<CellRange Left="13" Top="0" Right="21" Bottom="0"/>
+							</MergedCell>
+						</MergedCells>
+					</TableTemplate>
+				</Table>
+			</Data>
+		</Tool><Tool Revision="22.0.1" option="0"><ItemID idValue="{99D32EF8-1F4B-46AC-AC83-4734DA4BCE13}"/><Properties><Images option="0"/><Time createdUniversalDateTime="2018-04-14T02:13:10" modifiedUniversalDateTime="2018-04-14T02:13:10"/></Properties><ToolType>4</ToolType><StockToolRef/><Data/></Tool></Tools></Palette>

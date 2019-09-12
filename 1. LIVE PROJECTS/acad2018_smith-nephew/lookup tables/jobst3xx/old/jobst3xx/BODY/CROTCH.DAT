@@ -1,0 +1,13 @@
+'Open Crotch Sizes in inches
+'Key:-	M=Male, F=Female, A=Adult, C=Child, 1=1 Leg, 2=2 Leg
+'	U=Buttocks Under 45", O=Buttocks 45" or Over
+'Code={Common|Back}[,Front]
+A1MFU=3.5
+A1MFO=4
+C1MF=2
+A2FU=4,3
+A2MU=3,4
+A2FO=4.5,3.5
+A2MO=3.5,4.5
+C2F=2.25,1.5
+C2M=1.5,2.25

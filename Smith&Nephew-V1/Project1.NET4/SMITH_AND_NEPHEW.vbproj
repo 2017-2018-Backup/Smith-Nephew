@@ -1,0 +1,447 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <MyType>Windows</MyType>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2215205A-5C43-498A-A666-DDDDC3D9771A}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <AssemblyName>SmithNephew</AssemblyName>
+    <OutputType>Library</OutputType>
+    <StartupObject>
+    </StartupObject>
+    <AssemblyMajorVersion>1</AssemblyMajorVersion>
+    <AssemblyMinorVersion>0</AssemblyMinorVersion>
+    <AssemblyRevisionNumber>0</AssemblyRevisionNumber>
+    <GenerateRevisionNumber>False</GenerateRevisionNumber>
+    <AssemblyCompanyName>.</AssemblyCompanyName>
+    <RootNamespace>Project1</RootNamespace>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>.\bin\</OutputPath>
+    <DocumentationFile>SmithNephew.xml</DocumentationFile>
+    <DebugSymbols>True</DebugSymbols>
+    <DefineDebug>True</DefineDebug>
+    <DefineTrace>True</DefineTrace>
+    <DefineConstants>Win32=True</DefineConstants>
+    <PlatformTarget>x64</PlatformTarget>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <DebugType>full</DebugType>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>.\bin\</OutputPath>
+    <DocumentationFile>SmithNephew.xml</DocumentationFile>
+    <DebugSymbols>False</DebugSymbols>
+    <DefineDebug>False</DefineDebug>
+    <DefineTrace>True</DefineTrace>
+    <DefineConstants>Win32=True</DefineConstants>
+    <PlatformTarget>x86</PlatformTarget>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <DebugType>none</DebugType>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="accoremgd">
+      <HintPath>C:\Program Files\Autodesk\AutoCAD 2018\accoremgd.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="acdbmgd">
+      <HintPath>C:\Program Files\Autodesk\AutoCAD 2018\acdbmgd.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="acmgd">
+      <HintPath>C:\Program Files\Autodesk\AutoCAD 2018\acmgd.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.Compatibility">
+      <Name>Microsoft.VisualBasic.Compatibility</Name>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0" />
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.XML">
+      <Name>System.XML</Name>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="Microsoft.VisualBasic.Compatibility" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="acadEntry.vb" />
+    <Compile Include="ARMDIA_bas.vb" />
+    <Compile Include="ARMDIA_frm.Designer.vb">
+      <DependentUpon>ARMDIA_frm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ARMDIA_frm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ARMEDDIA_bas.vb" />
+    <Compile Include="ARMEDDIA_frm.Designer.vb">
+      <DependentUpon>ARMEDDIA_frm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ARMEDDIA_frm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ARMEUTIL.vb" />
+    <Compile Include="BDLEGDIA_bas.vb" />
+    <Compile Include="BDLEGDIA_frm.Designer.vb">
+      <DependentUpon>BDLEGDIA_frm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BDLEGDIA_frm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BDYLGDWG.vb" />
+    <Compile Include="BDYUTILS.vb" />
+    <Compile Include="BODVALID.vb" />
+    <Compile Include="BODYDRAW_bas.vb" />
+    <Compile Include="BODYDRAW_frm.Designer.vb">
+      <DependentUpon>BODYDRAW_frm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BODYDRAW_frm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BODYSUIT_bas.vb" />
+    <Compile Include="BODYSUIT_frm.Designer.vb">
+      <DependentUpon>BODYSUIT_frm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BODYSUIT_frm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CADGLEXT.vb" />
+    <Compile Include="CADGLOVE_bas.vb" />
+    <Compile Include="CADGLOVE_frm.Designer.vb">
+      <DependentUpon>CADGLOVE_frm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CADGLOVE_frm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CADGLVED_bas.vb" />
+    <Compile Include="CADGLVED_frm.Designer.vb">
+      <DependentUpon>CADGLVED_frm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CADGLVED_frm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CADHPGL.vb" />
+    <Compile Include="CADUTILS.vb" />
+    <Compile Include="CLTXFDIA_bas.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CLTXFDIA_frm.Designer.vb">
+      <SubType>Code</SubType>
+      <DependentUpon>CLTXFDIA_frm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CLTXFDIA_frm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDITUSER.Designer.vb">
+      <DependentUpon>EDITUSER.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDITUSER.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GLVEXTEN.vb" />
+    <Compile Include="HEADNECK_bas.vb" />
+    <Compile Include="HEADNECK_frm.Designer.vb">
+      <DependentUpon>HEADNECK_frm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="HEADNECK_frm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JOBSTART.Designer.vb">
+      <DependentUpon>JOBSTART.vb</DependentUpon>
+    </Compile>
+    <Compile Include="JOBSTART.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JOBSTEX.vb" />
+    <Compile Include="KEVIN.vb" />
+    <Compile Include="LGEDTDIA_bas.vb" />
+    <Compile Include="LGEDTDIA_frm.Designer.vb">
+      <DependentUpon>LGEDTDIA_frm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LGEDTDIA_frm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LGLEGDIA_bas.vb" />
+    <Compile Include="LGLEGDIA_frm.Designer.vb">
+      <DependentUpon>LGLEGDIA_frm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LGLEGDIA_frm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MACROTES.Designer.vb">
+      <DependentUpon>MACROTES.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MACROTES.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MANGLOVE_bas.vb" />
+    <Compile Include="MANGLOVE_frm.Designer.vb">
+      <DependentUpon>MANGLOVE_frm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MANGLOVE_frm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MANGLVED_bas.vb" />
+    <Compile Include="MANGLVED_frm.Designer.vb">
+      <DependentUpon>MANGLVED_frm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MANGLVED_frm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MANUTILS.vb" />
+    <Compile Include="MERGE_bas.vb" />
+    <Compile Include="MERGE_frm.Designer.vb">
+      <DependentUpon>MERGE_frm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MERGE_frm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MESH.vb" />
+    <Compile Include="MESHCALC.vb" />
+    <Compile Include="MESHDRAW.Designer.vb">
+      <DependentUpon>MESHDRAW.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MESHDRAW.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MESHUTIL.vb" />
+    <Compile Include="MESHVSTC.vb" />
+    <Compile Include="MESHVSTU.vb" />
+    <Compile Include="PUBLIC.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SCOOPDIA_bas.vb" />
+    <Compile Include="SCOOPDIA_frm.Designer.vb">
+      <DependentUpon>SCOOPDIA_frm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SCOOPDIA_frm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SCOOPUTL.vb" />
+    <Compile Include="STAMP_bas.vb" />
+    <Compile Include="STAMP_frm.Designer.vb">
+      <DependentUpon>STAMP_frm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="STAMP_frm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TORSODIA_bas.vb" />
+    <Compile Include="TORSODIA_frm.Designer.vb">
+      <DependentUpon>TORSODIA_frm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TORSODIA_frm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TORSOUTL.vb" />
+    <Compile Include="VESTDIA_bas.vb" />
+    <Compile Include="VESTDIA_frm.Designer.vb">
+      <DependentUpon>VESTDIA_frm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VESTDIA_frm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WEBSPACR_bas.vb" />
+    <Compile Include="WEBSPACR_frm.Designer.vb">
+      <DependentUpon>WEBSPACR_frm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WEBSPACR_frm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WEBUTILS.vb" />
+    <Compile Include="WHBODDIA_bas.vb" />
+    <Compile Include="WHBODDIA_frm.Designer.vb">
+      <DependentUpon>WHBODDIA_frm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WHBODDIA_frm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WHDRAW_bas.vb" />
+    <Compile Include="WHDRAW_frm.Designer.vb">
+      <DependentUpon>WHDRAW_frm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WHDRAW_frm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WHFIGBRF.Designer.vb">
+      <DependentUpon>WHFIGBRF.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WHFIGBRF.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WHFIGURE_bas.vb" />
+    <Compile Include="WHFIGURE_frm.Designer.vb">
+      <DependentUpon>WHFIGURE_frm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WHFIGURE_frm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WHLEGDIA_bas.vb" />
+    <Compile Include="WHLEGDIA_frm.Designer.vb">
+      <DependentUpon>WHLEGDIA_frm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WHLEGDIA_frm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WHUTILS.vb" />
+    <EmbeddedResource Include="ARMDIA_frm.resX">
+      <DependentUpon>ARMDIA_frm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ARMEDDIA_frm.resX">
+      <DependentUpon>ARMEDDIA_frm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BDLEGDIA_frm.resX">
+      <DependentUpon>BDLEGDIA_frm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BODYDRAW_frm.resX">
+      <DependentUpon>BODYDRAW_frm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BODYSUIT_frm.resX">
+      <DependentUpon>BODYSUIT_frm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CADGLOVE_frm.resX">
+      <DependentUpon>CADGLOVE_frm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CADGLVED_frm.resX">
+      <DependentUpon>CADGLVED_frm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CLTXFDIA_frm.resX">
+      <DependentUpon>CLTXFDIA_frm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDITUSER.resX">
+      <DependentUpon>EDITUSER.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HEADNECK_frm.resX">
+      <DependentUpon>HEADNECK_frm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JOBSTART.resX">
+      <DependentUpon>JOBSTART.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LGEDTDIA_frm.resX">
+      <DependentUpon>LGEDTDIA_frm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LGLEGDIA_frm.resX">
+      <DependentUpon>LGLEGDIA_frm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MACROTES.resX">
+      <DependentUpon>MACROTES.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MANGLOVE_frm.resX">
+      <DependentUpon>MANGLOVE_frm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MANGLVED_frm.resX">
+      <DependentUpon>MANGLVED_frm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MERGE_frm.resX">
+      <DependentUpon>MERGE_frm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MESHDRAW.resX">
+      <DependentUpon>MESHDRAW.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SCOOPDIA_frm.resX">
+      <DependentUpon>SCOOPDIA_frm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="STAMP_frm.resX">
+      <DependentUpon>STAMP_frm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TORSODIA_frm.resX">
+      <DependentUpon>TORSODIA_frm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VESTDIA_frm.resX">
+      <DependentUpon>VESTDIA_frm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WEBSPACR_frm.resX">
+      <DependentUpon>WEBSPACR_frm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WHBODDIA_frm.resX">
+      <DependentUpon>WHBODDIA_frm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WHDRAW_frm.resX">
+      <DependentUpon>WHDRAW_frm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WHFIGBRF.resX">
+      <DependentUpon>WHFIGBRF.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WHFIGURE_frm.resX">
+      <DependentUpon>WHFIGURE_frm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WHLEGDIA_frm.resX">
+      <DependentUpon>WHLEGDIA_frm.vb</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="SMITH_AND_NEPHEW.log" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="My Project\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BlockCreation\BlockCreation.csproj">
+      <Project>{328e28b8-8b9b-4404-a92a-aff12ef603ad}</Project>
+      <Name>BlockCreation</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="UpgradeLog.htm" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

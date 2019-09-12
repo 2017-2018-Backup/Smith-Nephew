@@ -1,0 +1,88 @@
+<Palette FileRevision="22.0.0" Revision="22.0.1" option="0"><ItemID idValue="{B459429E-107A-4F36-9EF7-E1D7D4AC8F34}"/><Properties><ItemName>Scale Bar</ItemName><Images option="0"/><Time createdUniversalDateTime="2013-05-23T11:30:22" modifiedUniversalDateTime="2013-05-23T11:30:22"/></Properties><CustomData>
+		<Translation status="1"/>
+	</CustomData>
+	<Source/><Tools><Tool Revision="22.0.1" option="0"><ItemID idValue="{EB961238-9607-4B81-9540-0EBDB80C024C}"/><Properties><ItemName>Scale Bar</ItemName><Images option="0"/><Time createdUniversalDateTime="2018-04-14T02:13:41" modifiedUniversalDateTime="2018-04-14T02:13:41"/></Properties><ToolType>3</ToolType><StockToolRef/><Data/></Tool><Tool Revision="22.0.1" option="0"><ItemID idValue="{6DD2B70E-03F0-41F0-B122-DA2144F0A858}"/><Properties><Images option="0"/><Time createdUniversalDateTime="2018-04-14T02:13:49" modifiedUniversalDateTime="2018-04-14T02:13:49"/></Properties><ToolType>4</ToolType><StockToolRef/><Data/></Tool><Tool Revision="18.0.0" option="31"><ItemID idValue="{2C08B5BD-C8B8-41BF-B4F6-39B116C3AF3A}"/><Properties><ItemName>Scale Bar</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\Graphic Scale - Metric32.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\Graphic Scale - Metric64.PNG"/></Images><Overlay><Images option="0"><Image cx="16" cy="16" IsDark="false" resource="IDB_DYNAMIC_BLOCK" src="AcTcToolsRes.dll"/><Image cx="16" cy="16" IsDark="true" resource="IDB_DYNAMIC_BLOCK_DARK" src="AcTcToolsRes.dll"/></Images></Overlay><Time createdUniversalDateTime="2013-02-26T11:55:09" modifiedUniversalDateTime="2013-05-23T17:01:47"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="_User Dimensions"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="TRUE" lineWeight="-3">
+								<SymbolTableNameRecord>_User Dimensions</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="3" value="1"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>1</BlockTypeEx>
+					<BlockName>Graphic Scale - Metric</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\scalebar.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+				<DynamicProperties/>
+			</Data>
+		</Tool></Tools></Palette>

@@ -1,0 +1,909 @@
+<Palette FileRevision="22.0.0" Revision="22.0.1" option="0"><ItemID idValue="{E621E870-F060-4BD8-8F61-50C222E4D544}"/><Properties><ItemName>Layouts</ItemName><Images option="0"/><Time createdUniversalDateTime="2012-02-03T04:13:59" modifiedUniversalDateTime="2012-06-20T15:46:37"/></Properties><CustomData>
+		<Translation status="1"/>
+	</CustomData>
+	<Source/><Tools><Tool Revision="18.0.1" option="0"><ItemID idValue="{8640B372-6FA7-4C48-85E4-2F6C4E930C8C}"/><Properties><ItemName>Layouts</ItemName><Images option="0"/><Time createdUniversalDateTime="2008-11-17T07:44:26" modifiedUniversalDateTime="2008-11-17T07:44:26"/></Properties><Source/><ToolType>3</ToolType><StockToolRef/><Data/>
+		</Tool><Tool Revision="18.0.1" option="0"><ItemID idValue="{F1AFAB00-C15A-4B56-9881-0F9C324AE21F}"/><Properties><Images option="0"/><Time createdUniversalDateTime="2008-11-17T07:44:39" modifiedUniversalDateTime="2008-11-17T07:44:39"/></Properties><Source/><ToolType>4</ToolType><StockToolRef/><Data/>
+		</Tool><Tool Revision="18.0.1" option="0"><ItemID idValue="{C7D533EA-9C07-4D49-A2A0-B4C2E469BCFB}"/><Properties><ItemName>Viewports</ItemName><Images option="0"/><Time createdUniversalDateTime="2009-02-25T03:14:51" modifiedUniversalDateTime="2009-02-25T03:14:51"/></Properties><Source/><ToolType>3</ToolType><StockToolRef/><Data/>
+		</Tool><Tool Revision="18.0.1" option="0"><ItemID idValue="{187D0CD2-FB3B-4795-861D-AA0B0A4A3763}"/><Properties><ItemName>Single</ItemName><Images option="0"><Image cx="16" cy="16" IsDark="false" resource="RCDATA_16_VPONE" src="%ProgramBtnRes%"/><Image cx="16" cy="16" IsDark="true" resource="RCDATA_16_VPONE" src="%ProgramBtnRes%"/></Images><Description>Creates a single paperspace viewport:  -VPORTS</Description><Time createdUniversalDateTime="2008-10-14T20:57:22" modifiedUniversalDateTime="2008-10-15T13:55:57"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{2AE7120B-CEE4-47A5-9B50-EF9F3ADE24AC}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3271557126"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Viewports"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="TRUE" lineWeight="-3">
+								<SymbolTableNameRecord>Viewports</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557126"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Command>
+					<Macro><![CDATA[$M=$(if,$(eq,$(getvar,vpmaximizedstate),1),^C^C_-vports,$(if,$(eq,$(getvar,tilemode),1),^C^C_-vports _si,^C^C_-vports)) ]]></Macro>
+				</Command>
+			</Data>
+		</Tool><Tool Revision="18.0.1" option="0"><ItemID idValue="{BD124D16-182E-45D7-B73D-F286434E48FA}"/><Properties><ItemName>Polygonal</ItemName><Images option="0"><Image cx="16" cy="16" IsDark="false" resource="RCDATA_16_VPPOLY" src="%ProgramBtnRes%"/><Image cx="16" cy="16" IsDark="true" resource="RCDATA_16_VPPOLY" src="%ProgramBtnRes%"/></Images><Description>Creates an irregularly shaped viewport using specified points:  -VPORTS</Description><Time createdUniversalDateTime="2008-10-14T20:57:22" modifiedUniversalDateTime="2008-10-15T13:56:39"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{2AE7120B-CEE4-47A5-9B50-EF9F3ADE24AC}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3271557126"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Viewports"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="TRUE" lineWeight="-3">
+								<SymbolTableNameRecord>Viewports</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557126"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Command>
+					<Macro><![CDATA[$M=$(if,$(eq,$(getvar,vpmaximizedstate),1),^C^C_-vports,$(if,$(eq,$(getvar,tilemode),0),^C^C_-vports _p,^C^C^P(ai_viewports_alert)^P)) ]]></Macro>
+				</Command>
+			</Data>
+		</Tool><Tool Revision="18.0.1" option="0"><ItemID idValue="{BE55A0B7-2297-4927-8492-AECFE9E7554D}"/><Properties><Images option="0"/><Time createdUniversalDateTime="2008-06-16T10:28:04" modifiedUniversalDateTime="2008-06-16T10:28:04"/></Properties><Source/><ToolType>4</ToolType><StockToolRef/><Data/>
+		</Tool><Tool Revision="18.0.1" option="0"><ItemID idValue="{4569FC5D-60E9-4C01-B397-FB41001AF17D}"/><Properties><ItemName>Amendment Tags</ItemName><Images option="0"/><Time createdUniversalDateTime="2010-06-06T02:45:09" modifiedUniversalDateTime="2010-06-06T02:45:09"/></Properties><Source/><ToolType>3</ToolType><StockToolRef/><Data/>
+		</Tool><Tool Revision="18.0.1" option="0"><ItemID idValue="{41B56144-BAB3-4946-8EC2-B5E013084CD8}"/><Properties><ItemName>Add Notes</ItemName><Images option="0"><Image cx="16" cy="16" IsDark="false" resource="RCDATA_16_MTEXT" src="%ProgramBtnRes%"/><Image cx="16" cy="16" IsDark="true" resource="RCDATA_16_MTEXT" src="%ProgramBtnRes%"/></Images><Description>Add Notes to Layout</Description><Time createdUniversalDateTime="2008-02-01T05:25:21" modifiedUniversalDateTime="2011-03-20T16:28:09"/></Properties><CustomData>
+				<AcRxClassInfo className="AcDbMText"/>
+				<ToolbarButton idButton="ID_Mtext"/>
+			</CustomData>
+			<Source/><ToolType>1</ToolType><StockToolRef idValue="{2AE7120B-CEE4-47A5-9B50-EF9F3ADE24AC}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="2" value="0"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="iecARIAL"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<TextstyleTableRecord isShapeFilePointer="FALSE" fontOrShapeFile="ARIAL.TTF" isMirroredinX="FALSE" isMirroredinY="FALSE" isVertical="FALSE" widthRatio="1.000000">
+								<SymbolTableNameRecord>iecARIAL</SymbolTableNameRecord>
+								<FixedTextHeight>2.000000</FixedTextHeight>
+								<Obliquing>0.000000</Obliquing>
+								<PriorTextHeight>2.000000</PriorTextHeight>
+								<FontXdata typeFace="Arial" bold="FALSE" italic="FALSE" charSet="0" pitchAndFamily="34"/>
+							</TextstyleTableRecord>
+						</CreateInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Command>
+					<Macro><![CDATA[^C^C_mtext ]]></Macro>
+				</Command>
+			</Data>
+		</Tool><Tool Revision="18.0.1" option="0"><ItemID idValue="{80D2909B-3F94-478E-AAE8-8FA29B61E176}"/><Properties><ItemName>A1 A2</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src="Images\A1 A232.PNG"/><Image cx="64" cy="64" IsDark="false" src="Images\A1 A264.PNG"/></Images><Description>Amendment Tag for A1 and A2 sheets</Description><Time createdUniversalDateTime="2007-10-09T23:15:17" modifiedUniversalDateTime="2012-07-16T12:38:41"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>Amendment Tag A1-A2</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Notes.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.1" option="0"><ItemID idValue="{353A0BF7-57A9-44BF-B1A0-A24C4F424151}"/><Properties><ItemName>A3</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_0FF37643-0621-4694-8060-32DEBA080C8C.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_0FF37643-0621-4694-8060-32DEBA080C8C_2.PNG"/></Images><Description>Amendment Tag for A3 Sheet</Description><Time createdUniversalDateTime="2007-10-09T23:15:17" modifiedUniversalDateTime="2012-07-16T12:38:41"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>Amendment Tag A3</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Notes.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.1" option="0"><ItemID idValue="{C3094E19-18A9-428A-A694-2BCACF50BCEC}"/><Properties><ItemName>A4</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_5AE3C5AB-CBB2-4527-A20A-CEDE6395C436.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_5AE3C5AB-CBB2-4527-A20A-CEDE6395C436_2.PNG"/></Images><Description>Amendment Tag for A4 Sheet</Description><Time createdUniversalDateTime="2007-10-09T23:15:17" modifiedUniversalDateTime="2012-07-16T12:38:41"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>Amendment Tag A4</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Notes.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.1" option="0"><ItemID idValue="{D6201160-0420-413F-A9DD-F6B6FB46079F}"/><Properties><ItemName>Callout</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_6A42D537-A796-4658-89D1-A565C62FD6CB.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_6A42D537-A796-4658-89D1-A565C62FD6CB_2.PNG"/></Images><Description>Add Callout to drawing</Description><Time createdUniversalDateTime="2007-10-09T23:15:17" modifiedUniversalDateTime="2012-06-20T18:16:32"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3221225472"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>CALLOUT_SP</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Notes.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>0</PromptRotation>
+					<Explode>1</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.1" option="0"><ItemID idValue="{40612F70-EE93-45BC-BEDF-40B5F2701131}"/><Properties><ItemName>North Points</ItemName><Images option="0"/><Time createdUniversalDateTime="2012-02-03T04:22:20" modifiedUniversalDateTime="2012-02-03T04:22:20"/></Properties><Source/><ToolType>3</ToolType><StockToolRef/><Data/>
+		</Tool><Tool Revision="18.0.1" option="0"><ItemID idValue="{C402DD9A-FE6F-4D0C-809D-B7C4918B42C5}"/><Properties><ItemName>NorthPnt 10</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_EDFB6C4F-2A44-4D89-A35B-2F112C07DCA4.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_EDFB6C4F-2A44-4D89-A35B-2F112C07DCA4_2.PNG"/></Images><Time createdUniversalDateTime="2007-10-09T23:15:17" modifiedUniversalDateTime="2012-07-19T10:52:26"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3271557127"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>NorthPnt 10</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Northpoints.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.1" option="0"><ItemID idValue="{5F5516EF-1E18-4605-94F7-4AC4230589AB}"/><Properties><ItemName>NorthPnt 11</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_0BDEEE75-A404-4731-B7BB-863090091387.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_0BDEEE75-A404-4731-B7BB-863090091387_2.PNG"/></Images><Time createdUniversalDateTime="2007-10-09T23:15:17" modifiedUniversalDateTime="2012-07-19T10:52:26"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3271557127"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>NorthPnt 11</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Northpoints.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.1" option="0"><ItemID idValue="{5811EA71-E724-4015-846E-E6B77919C93B}"/><Properties><ItemName>NorthPnt 12</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_86F64895-9EF6-4A11-A986-1389290E7103.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_86F64895-9EF6-4A11-A986-1389290E7103_2.PNG"/></Images><Time createdUniversalDateTime="2007-10-09T23:15:17" modifiedUniversalDateTime="2012-07-19T10:52:26"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3271557127"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>NorthPnt 12</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Northpoints.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.1" option="0"><ItemID idValue="{7FAA3806-1444-47B2-A912-E34B5AC3F6E3}"/><Properties><ItemName>NorthPnt 8</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Block tool_3FFBF4F9-E982-4F73-9A99-7F5107F79AA3.PNG"/><Image cx="64" cy="64" IsDark="false" src=".\Images\Block tool_3FFBF4F9-E982-4F73-9A99-7F5107F79AA3_2.PNG"/></Images><Time createdUniversalDateTime="2007-10-09T23:15:17" modifiedUniversalDateTime="2012-07-19T10:52:26"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/><Data>
+				<GeneralProperties>
+					<Color>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<AcCmColor mRGB="3271557127"/>
+						</CreateInfo>
+					</Color>
+					<Layer>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="Notes"/>
+						</BasicPropInfo>
+						<CreateInfo>
+							<LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+								<SymbolTableNameRecord>Notes</SymbolTableNameRecord>
+								<Linetype>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+									</BasicPropInfo>
+								</Linetype>
+								<Color>
+									<BasicPropInfo>
+										<PropValue unspecified="FALSE"/>
+									</BasicPropInfo>
+									<CreateInfo>
+										<AcCmColor mRGB="3271557127"/>
+									</CreateInfo>
+								</Color>
+							</LayerTableRecord>
+						</CreateInfo>
+					</Layer>
+					<Linetype>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+						</BasicPropInfo>
+					</Linetype>
+					<LinetypeScale>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="3" value="0"/>
+						</BasicPropInfo>
+					</LinetypeScale>
+					<PlotStyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</PlotStyle>
+					<LineWeight>
+						<BasicPropInfo>
+							<PropValue unspecified="FALSE" valueType="2" value="-1"/>
+						</BasicPropInfo>
+					</LineWeight>
+					<Textstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Textstyle>
+					<Dimstyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Dimstyle>
+					<Tablestyle>
+						<BasicPropInfo>
+							<PropValue unspecified="TRUE" valueType="1"/>
+						</BasicPropInfo>
+					</Tablestyle>
+				</GeneralProperties>
+				<Block>
+					<BlockType>1</BlockType>
+					<BlockTypeEx>0</BlockTypeEx>
+					<BlockName>NorthPnt 8</BlockName>
+					<SourceFile>C:\ACAD2018_GISCAD\symbols\Northpoints.dwg</SourceFile>
+					<InsertAs>1</InsertAs>
+					<XrefType>0</XrefType>
+					<Scale>1</Scale>
+					<AuxiliaryScale>NONE</AuxiliaryScale>
+					<Rotation>0</Rotation>
+					<PromptRotation>1</PromptRotation>
+					<Explode>0</Explode>
+				</Block>
+			</Data>
+		</Tool><Tool Revision="18.0.0" option="0"><ItemID idValue="{3AC7ED44-2E49-4D86-84D3-B70A6A158FE6}"/><Properties><Images option="0"/><Time createdUniversalDateTime="2012-06-20T05:46:45" modifiedUniversalDateTime="2012-06-20T05:46:45"/></Properties><Source/><ToolType>4</ToolType><StockToolRef/><Data/>
+		</Tool><Tool Revision="22.0.0" option="27"><ItemID idValue="{8B4B92A9-D794-46A0-B175-26F6ED65E015}"/><Properties><ItemName>Callout Enhanced</ItemName><Images option="0"><Image cx="32" cy="32" IsDark="false" src=".\Images\Multileader32_2.bmp"/></Images><Time createdUniversalDateTime="2012-06-14T04:54:32" modifiedUniversalDateTime="2018-08-08T13:36:44"/></Properties><Source/><ToolType>1</ToolType><StockToolRef idValue="{92280455-DD3B-4263-82C5-369916493F55}"/><Data>
+				<GeneralProperties><Color><BasicPropInfo><PropValue unspecified="FALSE"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3221225472"/></CreateInfo></Color><Layer><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="Notes"/></BasicPropInfo><CreateInfo><LayerTableRecord isNotPlotted="FALSE" lineWeight="-3"><SymbolTableNameRecord>Notes</SymbolTableNameRecord><Linetype><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="Continuous"/></BasicPropInfo></Linetype><Color><BasicPropInfo><PropValue unspecified="FALSE"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3271557127"/></CreateInfo></Color></LayerTableRecord></CreateInfo></Layer><Linetype><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="ByLayer"/></BasicPropInfo></Linetype><LinetypeScale><BasicPropInfo><PropValue unspecified="FALSE" valueType="3" value="1"/></BasicPropInfo></LinetypeScale><PlotStyle><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="ByLayer"/></BasicPropInfo></PlotStyle><LineWeight><BasicPropInfo><PropValue unspecified="FALSE" valueType="2" value="-1"/></BasicPropInfo></LineWeight><Transparency><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Transparency></GeneralProperties><MLeader><MLeaderStyle><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="Callout"/></BasicPropInfo><CreateInfo><MLeaderStyleInfo ContentType="2" DrawMLeaderOrderType="1" DrawLeaderOrderType="0" MaxLeaderSegmentsPoints="4" FirstSegmentAngleConstraint="0" SecondSegmentAngleConstraint="0" LeaderLineType="1" LeaderLineWeight="-1" EnableLanding="TRUE" LandingGap="0.25" EnableDogleg="TRUE" DoglegLength="3" ArrowSize="3" TextLeftAttachmentType="1" TextRightAttachmentType="1" TextAngleType="1" TextAlignmentType="0" TextHeight="2" EnableFrameText="TRUE" AlignSpace="4" EnableBlockScale="TRUE" BlockRotation="0" EnableBlockRotation="TRUE" BlockConnectionType="0" ContentBlockName="Callout" ContentBlockFile="" Scale="1" Annotative="TRUE" dimbreaksize="3.75" AlwaysLeftJustify="FALSE"><LeaderLineColor><BasicPropInfo><PropValue unspecified="FALSE"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3221225472"/></CreateInfo></LeaderLineColor><LeaderLineType><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="ByLayer"/></BasicPropInfo></LeaderLineType><Textstyle><BasicPropInfo><PropValue unspecified="FALSE" valueType="1" value="Standard"/></BasicPropInfo></Textstyle><TextColor><BasicPropInfo><PropValue unspecified="FALSE"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3221225472"/></CreateInfo></TextColor><BlockColor><BasicPropInfo><PropValue unspecified="FALSE"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3221225472"/></CreateInfo></BlockColor></MLeaderStyleInfo></CreateInfo></MLeaderStyle><ContentType>2</ContentType><DefaultText></DefaultText><TextLeftAttachment>1</TextLeftAttachment><TextRightAttachment>1</TextRightAttachment><SourceBlock>Callout</SourceBlock><BlockAttachment>0</BlockAttachment><LeaderType>1</LeaderType><HorizontalLanding>1</HorizontalLanding><LandingGapDistance>0.25</LandingGapDistance><SourceBlockFile>C:\ACAD2018_GISCAD\Symbols\Standards\EE_CAD_Standards.dwt</SourceBlockFile><Scale>1</Scale></MLeader></Data>
+		</Tool><Tool Revision="22.0.1" option="0"><ItemID idValue="{C07569F9-BDB4-482B-B47A-8A74EBF278FE}"/><Properties><Images option="0"/><Time createdUniversalDateTime="2018-04-14T02:18:15" modifiedUniversalDateTime="2018-04-14T02:18:15"/></Properties><ToolType>4</ToolType><StockToolRef/><Data/></Tool><Tool Revision="22.0.1" option="0"><ItemID idValue="{A8EE1C82-6D23-4F36-AFCD-B2C3DB8F3136}"/><Properties><Images option="0"/><Time createdUniversalDateTime="2018-04-14T02:18:18" modifiedUniversalDateTime="2018-04-14T02:18:18"/></Properties><ToolType>4</ToolType><StockToolRef/><Data/></Tool><Tool Revision="22.0.1" option="0"><ItemID idValue="{6D031B0E-1164-455B-B251-91BACC491500}"/><Properties><Images option="0"/><Time createdUniversalDateTime="2018-04-14T02:18:20" modifiedUniversalDateTime="2018-04-14T02:18:20"/></Properties><ToolType>4</ToolType><StockToolRef/><Data/></Tool></Tools></Palette>
